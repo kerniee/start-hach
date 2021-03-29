@@ -1,7 +1,7 @@
 import { connect } from "react-redux";
 import React from "react";
 import PropTypes from "prop-types";
-import { withRouter } from "react-router";
+import {Route, withRouter} from "react-router";
 import {
   Navbar,
   Nav,
@@ -20,8 +20,6 @@ import {
   Badge,
   ButtonGroup,
   Button,
-  Form,
-  FormGroup,
 } from "reactstrap";
 import Notifications from "../Notifications";
 import PowerIcon from "../Icons/HeaderIcons/PowerIcon";
@@ -49,6 +47,7 @@ import avatar from "../../assets/people/a7.jpg";
 
 import s from "./Header.module.scss";
 import "animate.css";
+import SearchUserBar from "./SearchUser";
 
 class Header extends React.Component {
   static propTypes = {
@@ -187,22 +186,8 @@ class Header extends React.Component {
               />
             </InputGroup>
           </Collapse>
-          <Form className="d-md-down-none mr-3 ml-3" inline>
-            <FormGroup>
-              <InputGroup className={`input-group-no-border ${s.searchForm}`}>
-                <InputGroupAddon addonType="prepend">
-                  <InputGroupText className={s.inputGroupText}>
-                    <SearchIcon className={s.headerIcon} />
-                  </InputGroupText>
-                </InputGroupAddon>
-                <Input
-                  id="search-input"
-                  className="input-transparent"
-                  placeholder="Search Dashboard"
-                />
-              </InputGroup>
-            </FormGroup>
-          </Form>
+
+          <Route component={SearchUserBar} />
 
           <Nav className="ml-md-0">
             <Dropdown

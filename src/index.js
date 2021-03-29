@@ -7,6 +7,8 @@ import * as serviceWorker from './serviceWorker';
 
 import App from './components/App';
 import reducers from './reducers';
+import {BrowserRouter} from "react-router-dom";
+import {Route} from "react-router";
 
 const store = createStore(
   reducers,
@@ -15,7 +17,11 @@ const store = createStore(
 
 ReactDOM.render(
     <Provider store={store}>
-        <App />
+        <BrowserRouter>
+            <div>
+                <Route component={App} />
+            </div>
+        </BrowserRouter>
     </Provider>,
     document.getElementById('root')
 );
