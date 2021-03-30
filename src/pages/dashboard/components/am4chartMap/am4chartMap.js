@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 import * as am4core from "@amcharts/amcharts4/core";
 import * as am4maps from "@amcharts/amcharts4/maps";
 import cities from './mock';
-import am4geodata_usaHigh from "@amcharts/amcharts4-geodata/usaHigh";
+// import am4geodata_usaHigh from "@amcharts/amcharts4-geodata/usaHigh";
+import am4geodata_worldLow from "@amcharts/amcharts4-geodata/worldLow";
 
 import AnimateNumber from 'react-animated-number';
 import s from './am4chartMap.module.scss';
@@ -12,10 +13,12 @@ import s from './am4chartMap.module.scss';
   
   componentDidMount() {
     let map = am4core.create("map", am4maps.MapChart);
-    map.geodata = am4geodata_usaHigh;
+    map.geodata = am4geodata_worldLow;
     map.percentHeight = 90;
     map.dy = 10;
-    map.projection = new am4maps.projections.AlbersUsa();
+    map.projection = new am4maps.projections.Orthographic();
+    map.panBehavior = "rotateLongLat";
+
     let polygonSeries = map.series.push(new am4maps.MapPolygonSeries());
     polygonSeries.useGeodata = true;
     map.homeZoomLevel = 1.2;

@@ -149,20 +149,6 @@ class Header extends React.Component {
             </NavLink>
         </div>
         <div className={`d-print-none ${s.root}`}>
-          <UncontrolledAlert
-            className={`${s.alert} mr-3 d-lg-down-none animate__animated animate__bounceIn animate__delay-1s`}
-          >
-            Check out Light Blue{" "}
-            <button
-              className="btn-link"
-              onClick={() => this.setState({ settingsOpen: true })}
-            >
-              <SettingsIcon className={s.settingsIcon} />
-            </button>{" "}
-            on the right!
-          </UncontrolledAlert>
-        </div>
-        <div className={`d-print-none ${s.root}`}>
           <Collapse
             className={`${s.searchCollapse} ml-lg-0 mr-md-3`}
             isOpen={this.state.searchOpen}
@@ -197,23 +183,14 @@ class Header extends React.Component {
               id="basic-nav-dropdown"
               className={`${s.notificationsMenu}`}
             >
-              <DropdownToggle nav caret style={{ color: "#C1C3CF", padding: 0 }}>
+              <DropdownToggle nav>
                 <span
                   className={`${s.avatar} rounded-circle thumb-sm float-left`}
                 >
                   <img src={avatar} alt="..." />
                 </span>
                 <span className={`small d-sm-down-none ${s.accountCheck}`}>Philip smith</span>
-                <Badge className={`d-sm-down-none ${s.badge}`} color="danger">
-                  9
-                </Badge>
               </DropdownToggle>
-              <DropdownMenu
-                right
-                className={`${s.notificationsWrapper} py-0 animate__animated animate__faster animate__fadeInUp`}
-              >
-                <Notifications />
-              </DropdownMenu>
             </Dropdown>
             <NavItem className="d-lg-none">
               <NavLink
@@ -224,49 +201,6 @@ class Header extends React.Component {
                 <SearchIcon addId='header-search' className={s.headerIcon} />
               </NavLink>
             </NavItem>
-            <Dropdown
-              className="d-none d-sm-block"
-              nav
-              isOpen={this.state.messagesOpen}
-              toggle={this.toggleMessagesDropdown}
-            >
-              <DropdownToggle nav className={`d-sm-down-none ${s.navItem} text-white`}>
-                <MessageIcon className={s.headerIcon} />
-              </DropdownToggle>
-              <DropdownMenu className={`${s.dropdownMenu} ${s.messages}`}>
-                <DropdownItem>
-                  <img className={s.image} src={sender1} alt="" />
-                  <div className={s.details}>
-                    <div>Jane Hew</div>
-                    <div className={s.text}>Hey, John! How is it going? ...</div>
-                  </div>
-                </DropdownItem>
-                <DropdownItem>
-                  <img className={s.image} src={sender2} alt="" />
-                  <div className={s.details}>
-                    <div>Alies Rumiancaŭ</div>
-                    <div className={s.text}>
-                      I will definitely buy this template
-                    </div>
-                  </div>
-                </DropdownItem>
-                <DropdownItem>
-                  <img className={s.image} src={sender3} alt="" />
-                  <div className={s.details}>
-                    <div>Michał Rumiancaŭ</div>
-                    <div className={s.text}>
-                      Is it really Lore ipsum? Lore ...
-                    </div>
-                  </div>
-                </DropdownItem>
-                <DropdownItem>
-                  {/* eslint-disable-next-line */}
-                  <a href="#" className="text-white">
-                    See all messages <ArrowIcon className={s.headerIcon} maskName="messagesArrow" />
-                  </a>
-                </DropdownItem>
-              </DropdownMenu>
-            </Dropdown>
             <NavItem className={`${s.divider} d-none d-sm-block`} />
             <Dropdown
               className="d-none d-sm-block"
