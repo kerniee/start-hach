@@ -51,7 +51,7 @@ class SearchUserBar extends React.Component {
                         <Input
                             id="search-input"
                             className="input-transparent"
-                            placeholder="Search2 Dashboard"
+                            placeholder="Search Dashboard"
                             onChange={this.handleTermChange}
                             onKeyDown={this.handleEnter}
                         />
