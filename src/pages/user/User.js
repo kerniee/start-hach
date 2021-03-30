@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import s from './User.module.scss';
 import Chart from "react-apexcharts";
 
@@ -137,7 +137,7 @@ class ApexChart extends React.Component {
     super(props);
 
     this.state = {
-      series: series,
+      series: props.series,
       options: {
         chart: {
           height: 450,
@@ -207,7 +207,6 @@ class ApexChart extends React.Component {
     };
   }
 
-
   render() {
     return (
       <div id="chartttt">
@@ -217,56 +216,53 @@ class ApexChart extends React.Component {
   }
 }
 
+function InfoListElem(props) {
+  return <p>
+    <span className="fw-semi-bold pr-2">{props.first}:</span>
+    {props.second}
+  </p>
+}
 
-class User extends React.Component {
-  render() {
-    return (
-      <div className={s.root}>
-        <h1 className="page-title">
-          User <span className="fw-semi-bold">#1</span>
-        </h1>
-        <Row>
-          <Col lg={3} xs={12}>
-            <Widget
-              title={
-                <h4>
-                  Info
-                </h4>
-              }
-              close collapse >
-              <p>
-                <span className="fw-semi-bold pr-2">OS:</span>
-                Windows 10
-              </p>
-              <p className="display-flex align-items-center">
-                <span className="fw-semi-bold pr-2">Geolocation:</span>Russia, Innopolis
-              </p>
-              <p>
-                <span className="glyphicon glyphicon-globe p-1" />
-                <span className="fw-semi-bold pr-2">IP:</span>
-                123.123.123.123
-              </p>
-              <p>
-                <span className="fw-semi-bold pr-2">User-Agent:</span>Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0)
-                Gecko/20100101 Firefox/47.0
-              </p>
-            </Widget>
-          </Col>
-          <Col lg={9} xs={12}>
-            <Widget
-              title={
-                <h4>
-                  Content statistics
-                </h4>
-              }
-              close collapse>
-              <ApexChart/>
-            </Widget>
-          </Col>
-        </Row>
-      </div>
-    );
-  }
+function InfoList(props) {
+  return props.info.map((pair, _) => {
+    return <InfoListElem first={pair[0]} second={pair[1]}/>
+  })
+}
+
+function User() {
+  const [state] = useState({
+    info: [
+      ["OS", "Windows 10"],
+      ["Geolocation", "Russia, Innopolis"],
+      ["IP", "123.123.123.123"],
+      ["User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"]
+    ]
+  })
+  return (
+    <div className={s.root}>
+      <h1 className="page-title">
+        User <span className="fw-semi-bold">#1</span>
+      </h1>
+      <Row>
+        <Col lg={3} xs={12}>
+          <Widget title={<h4>Info</h4>} close collapse>
+            <InfoList info={state.info}/>
+          </Widget>
+        </Col>
+        <Col lg={9} xs={12}>
+          <Widget
+            title={
+              <h4>
+                Content statistics
+              </h4>
+            }
+            close collapse>
+            <ApexChart series={series}/>
+          </Widget>
+        </Col>
+      </Row>
+    </div>
+  );
 }
 
 export default User;
