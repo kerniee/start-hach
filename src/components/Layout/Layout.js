@@ -19,6 +19,7 @@ import BreadcrumbHistory from '../BreadcrumbHistory';
 import { openSidebar, closeSidebar } from '../../actions/navigation';
 import s from './Layout.module.scss';
 import User from "../../pages/user";
+import Session from "../../pages/session";
 
 class Layout extends React.Component {
   static propTypes = {
@@ -86,6 +87,7 @@ class Layout extends React.Component {
                     <Route path="/app/tables" exact component={TablesStatic} />
                     <Route path="/app/components/maps" exact component={MapsGoogle} />
                     <Route path="/app/users/:user_id" exact component={User} />
+                    <Route path="/app/sessions/:session_id" exact component={Session} />
                     <Route path="/app/typography" exact component={CoreTypography} />
                   </Switch>
                 </CSSTransition>
