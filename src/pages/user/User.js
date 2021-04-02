@@ -1,266 +1,65 @@
-import React, {useState} from 'react';
+import React from 'react';
 import s from './User.module.scss';
-import Chart from "react-apexcharts";
 
-import config from "../components/charts/config";
 import {Col, Row} from "reactstrap";
 import Widget from "../../components/Widget";
+import InfoList from "../../components/InfoList";
+import {const_profiles, sessions, userInfo} from "./mockData";
+import {createStore} from "redux";
+import userReducer from "../../reducers/user";
+import {Provider} from "react-redux";
+import ProfilesToggleBox from "./ProfilesToggleBox";
+import SessionBox from "./SessionBox";
 
-const colors = config.chartColors;
-let columnColors = [
-  colors.blue,
-  colors.green,
-  colors.red,
-];
-
-
-//charts(FusionCharts)
-
-const series = [
-  {
-    name: 'Buffer',
-    data: [
-      {
-        x: 'Content 1',
-        y: [
-          new Date('2019-03-05T03:00:00').getTime(),
-          new Date('2019-03-05T03:30:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 2',
-        y: [
-          new Date('2019-03-05T03:20:00').getTime(),
-          new Date('2019-03-05T03:50:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 2',
-        y: [
-          new Date('2019-03-05T03:40:00').getTime(),
-          new Date('2019-03-05T04:00:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 3',
-        y: [
-          new Date('2019-03-05T02:50:00').getTime(),
-          new Date('2019-03-05T02:55:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 3',
-        y: [
-          new Date('2019-03-05T03:00:00').getTime(),
-          new Date('2019-03-05T03:10:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 4',
-        y: [
-          new Date('2019-03-05T03:30:00').getTime(),
-          new Date('2019-03-05T03:40:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 2',
-        y: [
-          new Date('2019-03-05T05:00:00').getTime(),
-          new Date('2019-03-05T05:10:00').getTime()
-        ]
-      }
-    ]
-  },
-  {
-    name: 'Pause',
-    data: [
-      {
-        x: 'Content 1',
-        y: [
-          new Date('2019-03-05T03:10:00').getTime(),
-          new Date('2019-03-05T03:20:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 2',
-        y: [
-          new Date('2019-03-05T03:50:00').getTime(),
-          new Date('2019-03-05T04:10:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 3',
-        y: [
-          new Date('2019-03-05T04:30:00').getTime(),
-          new Date('2019-03-05T04:40:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 4',
-        y: [
-          new Date('2019-03-05T04:40:00').getTime(),
-          new Date('2019-03-05T04:45:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 4',
-        y: [
-          new Date('2019-03-05T03:05:00').getTime(),
-          new Date('2019-03-05T03:20:00').getTime()
-        ]
-      }
-    ]
-  },
-  {
-    name: 'Error',
-    data: [
-      {
-        x: 'Content 1',
-        y: [
-          new Date('2019-03-05T03:45:00').getTime(),
-          new Date('2019-03-05T03:46:00').getTime()
-        ]
-      },
-      {
-        x: 'Content 2',
-        y: [
-          new Date('2019-03-05T03:00:00').getTime(),
-          new Date('2019-03-05T03:10:00').getTime()
-        ]
-      },
-    ]
+export function createProfiles(profiles) {
+  let arr = Array(profiles.length);
+  for (let i = 0; i < profiles.length; i++) {
+    arr[i] = {
+      name: profiles[i],
+      show: true
+    }
   }
-]
+  return arr;
+}
 
-class ApexChart extends React.Component {
-  constructor(props) {
-    super(props);
+// const info = {
+//   profiles:,
+//   sessions: sessions
+// }
 
-    this.state = {
-      series: props.series,
-      options: {
-        chart: {
-          height: 450,
-          type: 'rangeBar'
-        },
-        plotOptions: {
-          bar: {
-            horizontal: true,
-            barHeight: '80%'
-          }
-        },
-        xaxis: {
-          type: 'datetime',
-          labels: {
-            style: {
-              colors: colors.textColor,
-              fontSize: "14px",
-            },
-          },
-          axisBorder: {
-            show: true,
-            color: colors.gridLineColor
-          },
-        },
-        yaxis: {
-          labels: {
-            style: {
-              colors: colors.textColor,
-              fontSize: "14px",
-            },
-          },
-          axisBorder: {
-            show: true,
-            color: colors.textColor
-          },
-        },
-        colors: columnColors,
-        tooltip: {
-          theme: "dark",
-          x: {
-            format: 'yy.MM.dd HH:mm:ss',
-          }
-        },
-        grid: {
-          borderColor: colors.gridLineColor,
-        },
-        stroke: {
-          width: 1
-        },
-        fill: {
-          type: 'solid',
-          opacity: 0.6
-        },
-        legend: {
-          position: 'top',
-          horizontalAlign: 'left',
-          show: true,
-          labels: {
-            colors: colors.textColor,
-          },
-          itemMargin: {
-            horizontal: 10,
-            vertical: 5
-          },
-        }
-      },
-    };
-  }
 
-  render() {
-    return (
-      <div id="chartttt">
-        <Chart options={this.state.options} series={this.state.series} type="rangeBar" height={350}/>
-      </div>
-    );
+function getAllUserInfo() {
+  return {
+    info: userInfo,
+    sessions: sessions,
+    profiles: createProfiles(const_profiles)
   }
 }
 
-function InfoListElem(props) {
-  return <p>
-    <span className="fw-semi-bold pr-2">{props.first}:</span>
-    {props.second}
-  </p>
-}
-
-function InfoList(props) {
-  return props.info.map((pair, _) => {
-    return <InfoListElem first={pair[0]} second={pair[1]}/>
-  })
-}
+console.log(getAllUserInfo())
+const store = createStore(userReducer, getAllUserInfo(),
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+)
 
 function User() {
-  const [state] = useState({
-    info: [
-      ["OS", "Windows 10"],
-      ["Geolocation", "Russia, Innopolis"],
-      ["IP", "123.123.123.123"],
-      ["User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"]
-    ]
-  })
   return (
     <div className={s.root}>
       <h1 className="page-title">
         User <span className="fw-semi-bold">#1</span>
       </h1>
-      <Row>
-        <Col lg={3} xs={12}>
-          <Widget title={<h4>Info</h4>} close collapse>
-            <InfoList info={state.info}/>
-          </Widget>
-        </Col>
-        <Col lg={9} xs={12}>
-          <Widget
-            title={
-              <h4>
-                Content statistics
-              </h4>
-            }
-            close collapse>
-            <ApexChart series={series}/>
-          </Widget>
-        </Col>
-      </Row>
+      <Provider store={store}>
+        <Row>
+          <Col lg={3} xs={12}>
+            <Widget title={<h4>Info</h4>} close collapse>
+              <InfoList info={userInfo}/>
+            </Widget>
+          </Col>
+          <Col lg={9} xs={12}>
+            <ProfilesToggleBox/>
+            <SessionBox/>
+          </Col>
+        </Row>
+      </Provider>
     </div>
   );
 }
