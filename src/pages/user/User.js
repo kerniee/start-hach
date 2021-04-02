@@ -6,12 +6,12 @@ import Widget from "../../components/Widget";
 import InfoList from "../../components/InfoList";
 import {const_profiles, sessions, userInfo} from "./mockData";
 import {createStore} from "redux";
-import user from "../../reducers/user";
+import userReducer from "../../reducers/user";
 import {Provider} from "react-redux";
 import ProfilesToggleBox from "./ProfilesToggleBox";
 import SessionBox from "./SessionBox";
 
-function createProfiles(profiles) {
+export function createProfiles(profiles) {
   let arr = Array(profiles.length);
   for (let i = 0; i < profiles.length; i++) {
     arr[i] = {
@@ -37,7 +37,7 @@ function getAllUserInfo() {
 }
 
 console.log(getAllUserInfo())
-const store = createStore(user, getAllUserInfo(),
+const store = createStore(userReducer, getAllUserInfo(),
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
 )
 

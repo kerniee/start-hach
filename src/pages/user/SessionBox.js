@@ -1,12 +1,12 @@
 import Widget from "../../components/Widget";
 import React from "react";
 import {connect} from "react-redux";
-import toggle from "../../actions/userPage";
+import toggle from "../../actions/sessionPage";
 import {Col, Row} from "reactstrap";
-import config from "../components/charts/config";
 import {ColorBar} from "./ColorBar";
 import s from './User.module.scss';
 import {Link} from "react-router-dom";
+import {barColors} from "../../components/Colors";
 
 const mapStateToProps = state => {
   const trueProfiles = state.profiles.reduce((result, prof, i) => {
@@ -22,16 +22,7 @@ const mapStateToProps = state => {
   }
 };
 
-const colors = config.chartColors;
-export const sessionBarColor = [
-  colors.blue,
-  colors.green,
-  colors.red,
-  colors.orange,
-  colors.pink,
-  colors.purple,
-  colors.teal
-];
+const sessionBarColor = barColors;
 
 function SessionRow({session, i}) {
   const data = session.profiles.map(prof => ({

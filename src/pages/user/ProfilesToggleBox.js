@@ -5,7 +5,6 @@ import ToggleBox from "../../components/ToggleBox";
 
 const mapStateToProps = state => {
   const profiles = state.profiles;
-  console.log("MAP STATE")
   return {profiles};
 };
 
@@ -20,7 +19,7 @@ class ProfilesToggleBox extends React.Component {
   render() {
     console.log("RENDER PROFILE")
     return (
-      <ToggleBox name={"Profiles"} profiles={this.props.profiles}
+      <ToggleBox name={"Profiles"} items={this.props.profiles}
                  onChangeHandler={this.handleToggle}/>
     );
   }
