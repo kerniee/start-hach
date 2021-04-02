@@ -119,70 +119,79 @@ const series = [
 ]
 
 const options = {
-    chart: {
-      height: 450,
-      type: 'rangeBar'
-    },
-    plotOptions: {
-      bar: {
-        horizontal: true,
-        barHeight: '80%'
-      }
-    },
-    xaxis: {
-      type: 'datetime',
-      labels: {
-        style: {
-          colors: colors.textColor,
-          fontSize: "14px",
-        },
-      },
-      axisBorder: {
-        show: true,
-        color: colors.gridLineColor
-      },
-    },
-    yaxis: {
-      labels: {
-        style: {
-          colors: colors.textColor,
-          fontSize: "14px",
-        },
-      },
-      axisBorder: {
-        show: true,
-        color: colors.textColor
-      },
-    },
-    colors: columnColors,
-    tooltip: {
-      theme: "dark",
-      x: {
-        format: 'yy.MM.dd HH:mm:ss',
-      }
-    },
-    grid: {
-      borderColor: colors.gridLineColor,
-    },
-    stroke: {
-      width: 1
-    },
-    fill: {
-      type: 'solid',
-      opacity: 0.6
-    },
-    legend: {
-      position: 'top',
-      horizontalAlign: 'left',
-      show: true,
-      labels: {
-        colors: colors.textColor,
-      },
-      itemMargin: {
-        horizontal: 10,
-        vertical: 5
-      },
+  chart: {
+    height: 450,
+    type: 'rangeBar',
+    animations: {
+      enabled: false
     }
+  },
+  markers: {
+    size: 0
+  },
+  plotOptions: {
+    bar: {
+      horizontal: true,
+      barHeight: '80%'
+    }
+  },
+  xaxis: {
+    type: 'datetime',
+    labels: {
+      style: {
+        colors: colors.textColor,
+        fontSize: "14px",
+      },
+    },
+    axisBorder: {
+      show: true,
+      color: colors.gridLineColor
+    },
+  },
+  yaxis: {
+    labels: {
+      style: {
+        colors: colors.textColor,
+        fontSize: "14px",
+      },
+    },
+    axisBorder: {
+      show: true,
+      color: colors.textColor
+    },
+  },
+  colors: columnColors,
+  tooltip: {
+    theme: "dark",
+    x: {
+      format: 'yy.MM.dd HH:mm:ss',
+    }
+  },
+  grid: {
+    borderColor: colors.gridLineColor,
+  },
+  stroke: {
+    width: 1
+  },
+  fill: {
+    type: 'solid',
+    opacity: 0.6
+  },
+  dataLabels: {
+    enabled: false
+  },
+  legend: {
+    position: 'top',
+    horizontalAlign: 'left',
+    show: true,
+    labels: {
+      colors: colors.textColor,
+    },
+    itemMargin: {
+      horizontal: 10,
+      vertical: 5
+    },
   }
+}
 
 export {series, options};
