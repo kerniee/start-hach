@@ -189,7 +189,7 @@ class Header extends React.Component {
                 >
                   <img src={avatar} alt="..." />
                 </span>
-                <span className={`small d-sm-down-none ${s.accountCheck}`}>Philip smith</span>
+                <span className={`small d-sm-down-none ${s.accountCheck}`}>John Smith</span>
               </DropdownToggle>
             </Dropdown>
             <NavItem className="d-lg-none">
