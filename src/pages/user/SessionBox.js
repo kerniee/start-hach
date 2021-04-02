@@ -39,10 +39,19 @@ function SessionRow({session, i}) {
   }))
   return (
     <Row className={"pb-3"}>
-      <div className={s.sessionRow + " flex"}>
-        {session.info}
-        <Link to={"/app/sessions/" + i.toString()} className="btn btn-default">More</Link>
+      <div className={s.sessionRow + " flex p-0"}>
+        <div className={"w-100"} style={{display: "flex"}}>
+          <Col xs={9} className={"p-3 align-self-center"}>
+            {session.info}
+          </Col>
+          <Col xs={3} className={"p-3"}>
+            <Link to={"/app/sessions/" + i.toString()}
+                  className="btn btn-default w-100 h-100"
+                  style={{paddingTop: 1, paddingBottom: 1}}>More</Link>
+          </Col>
+        </div>
       </div>
+
       <ColorBar data={data}/>
     </Row>
   );
