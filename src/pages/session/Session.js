@@ -4,61 +4,22 @@ import s from './Session.module.scss';
 import {Col, Row} from "reactstrap";
 import Widget from "../../components/Widget";
 import InfoList from "../../components/InfoList";
-import serverData from "./mockDataServer"
-import {createStore} from "redux";
+import {applyMiddleware, createStore} from "redux";
 import sessionReducer from "../../reducers/session";
 import ApexChartBox from "./ApexChartBox";
 import {Provider, connect } from "react-redux";
 import SessionToggleBox from "./SessionToggleBox";
-import {createProfiles} from "../../reducers/user";
+import {composeWithDevTools} from "redux-devtools-extension";
+import thunkMiddleware from "redux-thunk";
+import {fetchSession} from "../../actions/sessionPage";
 
-
-function transformServerData(data) {
-  let allContent = new Set();
-  let events = {}
-  data.actions.forEach(event => {
-    if(event.action_id === "buffer_start") {
-      return;
-    }
-    if(!(event.action_id in events)) {
-      events[event.action_id] = []
-    }
-
-    let startDate = new Date(event.event_time);
-    let endDate = new Date(event.event_time);
-    if (event.action_id === "buffer_stop") {
-      startDate.setMilliseconds(endDate.getMilliseconds() - event.bufferization_time)
-    } else {
-      startDate.setMilliseconds(endDate.getMilliseconds() - 2000);
-    }
-
-    events[event.action_id].push(
-      {
-        x: event.content_id,
-        y: [
-          startDate.getTime(),
-          endDate.getTime()
-        ]
-      }
-    );
-    allContent.add(event.content_id);
-  })
-  const series = Object.keys(events).map(key => ({
-    name: key,
-    data: events[key]
-  }))
-  allContent = createProfiles(Array.from(allContent))
-  return [series, allContent]
-}
-
-
-const [seriesData, allContent] = transformServerData(serverData);
+const composedEnhancer = composeWithDevTools(applyMiddleware(thunkMiddleware))
 const store = createStore(sessionReducer,
   {
-    seriesData: seriesData,
-    allContent: allContent
+    seriesData: [],
+    allContent: []
   },
-  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+  composedEnhancer
 )
 
 
@@ -71,6 +32,10 @@ class Session extends React.Component {
       ["IP", "123.123.123.123"],
       ["User-Agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0"]
     ]
+  }
+  componentDidMount() {
+    const sessionId = this.props.match.params.session_id;
+    store.dispatch(fetchSession(sessionId))
   }
 
   render() {

@@ -38,3 +38,15 @@ export async function getAccount(id) {
   // ]
   return json;
 }
+
+export async function getSession(id) {
+  let json;
+  try {
+    const url = new URL("sessions/" + id.toString(), config.backend.ip).href
+    const resp = await fetch(url)
+    json = await resp.json()
+  } catch (error) {
+    console.log("Get session fetch error")
+  }
+  return json;
+}
