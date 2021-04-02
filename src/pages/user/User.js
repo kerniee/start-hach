@@ -36,7 +36,7 @@ function User(props) {
     const userId = props.match.params.user_id;
     console.log(userId)
     store.dispatch(fetchUser(userId))
-  });
+  }, []);
 
   return (
     <div className={s.root}>
