@@ -2,33 +2,45 @@ import React, { Component } from "react";
 
 import * as am4core from "@amcharts/amcharts4/core";
 import * as am4maps from "@amcharts/amcharts4/maps";
-import { cities, people } from "./mock";
-import data from './data';
+
+import mock_users from './mock/users';
+import mock_errors from './mock/errors';
+import mock_buffering from './mock/buffering';
+import mock_quality from './mock/quality';
+
 import am4geodata_worldLow from "@amcharts/amcharts4-geodata/worldLow";
 
 import s from "./am4chartMap.module.scss";
 
-console.log(data)
+let users = mock_users.sort(() => 0.5 - Math.random()).slice(0, 1057);
+let errors = mock_errors;
+
+let buffering = mock_buffering;
+let average_buff_time = buffering.map(item => item.time).reduce((a, b) => a + b, 0) / buffering.length;
+
+let quality = mock_quality;
+let average_quality = quality.map(item => item.quality).reduce((a, b) => a + b, 0) / quality.length;
+
 let layers = [
   {
     title: "Users",
-    source: data,
+    source: users,
     color: "#C7D0FF"
   },
   {
     title: "Errors",
-    source: people,
-    color: "#FFE66D"
+    source: errors,
+    color: "#FFA630"
   },
   {
     title: "Buffering Time",
-    source: cities,
-    color: "#F6839C"
+    source: buffering,
+    color: "#7DD181"
   },
   {
     title: "Streaming Quality",
-    source: people,
-    color: "#A4AF69"
+    source: quality,
+    color: "#EAD2AC"
   }
 ]
 
@@ -63,6 +75,7 @@ class Am4chartMap extends Component {
   }
 
   componentDidMount() {
+    this.props.updateAverageValues(average_buff_time, average_quality)
     let map = am4core.create("map", am4maps.MapChart);
     map.geodata = am4geodata_worldLow;
     map.percentHeight = 90;
@@ -80,18 +93,24 @@ class Am4chartMap extends Component {
     map.zoomControl.valign = "bottom";
     map.zoomControl.dy = 10;
     map.zoomControl.contentHeight = 20;
-    map.zoomControl.minusButton.background.fill = am4core.color("#C7D0FF");
+
+    map.zoomControl.minusButton.background.fill = am4core.color("#495057");
     map.zoomControl.minusButton.background.stroke = am4core.color("#6979C9");
+    map.zoomControl.minusButton.background.cornerRadius(2, 2, 2, 2);
     map.zoomControl.minusButton.label.text = "–"
+    map.zoomControl.minusButton.label.fill = am4core.color("#efefef");
     map.zoomControl.minusButton.label.fontWeight = 600;
-    map.zoomControl.minusButton.label.fontSize = 22;
+    map.zoomControl.minusButton.label.fontSize = 24;
     map.zoomControl.minusButton.scale = 0.75;
     map.zoomControl.minusButton.label.scale = 0.75;
-    map.zoomControl.plusButton.background.fill = am4core.color("#C7D0FF");
+    
+    map.zoomControl.plusButton.background.fill = am4core.color("#495057");
     map.zoomControl.plusButton.background.stroke = am4core.color("#6979C9");
+    map.zoomControl.minusButton.background.cornerRadius(2, 2, 2, 2);
     map.zoomControl.plusButton.label.fontWeight = 600;
-    map.zoomControl.plusButton.label.fontSize = 22;
+    map.zoomControl.plusButton.label.fontSize = 24;
     map.zoomControl.plusButton.label.align = "center";
+    map.zoomControl.plusButton.label.fill = am4core.color("#efefef");
     map.zoomControl.plusButton.scale = 0.75;
     map.zoomControl.plusButton.label.scale = 0.75;
     map.zoomControl.plusButton.dx = 5;
@@ -134,10 +153,9 @@ class Am4chartMap extends Component {
     circle.strokeWidth = 0;
     let circleHoverState = circle.states.create("hover");
     circleHoverState.properties.strokeWidth = 1;
-    // circle.tooltipText = "{tooltip}";
-    circle.tooltipText = "1";
-    circle.radius = 3;
-    // circle.propertyFields.radius = "size";
+    circle.tooltipText = "{tooltip}";
+    circle.propertyFields.radius = "size";
+    this.props.updateMapRecords(item.source.length)
   };
 
   componentWillUnmount() {

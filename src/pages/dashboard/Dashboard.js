@@ -16,8 +16,12 @@ class Dashboard extends React.Component {
     this.state = {
       graph: null,
       checkedArr: [false, false, false],
-      searchText: ""
+      searchText: "",
+      mapRecords: 0,
+      averageBufferingTime: 0,
+      averageQuality: 0
     };
+
     this.mapElement = React.createRef();
     this.checkTable = this.checkTable.bind(this);
   }
@@ -28,19 +32,32 @@ class Dashboard extends React.Component {
 
   handleSearchChange = (value) => {
     this.setState({
-      searchText: value
-    })
-  }
+      searchText: value,
+    });
+  };
 
   performSearch = () => {
     this.mapElement.current.performSearch(this.state.searchText);
-  }
+  };
 
   updateSearchField = (value) => {
     this.setState({
-      searchText: value
+      searchText: value,
+    });
+  };
+
+  updateAverageValues = (buffering, quality) => {
+    this.setState({
+      averageBufferingTime: Math.round(buffering * 100) / 100,
+      averageQuality: Math.round(quality * 100) / 100
     })
   }
+
+  updateMapRecords = (value) => {
+    this.setState({
+      mapRecords: value,
+    });
+  };
 
   checkTable(id) {
     let arr = [];
@@ -82,7 +99,12 @@ class Dashboard extends React.Component {
         <Row>
           <Col lg={7}>
             <Widget className="bg-transparent">
-              <Map ref={this.mapElement} updateSearchField={this.updateSearchField}/>
+              <Map
+                ref={this.mapElement}
+                updateSearchField={this.updateSearchField}
+                updateMapRecords={this.updateMapRecords}
+                updateAverageValues={this.updateAverageValues}
+              />
             </Widget>
           </Col>
           <Col lg={1} />
@@ -105,49 +127,63 @@ class Dashboard extends React.Component {
               {/* eslint-disable */}
               <ul className={s.layerLabels}>
                 <li>
-                  <i className="fa fa-circle mr-2"/>
-                  <span className={s.labelName} onClick={() => this.handleClick(0)}>
+                  <i className="fa fa-circle mr-2" />
+                  <span
+                    className={s.labelName}
+                    onClick={() => this.handleClick(0)}
+                  >
                     Users
                   </span>
                 </li>
                 <li>
-                <i className="fa fa-circle mr-2"/>
-                <span className={s.labelName} onClick={() => this.handleClick(1)}>
-                      Errors
-                    </span>
+                  <i className="fa fa-circle mr-2" />
+                  <span
+                    className={s.labelName}
+                    onClick={() => this.handleClick(1)}
+                  >
+                    Errors
+                  </span>
                 </li>
                 <li>
-                <i className="fa fa-circle mr-2"/>
-                <span className={s.labelName} onClick={() => this.handleClick(2)}>
-                      Buffering Time
-                    </span>
+                  <i className="fa fa-circle mr-2" />
+                  <span
+                    className={s.labelName}
+                    onClick={() => this.handleClick(2)}
+                  >
+                    Buffering Time
+                  </span>
                 </li>
                 <li>
-                <i className="fa fa-circle mr-2"/>
-                <span className={s.labelName} onClick={() => this.handleClick(3)}>
-                      Streaming Quality
-                    </span>
+                  <i className="fa fa-circle mr-2" />
+                  <span
+                    className={s.labelName}
+                    onClick={() => this.handleClick(3)}
+                  >
+                    Streaming Quality
+                  </span>
                 </li>
               </ul>
               <p>
-              <div className="input-group mt">
-                <input
-                  type="text"
-                  className="form-control bg-custom-dark border-0"
-                  placeholder="Search Map"
-                  value={this.state.searchText}
-                  onChange={event => this.handleSearchChange(event.target.value)}
-                />
-                <span className="input-group-btn">
-                  <button
-                    type="submit"
-                    className={`btn btn-subtle-blue ${s.searchBtn}`}
-                    onClick={this.performSearch}
-                  >
-                    <i className="fa fa-search text-light" />
-                  </button>
-                </span>
-              </div>
+                <div className="input-group mt">
+                  <input
+                    type="text"
+                    className="form-control bg-custom-dark border-0"
+                    placeholder="Search Map"
+                    value={this.state.searchText}
+                    onChange={(event) =>
+                      this.handleSearchChange(event.target.value)
+                    }
+                  />
+                  <span className="input-group-btn">
+                    <button
+                      type="submit"
+                      className={`btn btn-subtle-blue ${s.searchBtn}`}
+                      onClick={this.performSearch}
+                    >
+                      <i className="fa fa-search text-light" />
+                    </button>
+                  </span>
+                </div>
               </p>
               <p>
                 Status: <strong>Live</strong>
@@ -156,64 +192,52 @@ class Dashboard extends React.Component {
                 <span className="circle bg-default text-white">
                   <i className="fa fa-map-marker" />
                 </span>{" "}
-                &nbsp; 146 Countries, 2759 Cities
+                &nbsp;
+                <AnimateNumber
+                  value={this.state.mapRecords}
+                  initialValue={0}
+                  duration={500}
+                  stepPrecision={0}
+                />{" "}
+                map records
               </p>
+              <h6 className="name fw-semi-bold">Average values</h6>
               <div className="row progress-stats">
                 <div className="col-md-9 col-12">
-                  <h6 className="name fw-semi-bold">Foreign Visits</h6>
                   <p className="description deemphasize mb-xs text-white">
-                    Some Cool Text
+                    Buffering Time
                   </p>
                   <Progress
                     color="primary"
-                    value="60"
+                    value={this.state.averageBufferingTime}
                     className="bg-subtle-blue progress-xs"
+                    max="10"
                   />
                 </div>
                 <div className="col-md-3 col-12 text-center">
                   <span className="status rounded rounded-lg bg-default text-light">
                     <small>
-                      <AnimateNumber value={75} />%
+                      <AnimateNumber value={this.state.averageBufferingTime} />
                     </small>
                   </span>
                 </div>
               </div>
               <div className="row progress-stats">
                 <div className="col-md-9 col-12">
-                  <h6 className="name fw-semi-bold">Local Visits</h6>
                   <p className="description deemphasize mb-xs text-white">
-                    P. to C. Conversion
+                    Streaming Quality
                   </p>
                   <Progress
                     color="danger"
-                    value="39"
+                    value={this.state.averageQuality}
                     className="bg-subtle-blue progress-xs"
+                    max="5"
                   />
                 </div>
                 <div className="col-md-3 col-12 text-center">
                   <span className="status rounded rounded-lg bg-default text-light">
                     <small>
-                      <AnimateNumber value={84} />%
-                    </small>
-                  </span>
-                </div>
-              </div>
-              <div className="row progress-stats">
-                <div className="col-md-9 col-12">
-                  <h6 className="name fw-semi-bold">Sound Frequencies</h6>
-                  <p className="description deemphasize mb-xs text-white">
-                    Average Bitrate
-                  </p>
-                  <Progress
-                    color="success"
-                    value="80"
-                    className="bg-subtle-blue progress-xs"
-                  />
-                </div>
-                <div className="col-md-3 col-12 text-center">
-                  <span className="status rounded rounded-lg bg-default text-light">
-                    <small>
-                      <AnimateNumber value={92} />%
+                      <AnimateNumber value={this.state.averageQuality}/>
                     </small>
                   </span>
                 </div>
@@ -221,12 +245,6 @@ class Dashboard extends React.Component {
               <h6 className="fw-semi-bold mt">Map Distributions</h6>
               <p>
                 Tracking: <strong>Active</strong>
-              </p>
-              <p>
-                <span className="circle bg-default text-white">
-                  <i className="fa fa-cog" />
-                </span>
-                &nbsp; 391 elements installed, 84 sets
               </p>
             </Widget>
           </Col>

@@ -71,75 +71,85 @@ class Sidebar extends React.Component {
 
     render() {
         return (
-            <nav
-                className={cx(s.root)}
-                ref={(nav) => {
-                    this.element = nav;
-                }}
-            >
-                <header className={s.logo}>
-                    <a href="https://demo.flatlogic.com/light-blue-react/"><span
-                        className="fw-bold">start</span> statistics</a>
-                </header>
-                <ul className={s.nav}>
-                    <LinksGroup
-                        onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
-                        activeItem={this.props.activeItem}
-                        header="Dashboard"
-                        isHeader
-                        iconName={<HomeIcon className={s.menuIcon} />}
-                        link="/app/main"
-                        index="main"
-                    />
-                </ul>
-                <h5 className={s.navTitle}>
-                    LABELS
-                    {/* eslint-disable-next-line */}
-                </h5>
-                {/* eslint-disable */}
-                <ul className={s.sidebarLabels}>
-                    <li>
-                        <a href="#">
-                            <i className="fa fa-circle text-success mr-2"/>
-                            <span className={s.labelName}>My Recent</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i className="fa fa-circle text-primary mr-2"/>
-                            <span className={s.labelName}>Starred</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#">
-                            <i className="fa fa-circle text-danger mr-2"/>
-                            <span className={s.labelName}>Background</span>
-                        </a>
-                    </li>
-                </ul>
-                {/* eslint-enable */}
-                <h5 className={s.navTitle}>
-                    PROJECTS
-                </h5>
-                <div className={s.sidebarAlerts}>
-                    {this.props.alertsList.map(alert => // eslint-disable-line
-                        <Alert
-                            key={alert.id}
-                            className={s.sidebarAlert} 
-                            color="transparent"
-                            isOpen={true} // eslint-disable-line
-                            toggle={() => {
-                                this.dismissAlert(alert.id);
-                            }}
-                        >
-                            <span>{alert.title}</span><br/>
-                            <Progress className={`bg-subtle-blue progress-xs mt-1`} color={alert.color}
-                                      value={alert.value}/>
-                            <span className={s.alertFooter}>{alert.footer}</span>
-                        </Alert>,
-                    )}
-                </div>
-            </nav>
+          <nav
+            className={cx(s.root)}
+            ref={(nav) => {
+                this.element = nav;
+            }}
+          >
+              <header className={s.logo}>
+                  <a href="#"><span
+                    className="fw-bold">start</span> statistics</a>
+              </header>
+              <ul className={s.nav}>
+                  <LinksGroup
+                    onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
+                    activeItem={this.props.activeItem}
+                    header="Dashboard"
+                    isHeader
+                    iconName={<HomeIcon className={s.menuIcon} />}
+                    link="/app/main"
+                    index="main"
+                  />
+                  {/*<h5 className={[s.navTitle, s.groupTitle].join(' ')}></h5>*/}
+                  <LinksGroup
+                    onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
+                    activeItem={this.props.activeItem}
+                    header="Statistics"
+                    isHeader
+                    iconName={<ComponentsIcon className={s.menuIcon} />}
+                    link="/app/statistics"
+                    index="main"
+                  />
+              </ul>
+              <h5 className={s.navTitle}>
+                  LABELS
+                  {/* eslint-disable-next-line */}
+              </h5>
+              {/* eslint-disable */}
+              <ul className={s.sidebarLabels}>
+                  <li>
+                      <a href="#">
+                          <i className="fa fa-circle text-success mr-2"/>
+                          <span className={s.labelName}>My Recent</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#">
+                          <i className="fa fa-circle text-primary mr-2"/>
+                          <span className={s.labelName}>Starred</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="#">
+                          <i className="fa fa-circle text-danger mr-2"/>
+                          <span className={s.labelName}>Background</span>
+                      </a>
+                  </li>
+              </ul>
+              {/* eslint-enable */}
+              <h5 className={s.navTitle}>
+                  PROJECTS
+              </h5>
+              <div className={s.sidebarAlerts}>
+                  {this.props.alertsList.map(alert => // eslint-disable-line
+                    <Alert
+                      key={alert.id}
+                      className={s.sidebarAlert}
+                      color="transparent"
+                      isOpen={true} // eslint-disable-line
+                      toggle={() => {
+                          this.dismissAlert(alert.id);
+                      }}
+                    >
+                        <span>{alert.title}</span><br/>
+                        <Progress className={`bg-subtle-blue progress-xs mt-1`} color={alert.color}
+                                  value={alert.value}/>
+                        <span className={s.alertFooter}>{alert.footer}</span>
+                    </Alert>,
+                  )}
+              </div>
+          </nav>
         );
     }
 }
