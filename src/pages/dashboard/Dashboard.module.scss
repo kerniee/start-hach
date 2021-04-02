@@ -36,3 +36,37 @@
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
 }
+
+.layerLabels {
+  list-style-type: none;
+  cursor: pointer;
+  > li + li {
+    margin-top: 15px;
+  }
+
+  li > i {
+    font-size: 6px;
+    vertical-align: 2px;
+    transition: margin-left $sidebar-transition-time ease-in-out;
+  }
+}
+
+.labelName {
+  font-size: 1rem;
+  font-weight: $font-weight-thin;
+  color: $main-gray;
+  opacity: 1;
+  transition: opacity $sidebar-transition-time ease-in-out;
+}
+
+.navTitle {
+  margin-top: 0;
+  font-size: 13px;
+  font-weight: $font-weight-bold;
+  color: #A5A7B850;
+  transition: opacity $sidebar-transition-time ease-in-out;
+
+  @media (min-width: breakpoint-min(lg)) {
+    opacity: 1;
+  }
+}

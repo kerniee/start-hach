@@ -3,7 +3,6 @@ import { Row, Col, Progress, Table, Label, Input } from "reactstrap";
 
 import Widget from "../../components/Widget";
 
-import Calendar from "./components/calendar/Calendar";
 import Map from "./components/am4chartMap/am4chartMap";
 import Rickshaw from "./components/rickshaw/Rickshaw";
 
@@ -17,8 +16,30 @@ class Dashboard extends React.Component {
     this.state = {
       graph: null,
       checkedArr: [false, false, false],
+      searchText: ""
     };
+    this.mapElement = React.createRef();
     this.checkTable = this.checkTable.bind(this);
+  }
+
+  handleClick = (layer) => {
+    this.mapElement.current.changeLayer(layer);
+  };
+
+  handleSearchChange = (value) => {
+    this.setState({
+      searchText: value
+    })
+  }
+
+  performSearch = () => {
+    this.mapElement.current.performSearch(this.state.searchText);
+  }
+
+  updateSearchField = (value) => {
+    this.setState({
+      searchText: value
+    })
   }
 
   checkTable(id) {
@@ -54,14 +75,14 @@ class Dashboard extends React.Component {
         <h1 className="page-title">
           Dashboard &nbsp;
           <small>
-            <small>Sample Title</small>
+            <small>Informative Map</small>
           </small>
         </h1>
 
         <Row>
           <Col lg={7}>
             <Widget className="bg-transparent">
-              <Map />
+              <Map ref={this.mapElement} updateSearchField={this.updateSearchField}/>
             </Widget>
           </Col>
           <Col lg={1} />
@@ -76,10 +97,58 @@ class Dashboard extends React.Component {
                   <span className="fw-semi-bold">&nbsp;Statistics</span>
                 </h5>
               }
-              settings
-              refresh
-              close
             >
+              <h5 className={s.navTitle}>
+                MAP LAYERS
+                {/* eslint-disable-next-line */}
+              </h5>
+              {/* eslint-disable */}
+              <ul className={s.layerLabels}>
+                <li>
+                  <i className="fa fa-circle mr-2"/>
+                  <span className={s.labelName} onClick={() => this.handleClick(0)}>
+                    Users
+                  </span>
+                </li>
+                <li>
+                <i className="fa fa-circle mr-2"/>
+                <span className={s.labelName} onClick={() => this.handleClick(1)}>
+                      Errors
+                    </span>
+                </li>
+                <li>
+                <i className="fa fa-circle mr-2"/>
+                <span className={s.labelName} onClick={() => this.handleClick(2)}>
+                      Buffering Time
+                    </span>
+                </li>
+                <li>
+                <i className="fa fa-circle mr-2"/>
+                <span className={s.labelName} onClick={() => this.handleClick(3)}>
+                      Streaming Quality
+                    </span>
+                </li>
+              </ul>
+              <p>
+              <div className="input-group mt">
+                <input
+                  type="text"
+                  className="form-control bg-custom-dark border-0"
+                  placeholder="Search Map"
+                  value={this.state.searchText}
+                  onChange={event => this.handleSearchChange(event.target.value)}
+                />
+                <span className="input-group-btn">
+                  <button
+                    type="submit"
+                    className={`btn btn-subtle-blue ${s.searchBtn}`}
+                    onClick={this.performSearch}
+                  >
+                    <i className="fa fa-search text-light" />
+                  </button>
+                </span>
+              </div>
+              </p>
               <p>
                 Status: <strong>Live</strong>
               </p>
