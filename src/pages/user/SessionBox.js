@@ -24,7 +24,7 @@ const mapStateToProps = state => {
 
 const sessionBarColor = barColors;
 
-function SessionRow({session, i}) {
+function SessionRow({session}) {
   const data = session.profiles.map(prof => ({
     color: sessionBarColor[prof % sessionBarColor.length]
   }))
@@ -36,7 +36,7 @@ function SessionRow({session, i}) {
             {session.info}
           </Col>
           <Col xs={3} className={"p-3"}>
-            <Link to={"/app/sessions/" + i.toString()}
+            <Link to={"/app/sessions/" + session.id}
                   className="btn btn-default w-100 h-100"
                   style={{paddingTop: 1, paddingBottom: 1}}>More</Link>
           </Col>
@@ -50,7 +50,6 @@ function SessionRow({session, i}) {
 
 class SessionBox extends React.Component {
   render() {
-    console.log(this.props)
     return (
       <Widget title={
         <h4>
@@ -58,8 +57,8 @@ class SessionBox extends React.Component {
         </h4>
       } close collapse>
         <Col>
-          {this.props.sessions.map((session, i) => {
-            return <SessionRow session={session} i={i}/>
+          {this.props.sessions.map(session => {
+            return <SessionRow session={session}/>
           })}
         </Col>
       </Widget>

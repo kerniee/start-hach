@@ -10,7 +10,7 @@ import sessionReducer from "../../reducers/session";
 import ApexChartBox from "./ApexChartBox";
 import {Provider, connect } from "react-redux";
 import SessionToggleBox from "./SessionToggleBox";
-import {createProfiles} from "../user";
+import {createProfiles} from "../../reducers/user";
 
 
 function transformServerData(data) {
