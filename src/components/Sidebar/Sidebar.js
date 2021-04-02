@@ -78,8 +78,8 @@ class Sidebar extends React.Component {
                 }}
             >
                 <header className={s.logo}>
-                    <a href="https://demo.flatlogic.com/light-blue-react/">Light <span
-                        className="fw-bold">Blue</span></a>
+                    <a href="https://demo.flatlogic.com/light-blue-react/"><span
+                        className="fw-bold">start</span> statistics</a>
                 </header>
                 <ul className={s.nav}>
                     <LinksGroup
@@ -90,54 +90,6 @@ class Sidebar extends React.Component {
                         iconName={<HomeIcon className={s.menuIcon} />}
                         link="/app/main"
                         index="main"
-                    />
-                    <h5 className={[s.navTitle, s.groupTitle].join(' ')}>TEMPLATE</h5>
-                    <LinksGroup
-                        onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
-                        activeItem={this.props.activeItem}
-                        header="Typography"
-                        isHeader
-                        iconName={<TypographyIcon className={s.menuIcon} />}
-                        link="/app/typography"
-                        index="core"
-                    />
-                    <LinksGroup
-                        onActiveSidebarItemChange={t => this.props.dispatch(changeActiveSidebarItem(t))}
-                        activeItem={this.props.activeItem}
-                        header="Tables Basic"
-                        isHeader
-                        iconName={<TablesIcon className={s.menuIcon} />}
-                        link="/app/tables"
-                        index="tables"
-                    />
-                    <LinksGroup
-                        onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
-                        activeItem={this.props.activeItem}
-                        header="Notifications"
-                        isHeader
-                        iconName={<NotificationsIcon className={s.menuIcon}/>}
-                        link="/app/notifications"
-                        index="ui"
-                    />
-                    <LinksGroup
-                        onActiveSidebarItemChange={activeItem => this.props.dispatch(changeActiveSidebarItem(activeItem))}
-                        activeItem={this.props.activeItem}
-                        header="Components"
-                        isHeader
-                        iconName={<ComponentsIcon className={s.menuIcon}/>}
-                        link="/app/components"
-                        index="components"
-                        childrenLinks={[
-                            {
-                                header: 'Charts', link: '/app/components/charts',
-                            },
-                            {
-                                header: 'Icons', link: '/app/components/icons',
-                            },
-                            {
-                                header: 'Maps', link: '/app/components/maps',
-                            },
-                        ]}
                     />
                 </ul>
                 <h5 className={s.navTitle}>

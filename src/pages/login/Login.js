@@ -60,7 +60,7 @@ class Login extends React.Component {
         return (
             <div className="auth-page">
                 <Container>
-                    <Widget className="widget-auth mx-auto" title={<h3 className="mt-0">Login to your Web App</h3>}>
+                    <Widget className="widget-auth mx-auto" title={<h3 className="mt-0">Template Title</h3>}>
                         <p className="widget-auth-info">
                             Use your email to sign in.
                         </p>
@@ -98,28 +98,11 @@ class Login extends React.Component {
                                 </InputGroup>
                             </FormGroup>
                             <div className="bg-widget auth-widget-footer">
-                                <Button type="submit" color="danger" className="auth-btn"
+                                <Button type="submit" color="danger" className="auth-btn mb-4"
                                         size="sm" style={{color: '#fff'}}>
-                                  <span className="auth-btn-circle" style={{marginRight: 8}}>
-                                    <i className="la la-caret-right"/>
-                                  </span>
                                   {this.props.isFetching ? 'Loading...' : 'Login'}
                                 </Button>
-                                <p className="widget-auth-info mt-4">
-                                    Don't have an account? Sign up now!
-                                </p>
-                                <Link className="d-block text-center mb-4" to="register">Create an Account</Link>
-                                <div className="social-buttons">
-                                    <Button color="primary" className="social-button">
-                                        <i className="social-icon social-google"/>
-                                        <p className="social-text">GOOGLE</p>
-                                    </Button>
-                                    <Button color="success" className="social-button">
-                                        <i className="social-icon social-microsoft"
-                                           style={{backgroundImage: `url(${microsoft})`}}/>
-                                        <p className="social-text" style={{color: '#fff'}}>MICROSOFT</p>
-                                    </Button>
-                                </div>
+                                
                             </div>
                         </form>
                     </Widget>

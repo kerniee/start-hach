@@ -11,11 +11,6 @@ import AnimateNumber from "react-animated-number";
 
 import s from "./Dashboard.module.scss";
 
-import peopleA1 from "../../assets/people/a1.jpg";
-import peopleA2 from "../../assets/people/a2.jpg";
-import peopleA5 from "../../assets/people/a5.jpg";
-import peopleA4 from "../../assets/people/a4.jpg";
-
 class Dashboard extends React.Component {
   constructor(props) {
     super(props);
@@ -59,7 +54,7 @@ class Dashboard extends React.Component {
         <h1 className="page-title">
           Dashboard &nbsp;
           <small>
-            <small>The Lucky One</small>
+            <small>Sample Title</small>
           </small>
         </h1>
 
@@ -164,21 +159,6 @@ class Dashboard extends React.Component {
                 </span>
                 &nbsp; 391 elements installed, 84 sets
               </p>
-              <div className="input-group mt">
-                <input
-                  type="text"
-                  className="form-control bg-custom-dark border-0"
-                  placeholder="Search Map"
-                />
-                <span className="input-group-btn">
-                  <button
-                    type="submit"
-                    className={`btn btn-subtle-blue ${s.searchBtn}`}
-                  >
-                    <i className="fa fa-search text-light" />
-                  </button>
-                </span>
-              </div>
             </Widget>
           </Col>
         </Row>
@@ -287,94 +267,6 @@ class Dashboard extends React.Component {
             <Widget
               title={
                 <h6>
-                  <span className="badge badge-success mr-2">New</span> Messages
-                </h6>
-              }
-              refresh
-              close
-            >
-              <div className="widget-body undo_padding">
-                <div className="list-group list-group-lg">
-                  <button className="list-group-item text-left">
-                    <span className="thumb-sm float-left mr">
-                      <img
-                        className="rounded-circle"
-                        src={peopleA2}
-                        alt="..."
-                      />
-                      <i className="status status-bottom bg-success" />
-                    </span>
-                    <div>
-                      <h6 className="m-0">Chris Gray</h6>
-                      <p className="help-block text-ellipsis m-0">
-                        Hey! What&apos;s up? So many times since we
-                      </p>
-                    </div>
-                  </button>
-                  <button className="list-group-item text-left">
-                    <span className="thumb-sm float-left mr">
-                      <img
-                        className="rounded-circle"
-                        src={peopleA4}
-                        alt="..."
-                      />
-                      <i className="status status-bottom bg-success" />
-                    </span>
-                    <div>
-                      <h6 className="m-0">Jamey Brownlow</h6>
-                      <p className="help-block text-ellipsis m-0">
-                        Good news coming tonight. Seems they agreed to proceed
-                      </p>
-                    </div>
-                  </button>
-                  <button className="list-group-item text-left">
-                    <span className="thumb-sm float-left mr">
-                      <img
-                        className="rounded-circle"
-                        src={peopleA1}
-                        alt="..."
-                      />
-                      <i className="status status-bottom bg-primary" />
-                    </span>
-                    <div>
-                      <h6 className="m-0">Livia Walsh</h6>
-                      <p className="help-block text-ellipsis m-0">
-                        Check my latest email plz!
-                      </p>
-                    </div>
-                  </button>
-                  <button className="list-group-item text-left">
-                    <span className="thumb-sm float-left mr">
-                      <img
-                        className="rounded-circle"
-                        src={peopleA5}
-                        alt="..."
-                      />
-                      <i className="status status-bottom bg-danger" />
-                    </span>
-                    <div>
-                      <h6 className="m-0">Jaron Fitzroy</h6>
-                      <p className="help-block text-ellipsis m-0">
-                        What about summer break?
-                      </p>
-                    </div>
-                  </button>
-                </div>
-              </div>
-              <footer className="bg-widget-transparent mt">
-                <input
-                  type="search"
-                  className="form-control form-control-sm bg-custom-dark border-0"
-                  placeholder="Search"
-                />
-              </footer>
-            </Widget>
-          </Col>
-
-          <Col lg={4} xs={12}>
-            <Widget
-              title={
-                <h6>
                   {" "}
                   Market <span className="fw-semi-bold">Stats</span>
                 </h6>
@@ -453,31 +345,6 @@ class Dashboard extends React.Component {
                 style={{ height: "100px" }}
               >
                 <Rickshaw height={100} />
-              </div>
-            </Widget>
-          </Col>
-
-          <Col lg={4} xs={12}>
-            <Widget
-              title={<h6>Calendar</h6>}
-              settings
-              close
-              bodyClass={"pt-2 px-0 py-0"}
-            >
-              <Calendar />
-              <div className="list-group fs-mini">
-                <button className="list-group-item text-ellipsis">
-                  <span className="badge badge-pill badge-primary float-right">
-                    6:45
-                  </span>
-                  Weed out the flower bed
-                </button>
-                <button className="list-group-item text-ellipsis">
-                  <span className="badge badge-pill badge-success float-right">
-                    9:41
-                  </span>
-                  Stop world water pollution
-                </button>
               </div>
             </Widget>
           </Col>

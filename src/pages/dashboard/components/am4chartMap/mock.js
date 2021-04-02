@@ -65,5 +65,11 @@ export default [
     longitude: -118.157483,
     size: 6,
     tooltip: 'Lakewood Mutual',
+  },
+  {
+    latitude: 55.7558,
+    longitude: 37.6173,
+    size: 7,
+    tooltip: 'Moscow'
   }
 ]
