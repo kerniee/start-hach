@@ -20,11 +20,8 @@ class SearchUserBar extends React.Component {
     }
 
     handleSearch() {
-        console.log(this.state.term);
-        // Make request to server about this.state.term
-        // Get user id
-        let user_id = "1";
-        this.props.history.push("/app/users/" + user_id);
+        this.props.history.push("/app/users/" + this.state.term);
+        //document.location.reload()
     }
 
     handleEnter(e) {
@@ -51,7 +48,7 @@ class SearchUserBar extends React.Component {
                         <Input
                             id="search-input"
                             className="input-transparent"
-                            placeholder="Search Dashboard"
+                            placeholder="Search for user"
                             onChange={this.handleTermChange}
                             onKeyDown={this.handleEnter}
                         />

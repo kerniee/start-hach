@@ -1,4 +1,15 @@
-import {TOGGLE} from "../actions/userPage";
+import {TOGGLE, LOAD} from "../actions/userPage";
+
+export function createProfiles(profiles) {
+  let arr = Array(profiles.length);
+  for (let i = 0; i < profiles.length; i++) {
+    arr[i] = {
+      name: profiles[i],
+      show: true
+    }
+  }
+  return arr;
+}
 
 export default function userReducer(state, action) {
   switch (action.type) {
@@ -15,7 +26,32 @@ export default function userReducer(state, action) {
           return prof
         })
       }
+    case LOAD:
+      let profiles = []
+      let sessionsDict = {}
+      action.payload.forEach(profile => {
+        profiles.push(profile.id);
+        profile.sessions.forEach(sessionId => {
+          if (!(sessionId in sessionsDict)) {
+            sessionsDict[sessionId] = [profile.id]
+          } else {
+            sessionsDict[sessionId].push(profile.id)
+          }
+        })
+      })
+      const sessions = Object.keys(sessionsDict).map(key => ({
+        info: "Some valuable info",
+        id: key,
+        profiles: sessionsDict[key].map((session_id) => (profiles.indexOf(session_id)))
+      }))
+      console.log("SESSIONS", sessions)
+      return {
+        ...state,
+        profiles: createProfiles(profiles),
+        sessions: sessions
+      }
     default:
       return state;
   }
 }
+
