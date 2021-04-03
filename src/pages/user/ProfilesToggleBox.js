@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState} from "react";
 import {connect} from "react-redux";
 import toggle from "../../actions/userPage";
 import ToggleBox from "../../components/ToggleBox";
@@ -8,21 +8,18 @@ const mapStateToProps = state => {
   return {profiles};
 };
 
-class ProfilesToggleBox extends React.Component {
-  handleToggle = (id) => {
-    return () => {
-      console.log("button toggled")
-      this.props.toggle(id)
-    }
+const handleToggle = (id) => {
+  return () => {
+    console.log("button toggled")
+    this.props.toggle(id)
   }
+}
 
-  render() {
-    console.log("RENDER PROFILE")
-    return (
-      <ToggleBox name={"Profiles"} items={this.props.profiles}
-                 onChangeHandler={this.handleToggle}/>
-    );
-  }
+function ProfilesToggleBox(props) {
+  return (
+    <ToggleBox name={"Profiles"} items={props.profiles}
+               onChangeHandler={handleToggle} />
+  );
 }
 
 export default connect(mapStateToProps, {toggle})(ProfilesToggleBox)
