@@ -201,8 +201,12 @@ class Dashboard extends React.Component {
                 />{" "}
                 map records
               </p>
-              <h6 className="name fw-semi-bold">Average values</h6>
-              <div className="row progress-stats">
+              <h5 className={s.navTitle}>
+                AVERAGE VALUES
+                {/* eslint-disable-next-line */}
+              </h5>
+              {/* eslint-disable */}
+              <div className="row progress-stats my-2">
                 <div className="col-md-9 col-12">
                   <p className="description deemphasize mb-xs text-white">
                     Buffering Time
@@ -222,7 +226,7 @@ class Dashboard extends React.Component {
                   </span>
                 </div>
               </div>
-              <div className="row progress-stats">
+              <div className="row progress-stats mb-2">
                 <div className="col-md-9 col-12">
                   <p className="description deemphasize mb-xs text-white">
                     Streaming Quality
@@ -242,7 +246,11 @@ class Dashboard extends React.Component {
                   </span>
                 </div>
               </div>
-              <h6 className="fw-semi-bold mt">Map Distributions</h6>
+              <h5 className={s.navTitle}>
+                MAP DISTRIBUTIONS
+                {/* eslint-disable-next-line */}
+              </h5>
+              {/* eslint-disable */}
               <p>
                 Tracking: <strong>Active</strong>
               </p>
@@ -259,7 +267,7 @@ class Dashboard extends React.Component {
                   <p className="value">76.38%</p>
                 </div>
                 <div className="stat-item">
-                  <h6 className="name">Montly</h6>
+                  <h6 className="name">Monthly</h6>
                   <p className="value">10.38%</p>
                 </div>
                 <div className="stat-item">
@@ -291,7 +299,7 @@ class Dashboard extends React.Component {
                   <p className="value">17 567 318</p>
                 </div>
                 <div className="stat-item">
-                  <h6 className="name">Montly</h6>
+                  <h6 className="name">Monthly</h6>
                   <p className="value">55 120</p>
                 </div>
                 <div className="stat-item">
@@ -345,94 +353,6 @@ class Dashboard extends React.Component {
                 <span className="fw-semi-bold">&nbsp;8 734 higher</span>
                 &nbsp;than last month
               </p>
-            </Widget>
-          </Col>
-        </Row>
-
-        <Row>
-          <Col lg={4} xs={12}>
-            <Widget
-              title={
-                <h6>
-                  {" "}
-                  Market <span className="fw-semi-bold">Stats</span>
-                </h6>
-              }
-              close
-            >
-              <div className="widget-body">
-                <h3>$720 Earned</h3>
-                <p className="fs-mini text-muted mb mt-sm">
-                  Target <span className="fw-semi-bold">$820</span> day earnings
-                  is <span className="fw-semi-bold">96%</span> reached.
-                </p>
-              </div>
-              <div className={`widget-table-overflow ${s.table}`}>
-                <Table striped size="sm">
-                  <thead className="no-bd">
-                    <tr>
-                      <th>
-                        <div className="checkbox abc-checkbox">
-                          <Input
-                            className="mt-0"
-                            id="checkbox210"
-                            type="checkbox"
-                            onClick={() => this.checkTable(0)}
-                            checked={this.state.checkedArr[0]}
-                            readOnly
-                          />{" "}
-                          <Label for="checkbox210" />
-                        </div>
-                      </th>
-                      <th>&nbsp;</th>
-                      <th>&nbsp;</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td>
-                        <div className="checkbox abc-checkbox">
-                          <Input
-                            className="mt-0"
-                            id="checkbox212"
-                            type="checkbox"
-                            onClick={() => this.checkTable(1)}
-                            checked={this.state.checkedArr[1]}
-                            readOnly
-                          />{" "}
-                          <Label for="checkbox212" />
-                        </div>
-                      </td>
-                      <td>HP Core i7</td>
-                      <td className="text-align-right fw-semi-bold">$346.1</td>
-                    </tr>
-                    <tr>
-                      <td>
-                        <div className="checkbox abc-checkbox">
-                          <Input
-                            className="mt-0"
-                            id="checkbox214"
-                            onClick={() => this.checkTable(2)}
-                            type="checkbox"
-                            checked={this.state.checkedArr[2]}
-                            readOnly
-                          />{" "}
-                          <Label for="checkbox214" />
-                        </div>
-                      </td>
-                      <td>Air Pro</td>
-                      <td className="text-align-right fw-semi-bold">$533.1</td>
-                    </tr>
-                  </tbody>
-                </Table>
-              </div>
-
-              <div
-                className="widget-body mt-xlg chart-overflow-bottom"
-                style={{ height: "100px" }}
-              >
-                <Rickshaw height={100} />
-              </div>
             </Widget>
           </Col>
         </Row>
