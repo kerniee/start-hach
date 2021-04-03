@@ -47,7 +47,7 @@ class Session extends React.Component {
         <Provider store={store}>
           <Row>
             <Col lg={3} xs={12}>
-              <Widget title={<h4>Info</h4>} close collapse>
+              <Widget title={<h4>Information</h4>} close collapse>
                 <InfoList info={this.info}/>
               </Widget>
             </Col>

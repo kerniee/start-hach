@@ -42,7 +42,7 @@ function User(props) {
       <Provider store={store}>
         <Row>
           <Col lg={3} xs={12}>
-            <Widget title={<h4>Info</h4>} close collapse>
+            <Widget title={<h4>Information</h4>} close collapse>
               <table class="table">
               <tbody>
                 <InfoList info={userInfo}/>

@@ -24,7 +24,7 @@ export default ({name, items, onChangeHandler, noColorBar=false}) => (
               onChange={onChangeHandler(i)}
             />
             <p style={{overflowWrap: "anywhere"}}>
-            {items[i].name}
+              {items[i].name.length > 23 ? items[i].name.substr(0, 22) + "..." : items[i].name}
             </p>
           </div>
           {!noColorBar ? <ColorBar data={[{color: barColors[i % barColors.length]}]}/> : ""}
