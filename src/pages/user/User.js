@@ -23,25 +23,21 @@ function getAllUserInfo() {
   }
 }
 
-console.log(getAllUserInfo())
 const composedEnhancer = composeWithDevTools(applyMiddleware(thunkMiddleware))
 const store = createStore(userReducer, getAllUserInfo(),
   composedEnhancer
 )
 
-
-
 function User(props) {
   useEffect(() => {
     const userId = props.match.params.user_id;
-    console.log(userId)
     store.dispatch(fetchUser(userId))
   }, []);
 
   return (
     <div className={s.root}>
       <h1 className="page-title">
-        User <span className="fw-semi-bold">#1</span>
+        User <span className="fw-semi-bold">#{props.match.params.user_id}</span>
       </h1>
       <Provider store={store}>
         <Row>

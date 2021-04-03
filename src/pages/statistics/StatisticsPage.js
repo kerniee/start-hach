@@ -1,16 +1,25 @@
 import React, {useEffect, useState} from 'react';
-import {Col, Row} from "reactstrap";
+import {Badge, Col, Progress, Row, Table} from "reactstrap";
 import Widget from "../../components/Widget";
 import ApexChart from "react-apexcharts";
 import config from "../../config";
 import {chartData} from "../components/charts/mock";
+import TimeAgo from 'javascript-time-ago'
+import ReactTimeAgo from 'react-time-ago'
+
+import en from 'javascript-time-ago/locale/en'
+import {Link} from "react-router-dom";
+
+TimeAgo.addDefaultLocale(en)
 
 // import s from './StatisticsPage.module.scss';
 
 
 function StatisticsPage() {
   const [state, setState] = useState({
-    loaded: false,
+    resDistrLoaded: false,
+    lastErrorLoaded: false,
+    errorSessions: [],
     cd: chartData.apex.column,
     initEchartsOptions: {
       renderer: "canvas",
@@ -36,6 +45,7 @@ function StatisticsPage() {
     },
   });
 
+  // Resolution Distr
   useEffect(() => {
     const url = new URL("quality_minutes", config.backend.ip).href
     fetch(url).then(res => res.json()).then(result => {
@@ -49,13 +59,32 @@ function StatisticsPage() {
         setState({
           ...state,
           cd: cd,
-          loaded: true
+          resDistrLoaded: true
         })
+
+        const url = new URL("errorful_sessions", config.backend.ip).href
+        fetch(url).then(res => res.json()).then(result => {
+            setState({
+              ...state,
+              errorSessions: result,
+              lastErrorLoaded: true,
+              cd: cd,
+              resDistrLoaded: true
+            })
+          },
+          (error) => {
+            console.log(error)
+          })
       },
       (error) => {
         console.log(error)
       })
   }, []);
+
+  // Last error sessions
+  // useEffect(() => {
+  //
+  // }, []);
 
   return (
     <Row>
@@ -63,13 +92,13 @@ function StatisticsPage() {
         <Widget
           title={
             <h5>
-              Column Chart <span className="fw-semi-bold">Resolution</span>
+              Column Chart <span className="fw-semi-bold">Resolution Distribution</span>
             </h5>
           }
           close
           collapse
         >
-          {state.loaded ? <ApexChart
+          {state.resDistrLoaded ? <ApexChart
             className="sparkline-chart"
             height={350}
             series={state.cd.series}
@@ -78,6 +107,40 @@ function StatisticsPage() {
           /> : <h1>Loading...</h1>
           }
 
+        </Widget>
+      </Col>
+      <Col lg={5} xs={12}>
+        <Widget
+          title={
+            <h5>
+              Last Sessions With <span className="fw-semi-bold">Errors</span>
+            </h5>
+          }
+          close
+          collapse
+        >
+          <Table striped>
+            <thead>
+            <tr className="fs-sm">
+              <th className="hidden-sm-down">#</th>
+              <th className="hidden-sm-down">Last Access Time</th>
+              <th className="hidden-sm-down">Session</th>
+            </tr>
+            </thead>
+            <tbody>
+            {state.errorSessions.map((session, i) => (
+              <tr key={i}>
+                <td>{i}</td>
+                <td>
+                  <ReactTimeAgo date={new Date(new Date("2021").setMonth(-i))} locale="en-US"/>
+                </td>
+                <td>
+                  <Link to={"/app/sessions/" + session}>{session}</Link>
+                </td>
+              </tr>
+            ))}
+            </tbody>
+          </Table>
         </Widget>
       </Col>
     </Row>
