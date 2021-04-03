@@ -11,9 +11,6 @@ import LinksGroup from './LinksGroup';
 import {changeActiveSidebarItem} from '../../actions/navigation';
 import {logoutUser} from '../../actions/user';
 import HomeIcon from '../Icons/SidebarIcons/HomeIcon';
-import TypographyIcon from '../Icons/SidebarIcons/TypographyIcon';
-import TablesIcon from '../Icons/SidebarIcons/TablesIcon';
-import NotificationsIcon from '../Icons/SidebarIcons/NotificationsIcon';
 import ComponentsIcon from '../Icons/SidebarIcons/ComponentsIcon';
 
 

@@ -1,12 +1,22 @@
 import React from 'react';
-
 import s from './User.module.scss';
 
-class User extends React.Component {
-    render() {
-        return (
-            <p className={s.redText}>Test text {console.log(this.props)}</p>
-        );
+import {Col, Row} from "reactstrap";
+import Widget from "../../components/Widget";
+import InfoList from "../../components/InfoList";
+import {const_profiles, sessions, userInfo} from "./mockData";
+import {createStore} from "redux";
+import userReducer from "../../reducers/user";
+import {Provider} from "react-redux";
+import ProfilesToggleBox from "./ProfilesToggleBox";
+import SessionBox from "./SessionBox";
+
+export function createProfiles(profiles) {
+  let arr = Array(profiles.length);
+  for (let i = 0; i < profiles.length; i++) {
+    arr[i] = {
+      name: profiles[i],
+      show: true
     }
   }
   return arr;
