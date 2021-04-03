@@ -260,7 +260,7 @@ class Dashboard extends React.Component {
 
         <Row>
           <Col lg={6} xl={4} xs={12}>
-            <Widget title={<h6> USERBASE GROWTH </h6>} close settings>
+            <Widget title={<h6> USERBASE GROWTH </h6>}>
               <div className="stats-row">
                 <div className="stat-item">
                   <h6 className="name">Overall Growth</h6>
@@ -292,7 +292,7 @@ class Dashboard extends React.Component {
             </Widget>
           </Col>
           <Col lg={6} xl={4} xs={12}>
-            <Widget title={<h6> TRAFFIC VALUES </h6>} close settings>
+            <Widget title={<h6> TRAFFIC VALUES </h6>}>
               <div className="stats-row">
                 <div className="stat-item">
                   <h6 className="name">Overall Values</h6>
@@ -319,38 +319,6 @@ class Dashboard extends React.Component {
                   </span>
                 </small>
                 <span className="fw-semi-bold">&nbsp;8% lower</span>
-                &nbsp;than last month
-              </p>
-            </Widget>
-          </Col>
-          <Col lg={6} xl={4} xs={12}>
-            <Widget title={<h6> RANDOM VALUES </h6>} close settings>
-              <div className="stats-row">
-                <div className="stat-item">
-                  <h6 className="name fs-sm">Overcome T.</h6>
-                  <p className="value">104.85%</p>
-                </div>
-                <div className="stat-item">
-                  <h6 className="name fs-sm">Takeoff Angle</h6>
-                  <p className="value">14.29&deg;</p>
-                </div>
-                <div className="stat-item">
-                  <h6 className="name fs-sm">World Pop.</h6>
-                  <p className="value">7,211M</p>
-                </div>
-              </div>
-              <Progress
-                color="bg-primary"
-                value="60"
-                className="bg-subtle-blue progress-xs"
-              />
-              <p>
-                <small>
-                  <span className="circle bg-default text-white mr-2">
-                    <i className="fa fa-plus" />
-                  </span>
-                </small>
-                <span className="fw-semi-bold">&nbsp;8 734 higher</span>
                 &nbsp;than last month
               </p>
             </Widget>

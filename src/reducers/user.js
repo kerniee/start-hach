@@ -40,7 +40,7 @@ export default function userReducer(state, action) {
         })
       })
       const sessions = Object.keys(sessionsDict).map(key => ({
-        info: "Some valuable info",
+        info: key,
         id: key,
         profiles: sessionsDict[key].map((session_id) => (profiles.indexOf(session_id)))
       }))

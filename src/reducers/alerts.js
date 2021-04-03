@@ -4,17 +4,17 @@ const defaultState = {
   alertsList: [
     {
       id: 0,
-      title: 'Sales Report',
-      value: 16,
+      title: 'Metrics Coverage',
+      value: 65,
       color: 'primary',
-      footer: 'Calculating x-axis bias... 65%',
+      footer: '65% completed',
     },
     {
       id: 1,
-      title: 'Personal Responsibility',
-      value: 23,
+      title: 'Layers Coverage',
+      value: 42,
       color: 'danger',
-      footer: 'Provide required notes',
+      footer: '42% completed',
     },
   ],
 };

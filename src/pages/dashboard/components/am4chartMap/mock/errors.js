@@ -3,282 +3,282 @@ export default [
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "28.138.22.245",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "96.99.243.46",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "218.55.219.145",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "190.10.88.46",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "51.170.173.144",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "186.126.97.81",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "30.231.34.58",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "231.186.23.156",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "155.250.174.201",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "92.52.93.172",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "220.147.82.13",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "247.7.79.67",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "89.225.109.3",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "2.180.42.189",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "65.29.81.177",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "122.133.89.217",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "204.149.131.19",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "48.234.16.15",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "129.188.70.234",
+    tooltip: "iOS Device"
   },
   {
     latitude: 45.0328,
     longitude: 38.9769,
     size: 3,
-    tooltip: "197.73.9.44",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "44.197.33.46",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "232.164.169.251",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "183.153.117.196",
+    tooltip: "iOS Device"
   },
   {
     latitude: 51.672,
     longitude: 39.1843,
     size: 3,
-    tooltip: "41.34.73.88",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.0411,
     longitude: 82.9344,
     size: 3,
-    tooltip: "78.178.194.84",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "126.2.38.95",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.6769,
     longitude: 37.2731,
     size: 3,
-    tooltip: "99.189.105.19",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "254.136.212.92",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.6355,
     longitude: 37.8445,
     size: 3,
-    tooltip: "85.234.159.91",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "251.202.44.167",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.4413,
     longitude: 37.7537,
     size: 3,
-    tooltip: "174.186.151.70",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.7522,
     longitude: 37.6156,
     size: 3,
-    tooltip: "239.237.170.143",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.154,
     longitude: 61.4291,
     size: 3,
-    tooltip: "158.138.164.244",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "5.194.65.7",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "177.17.141.140",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "231.60.161.184",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "153.27.20.12",
+    tooltip: "iOS Device"
   },
   {
     latitude: 45.4789,
     longitude: 133.4282,
     size: 3,
-    tooltip: "222.107.247.228",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "197.41.46.5",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "83.103.41.29",
+    tooltip: "iOS Device"
   },
   {
     latitude: 43.1211,
     longitude: 131.9226,
     size: 3,
-    tooltip: "34.161.87.132",
+    tooltip: "iOS Device"
   },
   {
     latitude: 59.8944,
     longitude: 30.2642,
     size: 3,
-    tooltip: "9.100.101.122",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "223.17.151.253",
+    tooltip: "iOS Device"
   },
   {
     latitude: 45.3539,
     longitude: 40.4105,
     size: 3,
-    tooltip: "124.85.180.170",
+    tooltip: "iOS Device"
   },
   {
     latitude: 54.4564,
     longitude: 48.0617,
     size: 3,
-    tooltip: "134.41.59.32",
+    tooltip: "iOS Device"
   },
   {
     latitude: 50.5503,
     longitude: 137.01,
     size: 3,
-    tooltip: "189.50.88.151",
+    tooltip: "iOS Device"
   },
   {
     latitude: 55.75,
     longitude: 37.6166,
     size: 3,
-    tooltip: "247.1.248.250",
+    tooltip: "iOS Device"
   },
 ];
