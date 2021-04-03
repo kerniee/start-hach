@@ -1,19010 +1,19010 @@
 export default [
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.3366,
-      longitude: 40.7849,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.2833,
-      longitude: 28.4833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.9717,
-      longitude: 33.0819,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2187,
-      longitude: 39.8886,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.6107,
-      longitude: 36.5802,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 60.1167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.4539,
-      longitude: 40.5347,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.3167,
-      longitude: 9.6833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.8236,
-      longitude: 91.2842,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.4091,
-      longitude: 56.8204,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3343,
-      longitude: 41.6295,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6769,
-      longitude: 37.2731,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0446,
-      longitude: 38.8426,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: -0.13,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8333,
-      longitude: 28.3333,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6538,
-      longitude: 19.911,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6388,
-      longitude: 47.8908,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56,
-      longitude: 38.3667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0038,
-      longitude: 50.0549,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.678,
-      longitude: 37.2777,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6355,
-      longitude: 37.8445,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.0922,
-      longitude: 30.2368,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.7513,
-      longitude: 30.4766,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6186,
-      longitude: 35.7598,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.731700000000004,
-      longitude: 41.4433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.8225,
-      longitude: 37.3181,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.1125,
-      longitude: 39.0742,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7611,
-      longitude: 37.8575,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.5303,
-      longitude: 49.3461,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.98,
-      longitude: 41.12,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.331,
-      longitude: 35.3711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.3573,
-      longitude: 34.998,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6878,
-      longitude: 40.7015,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.2414,
-      longitude: 43.4554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3343,
-      longitude: 41.6295,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.6107,
-      longitude: 36.5802,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0446,
-      longitude: 38.8426,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3333,
-      longitude: 86.0833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.4181,
-      longitude: 40.0939,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.5503,
-      longitude: 137.01,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0448,
-      longitude: 38.976,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7227,
-      longitude: 55.3637,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.1966,
-      longitude: 12.8705,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0328,
-      longitude: 38.9769,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.6106,
-      longitude: 142.7939,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6878,
-      longitude: 40.7015,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.747,
-      longitude: 87.7545,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8136,
-      longitude: 28.3496,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0038,
-      longitude: 50.0549,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.75,
-      longitude: 87.1,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3747,
-      longitude: 38.6275,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2362,
-      longitude: 38.8969,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2187,
-      longitude: 39.8886,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4808,
-      longitude: 135.0928,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.4617,
-      longitude: 40.1206,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.2833,
-      longitude: 28.4833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.7513,
-      longitude: 30.4766,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9606,
-      longitude: 38.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3952,
-      longitude: 38.7122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6355,
-      longitude: 37.8445,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.9792,
-      longitude: 33.0925,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.0747,
-      longitude: 36.2468,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.0184,
-      longitude: 92.8672,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0448,
-      longitude: 38.976,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.5293,
-      longitude: 36.2754,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.6763,
-      longitude: 34.4078,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.5303,
-      longitude: 49.3461,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0038,
-      longitude: 50.0549,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 49.4474,
-      longitude: 44.5259,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4849,
-      longitude: 45.1264,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.9344,
-      longitude: 76.5531,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.15,
-      longitude: 33.3,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.7333,
-      longitude: 37.1667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5966,
-      longitude: 49.6601,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.4186,
-      longitude: 59.0472,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.8272,
-      longitude: 107.6063,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2167,
-      longitude: 39.9,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0448,
-      longitude: 38.976,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.0727,
-      longitude: 30.4784,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0328,
-      longitude: 38.9769,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4413,
-      longitude: 37.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7306,
-      longitude: 37.4089,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6369,
-      longitude: 47.8711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.45,
-      longitude: 30.5233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7858,
-      longitude: 44.7797,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2187,
-      longitude: 39.8886,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6008,
-      longitude: 37.344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.9158,
-      longitude: 37.4111,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.6664,
-      longitude: 39.17,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.3366,
-      longitude: 40.7849,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7896,
-      longitude: 38.4467,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7611,
-      longitude: 37.8575,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.8802,
-      longitude: 40.2166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.0869,
-      longitude: 38.2203,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 33.6748,
-      longitude: -111.9519,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.8665,
-      longitude: 38.4438,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1544,
-      longitude: 61.4297,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7858,
-      longitude: 44.7797,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5994,
-      longitude: 37.0386,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3952,
-      longitude: 38.7122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5669,
-      longitude: 38.2303,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.0247,
-      longitude: 47.7941,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.5293,
-      longitude: 36.2754,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.9689,
-      longitude: 43.7469,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.331,
-      longitude: 35.3711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0983,
-      longitude: 45.416,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 62.0339,
-      longitude: 129.7331,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.1569,
-      longitude: 38.8097,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7041,
-      longitude: 33.3751,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4849,
-      longitude: 45.1264,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5406,
-      longitude: 46.0086,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.9651,
-      longitude: 36.0785,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6186,
-      longitude: 35.7598,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.6198,
-      longitude: 39.8554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6878,
-      longitude: 40.7015,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5406,
-      longitude: 46.0086,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.9541,
-      longitude: 142.736,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.6763,
-      longitude: 34.4078,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9089,
-      longitude: 37.7339,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.6198,
-      longitude: 39.8554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2362,
-      longitude: 38.8969,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.5293,
-      longitude: 36.2754,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 64.5401,
-      longitude: 40.5433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.9321,
-      longitude: 30.1968,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.6907,
-      longitude: 33.5071,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.731700000000004,
-      longitude: 41.4433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 61.25,
-      longitude: 73.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0139,
-      longitude: 36.4725,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2187,
-      longitude: 39.8886,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 62.0339,
-      longitude: 129.7331,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.85,
-      longitude: 4.35,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3647,
-      longitude: 50.6422,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.2152,
-      longitude: 39.2265,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0038,
-      longitude: 50.0549,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.36,
-      longitude: 83.76,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8498,
-      longitude: 53.2045,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.9689,
-      longitude: 43.7469,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.5503,
-      longitude: 137.01,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1322,
-      longitude: 47.2519,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.6198,
-      longitude: 39.8554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1322,
-      longitude: 47.2519,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.34,
-      longitude: 30.5347,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.1981,
-      longitude: 68.2546,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.6429,
-      longitude: 39.1724,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 67.9372,
-      longitude: 34.5594,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.1,
-      longitude: 65.76,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.8138,
-      longitude: 132.8735,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.9764,
-      longitude: 47.5024,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.1522,
-      longitude: 65.5272,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.7513,
-      longitude: 30.4766,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.45,
-      longitude: 65.3333,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.9454,
-      longitude: 37.349,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.35,
-      longitude: 37.5167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5019,
-      longitude: 36.0272,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.9522,
-      longitude: 142.7406,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1347,
-      longitude: 37.9447,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6369,
-      longitude: 47.8711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0983,
-      longitude: 45.416,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 61.23,
-      longitude: 73.23,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.8138,
-      longitude: 132.8735,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 37.9667,
-      longitude: 23.7167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0487,
-      longitude: 53.9872,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9742,
-      longitude: 48.0181,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5529,
-      longitude: 34.9954,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.2967,
-      longitude: 37.8417,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.9284,
-      longitude: 47.9172,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.3083,
-      longitude: 45.7003,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.1118,
-      longitude: 77.2186,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.7239,
-      longitude: 37.7708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6769,
-      longitude: 37.2731,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8498,
-      longitude: 53.2045,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9606,
-      longitude: 38.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 49.4474,
-      longitude: 44.5259,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.4789,
-      longitude: 133.4282,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2362,
-      longitude: 38.8969,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.435,
-      longitude: 60.0561,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.5622,
-      longitude: 38.0848,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 62.0339,
-      longitude: 129.7331,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5406,
-      longitude: 46.0086,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.0922,
-      longitude: 30.2368,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6355,
-      longitude: 37.8445,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: -0.13,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.0184,
-      longitude: 92.8672,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.9651,
-      longitude: 36.0785,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4413,
-      longitude: 37.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1585,
-      longitude: 48.4681,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4849,
-      longitude: 45.1264,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.886,
-      longitude: 37.7427,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1347,
-      longitude: 37.9447,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.9361,
-      longitude: 39.0167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.8553,
-      longitude: 39.9603,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6,
-      longitude: 39.7303,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.3078,
-      longitude: 48.3181,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.1125,
-      longitude: 39.0742,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.4789,
-      longitude: 133.4282,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0038,
-      longitude: 50.0549,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 37.9667,
-      longitude: 23.7167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.4202,
-      longitude: 40.0913,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.3366,
-      longitude: 40.7849,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1322,
-      longitude: 47.2519,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.885,
-      longitude: 29.8958,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.4202,
-      longitude: 40.0913,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.1981,
-      longitude: 68.2546,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6165,
-      longitude: 38.4407,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.4839,
-      longitude: 46.1053,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7227,
-      longitude: 55.3637,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.3381,
-      longitude: 131.5756,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.75,
-      longitude: 87.1,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3875,
-      longitude: 36.7331,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0839,
-      longitude: 21.8785,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.678,
-      longitude: 37.2777,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3343,
-      longitude: 41.6295,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.747,
-      longitude: 87.7545,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3333,
-      longitude: 86.0833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8498,
-      longitude: 53.2045,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4413,
-      longitude: 37.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 49.4474,
-      longitude: 44.5259,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.747,
-      longitude: 87.7545,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.0444,
-      longitude: 42.8606,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9197,
-      longitude: 37.8281,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.4249,
-      longitude: 8.612400000001,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.9541,
-      longitude: 142.736,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.2796,
-      longitude: 127.5405,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.9344,
-      longitude: 76.5531,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8575,
-      longitude: 60.6125,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.4789,
-      longitude: 133.4282,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.2967,
-      longitude: 37.8417,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 49.5747,
-      longitude: 18.7695,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.0317,
-      longitude: 113.5009,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0446,
-      longitude: 38.8426,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.1088,
-      longitude: 102.1648,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.8792,
-      longitude: 104.7894,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6769,
-      longitude: 37.2731,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 67.56,
-      longitude: 33.39,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.5503,
-      longitude: 137.01,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.9764,
-      longitude: 47.5024,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.8138,
-      longitude: 132.8735,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6369,
-      longitude: 47.8711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.9333,
-      longitude: 76.5667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1365,
-      longitude: 40.3966,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.9284,
-      longitude: 47.9172,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.008,
-      longitude: 102.6693,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.8138,
-      longitude: 132.8735,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0584,
-      longitude: 41.056,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6388,
-      longitude: 47.8908,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 65.145,
-      longitude: 57.2164,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.9044,
-      longitude: 52.3154,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.4981,
-      longitude: 43.6189,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.2796,
-      longitude: 127.5405,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0794,
-      longitude: 38.7783,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.9044,
-      longitude: 52.3154,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4808,
-      longitude: 60.2157,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.6106,
-      longitude: 142.7939,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0661,
-      longitude: 118.1481,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.4703,
-      longitude: -2.1275,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8498,
-      longitude: 53.2045,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.4789,
-      longitude: 133.4282,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8575,
-      longitude: 60.6125,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3343,
-      longitude: 41.6295,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6197,
-      longitude: 39.74,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.0184,
-      longitude: 92.8672,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.6198,
-      longitude: 39.8554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.0835,
-      longitude: 39.1069,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5669,
-      longitude: 38.2303,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1365,
-      longitude: 40.3966,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2044,
-      longitude: 37.6111,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7227,
-      longitude: 55.3637,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5406,
-      longitude: 46.0086,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7373,
-      longitude: 36.1873,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5158,
-      longitude: 36.9725,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.4977,
-      longitude: 84.9744,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7613,
-      longitude: 52.0649,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.9792,
-      longitude: 33.0925,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5406,
-      longitude: 46.0086,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: -0.13,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.376,
-      longitude: 39.5143,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 64.5401,
-      longitude: 40.5433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.5303,
-      longitude: 49.3461,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1889,
-      longitude: 31.8111,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 64.5401,
-      longitude: 40.5433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.637,
-      longitude: 150.9245,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.7227,
-      longitude: 55.3637,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.5303,
-      longitude: 49.3461,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 37.9667,
-      longitude: 23.7167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.4186,
-      longitude: 59.0472,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.9284,
-      longitude: 47.9172,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: 81.25,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9197,
-      longitude: 37.8281,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.8452,
-      longitude: 40.3083,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6366,
-      longitude: 51.8245,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3,
-      longitude: 141.4667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.5724,
-      longitude: 36.3247,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.9972,
-      longitude: 40.9714,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6369,
-      longitude: 47.8711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1365,
-      longitude: 40.3966,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5142,
-      longitude: -0.0931,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1544,
-      longitude: 61.4297,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6369,
-      longitude: 47.8711,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0794,
-      longitude: 38.7783,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.0184,
-      longitude: 92.8672,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4242,
-      longitude: 37.5547,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.8833,
-      longitude: 38.5667,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3343,
-      longitude: 41.6295,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.6198,
-      longitude: 39.8554,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5524,
-      longitude: 37.7097,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3952,
-      longitude: 38.7122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.1118,
-      longitude: 77.2186,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6769,
-      longitude: 37.2731,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.8766,
-      longitude: 48.5103,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7611,
-      longitude: 37.8575,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8263,
-      longitude: 60.5388,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 64.5722,
-      longitude: 39.8475,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8498,
-      longitude: 53.2045,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9089,
-      longitude: 37.7339,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 61.7961,
-      longitude: 34.3493,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8575,
-      longitude: 60.6125,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 49.4474,
-      longitude: 44.5259,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8605,
-      longitude: 35.876,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2044,
-      longitude: 37.6111,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.4789,
-      longitude: 133.4282,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8619,
-      longitude: 35.8931,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1544,
-      longitude: 61.4297,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.1703,
-      longitude: 30.1842,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.678,
-      longitude: 37.2777,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7818,
-      longitude: 32.0401,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 60.1547,
-      longitude: 59.9564,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.1544,
-      longitude: 61.4297,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.5303,
-      longitude: 49.3461,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2021,
-      longitude: 37.6443,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.9651,
-      longitude: 36.0785,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 61.6764,
-      longitude: 50.8099,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7852,
-      longitude: 56.0456,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.6106,
-      longitude: 142.7939,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.0291,
-      longitude: 40.3727,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.678,
-      longitude: 37.2777,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0328,
-      longitude: 38.9769,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.3083,
-      longitude: 45.7003,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7065,
-      longitude: 20.511,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.731700000000004,
-      longitude: 41.4433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0794,
-      longitude: 38.7783,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6664,
-      longitude: 124.6383,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 46.3078,
-      longitude: 44.2558,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.71,
-      longitude: 91.42,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.3282,
-      longitude: 48.3866,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.0486,
-      longitude: 43.0594,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.6333,
-      longitude: 41.9444,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.3083,
-      longitude: 45.7003,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1473,
-      longitude: 44.1979,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.2978,
-      longitude: 104.2964,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 61.2575,
-      longitude: 46.6496,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.7665,
-      longitude: 40.9269,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.5293,
-      longitude: 36.2754,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.4186,
-      longitude: 59.0472,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6664,
-      longitude: 124.6383,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0093,
-      longitude: 56.2841,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.5293,
-      longitude: 36.2754,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.6383,
-      longitude: 51.8169,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.3333,
-      longitude: 48.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6197,
-      longitude: 39.74,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7887,
-      longitude: 49.1221,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 64.5401,
-      longitude: 40.5433,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58,
-      longitude: 56.25,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.6031,
-      longitude: 39.5708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.4839,
-      longitude: 46.1053,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.45,
-      longitude: 30.5233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.2187,
-      longitude: 39.8886,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.672,
-      longitude: 39.1843,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.731700000000004,
-      longitude: 41.4339,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.897,
-      longitude: 37.4297,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1365,
-      longitude: 40.3966,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.96,
-      longitude: 133.05,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.154,
-      longitude: 61.4291,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.0486,
-      longitude: 43.0594,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55,
-      longitude: 73.4,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.6664,
-      longitude: 124.6383,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.0488,
-      longitude: 38.9725,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.9764,
-      longitude: 47.5024,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.3606,
-      longitude: 83.7636,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: -0.13,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2521,
-      longitude: 34.3717,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.5992,
-      longitude: 39.7257,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.2233,
-      longitude: 42.0578,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.1981,
-      longitude: 68.2546,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 63.1667,
-      longitude: 75.6167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.7665,
-      longitude: 40.9269,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 42.8138,
-      longitude: 132.8735,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.752,
-      longitude: 37.615,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 57.1522,
-      longitude: 65.5272,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6,
-      longitude: 39.7303,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.4771,
-      longitude: 38.0354,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.0833,
-      longitude: 14.4167,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0411,
-      longitude: 82.9344,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 44.0486,
-      longitude: 43.0594,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.5503,
-      longitude: 137.01,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.9222,
-      longitude: 32.3381,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.7605,
-      longitude: 38.8784,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.0184,
-      longitude: 92.8672,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.8519,
-      longitude: 60.6122,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.2007,
-      longitude: 45.0046,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.9717,
-      longitude: 33.0819,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.5167,
-      longitude: 31.2833,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 58.0446,
-      longitude: 38.8426,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.6881,
-      longitude: 43.5369,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.9158,
-      longitude: 128.4611,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.3671,
-      longitude: 42.0849,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.7194,
-      longitude: 44.5018,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6269,
-      longitude: 39.6916,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.1365,
-      longitude: 40.3966,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.3269,
-      longitude: 44.0075,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.5096,
-      longitude: 47.4913,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.2044,
-      longitude: 37.6111,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.6197,
-      longitude: 39.74,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.0317,
-      longitude: 113.5009,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 52.0317,
-      longitude: 113.5009,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: 81.25,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 51.5,
-      longitude: -0.13,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 53.1835,
-      longitude: 50.1182,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.3875,
-      longitude: 36.7331,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 56.4185,
-      longitude: 61.9329,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.9052,
-      longitude: 94.7537,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 48.4827,
-      longitude: 135.0838,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 45.3539,
-      longitude: 40.4105,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 59.8944,
-      longitude: 30.2642,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 47.2313,
-      longitude: 39.7233,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 54.4564,
-      longitude: 48.0617,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 50.6107,
-      longitude: 36.5802,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 43.1211,
-      longitude: 131.9226,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.4194,
-      longitude: 38.2708,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.0415,
-      longitude: 82.9346,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 68.9792,
-      longitude: 33.0925,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.75,
-      longitude: 37.6166,
-      size: 2,
-      tooltip: "139.15.196.87"
-    },
-    {
-      latitude: 55.7522,
-      longitude: 37.6156,
-      size: 2,
-      tooltip: "139.15.196.87"
-    }
-  ]
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "109.196.240.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.251.111.93",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.99.0.38",
+  },
+  {
+    latitude: 44.3366,
+    longitude: 40.7849,
+    size: 2,
+    tooltip: "142.153.148.96",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "127.206.171.213",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "229.96.235.16",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "177.45.48.202",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "173.112.201.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "72.1.66.63",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "86.187.130.131",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "26.127.231.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.81.250.105",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "208.43.63.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "156.126.54.4",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.127.4.187",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "183.76.164.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.51.207.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.168.194.80",
+  },
+  {
+    latitude: 56.2833,
+    longitude: 28.4833,
+    size: 2,
+    tooltip: "131.176.58.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.176.53.169",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "207.63.137.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.51.249.176",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.153.163.55",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "30.54.67.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "38.123.43.195",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "21.194.45.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.40.122.48",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "47.88.147.232",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "206.91.107.122",
+  },
+  {
+    latitude: 68.9717,
+    longitude: 33.0819,
+    size: 2,
+    tooltip: "120.29.3.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "191.14.184.122",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "181.219.197.1",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "145.3.45.209",
+  },
+  {
+    latitude: 59.2187,
+    longitude: 39.8886,
+    size: 2,
+    tooltip: "151.199.93.146",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "182.161.69.194",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "182.255.179.23",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "199.192.92.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.4.2.2",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "32.164.174.111",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "227.102.42.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.22.240.84",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "198.255.219.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.22.179.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "16.215.128.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.97.55.5",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "48.125.177.18",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "65.6.7.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.0.137.116",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "66.241.115.247",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "244.80.35.131",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "219.30.143.100",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "158.79.85.86",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "248.241.219.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "253.119.137.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.144.168.74",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "95.187.156.187",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.196.90.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.78.66.156",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "253.175.68.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.66.221.26",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "248.193.23.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.170.20.105",
+  },
+  {
+    latitude: 50.6107,
+    longitude: 36.5802,
+    size: 2,
+    tooltip: "7.132.89.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.252.122.216",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "129.215.232.82",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "246.81.139.101",
+  },
+  {
+    latitude: 55.75,
+    longitude: 60.1167,
+    size: 2,
+    tooltip: "115.98.61.66",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "104.139.111.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.17.221.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.109.138.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.0.208.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.162.35.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.33.46.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.117.119.250",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "152.170.55.131",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "13.215.231.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.44.71.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.189.158.167",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.199.94.126",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.165.24.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.100.237.193",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "212.154.137.143",
+  },
+  {
+    latitude: 52.4539,
+    longitude: 40.5347,
+    size: 2,
+    tooltip: "150.229.250.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.6.249.211",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "0.39.108.88",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "205.9.70.14",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "20.184.112.189",
+  },
+  {
+    latitude: 54.3167,
+    longitude: 9.6833,
+    size: 2,
+    tooltip: "102.219.250.75",
+  },
+  {
+    latitude: 53.8236,
+    longitude: 91.2842,
+    size: 2,
+    tooltip: "218.241.135.124",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.187.218.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.214.13.103",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "172.68.224.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.233.126.215",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.237.95.26",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "234.140.195.234",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "179.89.183.217",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.252.220.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "80.197.247.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "3.144.155.192",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "123.204.27.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "140.187.170.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.129.16.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.29.150.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.24.101.145",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "252.107.212.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.245.205.214",
+  },
+  {
+    latitude: 59.4091,
+    longitude: 56.8204,
+    size: 2,
+    tooltip: "41.117.28.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.237.58.206",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.34.79.18",
+  },
+  {
+    latitude: 55.3343,
+    longitude: 41.6295,
+    size: 2,
+    tooltip: "47.111.120.232",
+  },
+  {
+    latitude: 55.6769,
+    longitude: 37.2731,
+    size: 2,
+    tooltip: "194.200.47.73",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "108.198.172.38",
+  },
+  {
+    latitude: 58.0446,
+    longitude: 38.8426,
+    size: 2,
+    tooltip: "186.118.166.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.101.114.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.39.238.19",
+  },
+  {
+    latitude: 51.5,
+    longitude: -0.13,
+    size: 2,
+    tooltip: "91.50.10.131",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.141.33.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.184.141.117",
+  },
+  {
+    latitude: 57.8333,
+    longitude: 28.3333,
+    size: 2,
+    tooltip: "158.97.46.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.188.10.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "182.7.33.127",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.176.103.10",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "85.166.103.207",
+  },
+  {
+    latitude: 54.6538,
+    longitude: 19.911,
+    size: 2,
+    tooltip: "21.60.156.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "196.107.102.163",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "238.252.128.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "77.4.247.121",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.228.62.116",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "248.207.1.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.253.49.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.184.171.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.81.200.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "149.41.73.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.35.62.27",
+  },
+  {
+    latitude: 56.6388,
+    longitude: 47.8908,
+    size: 2,
+    tooltip: "181.224.198.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "27.124.217.244",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "250.200.206.8",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "96.57.90.200",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "29.142.24.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.110.127.161",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "36.131.23.196",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "85.23.27.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.192.200.47",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.69.237.111",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "198.49.210.233",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "148.153.242.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.146.16.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.234.203.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.39.43.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.76.125.156",
+  },
+  {
+    latitude: 56,
+    longitude: 38.3667,
+    size: 2,
+    tooltip: "101.32.252.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.195.103.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.176.151.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.242.55.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "147.251.148.159",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "5.201.74.131",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "212.252.7.73",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "32.252.116.36",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "0.155.79.41",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "47.241.53.175",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "165.169.83.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.177.75.211",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "49.80.64.44",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "227.72.43.22",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "10.185.73.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.194.24.184",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "201.239.174.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "84.255.215.210",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.95.87.106",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "153.169.104.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.99.77.150",
+  },
+  {
+    latitude: 55.0038,
+    longitude: 50.0549,
+    size: 2,
+    tooltip: "141.140.25.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.10.233.242",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "212.153.225.190",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "244.7.195.87",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.69.204.32",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "203.84.130.115",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.194.62.105",
+  },
+  {
+    latitude: 55.678,
+    longitude: 37.2777,
+    size: 2,
+    tooltip: "47.43.71.180",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "118.117.11.27",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "206.153.248.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.245.99.29",
+  },
+  {
+    latitude: 55.6355,
+    longitude: 37.8445,
+    size: 2,
+    tooltip: "193.105.24.29",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "174.13.85.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.153.93.171",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "32.54.42.2",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.31.225.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.253.81.223",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.16.84.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "71.152.142.129",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.52.138.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.11.105.62",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "25.8.89.32",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.227.38.201",
+  },
+  {
+    latitude: 60.0922,
+    longitude: 30.2368,
+    size: 2,
+    tooltip: "127.184.195.150",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "87.58.48.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.164.113.226",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "132.235.56.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.117.75.127",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "175.4.60.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.93.121.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.7.54.32",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "222.209.86.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.80.35.158",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "28.20.84.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.156.110.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "164.145.140.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "107.174.108.234",
+  },
+  {
+    latitude: 59.7513,
+    longitude: 30.4766,
+    size: 2,
+    tooltip: "251.122.37.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.187.210.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.190.210.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.229.208.195",
+  },
+  {
+    latitude: 52.6186,
+    longitude: 35.7598,
+    size: 2,
+    tooltip: "41.135.226.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.168.176.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.13.58.141",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "203.12.166.71",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.31.117.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.170.152.79",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "208.233.193.36",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.95.73.176",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "126.249.126.236",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "8.159.106.117",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "33.125.19.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.86.135.251",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "213.38.103.22",
+  },
+  {
+    latitude: 52.731700000000004,
+    longitude: 41.4433,
+    size: 2,
+    tooltip: "228.215.82.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "155.166.75.155",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "87.20.65.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.170.22.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.230.35.186",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "94.127.8.158",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "107.7.134.42",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "51.211.103.142",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "84.120.175.87",
+  },
+  {
+    latitude: 55.8225,
+    longitude: 37.3181,
+    size: 2,
+    tooltip: "119.160.43.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.138.143.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.188.147.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "119.41.53.93",
+  },
+  {
+    latitude: 44.1125,
+    longitude: 39.0742,
+    size: 2,
+    tooltip: "124.33.130.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.140.95.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "20.134.225.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "198.158.207.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "82.19.90.51",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "5.36.189.209",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "55.221.17.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "153.184.104.184",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "10.87.161.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.85.174.115",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.202.26.222",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.51.6.52",
+  },
+  {
+    latitude: 55.7611,
+    longitude: 37.8575,
+    size: 2,
+    tooltip: "164.192.179.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.161.236.250",
+  },
+  {
+    latitude: 53.5303,
+    longitude: 49.3461,
+    size: 2,
+    tooltip: "226.14.193.96",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.253.90.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.164.28.4",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "224.83.252.97",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "115.126.193.42",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "111.217.10.31",
+  },
+  {
+    latitude: 44.98,
+    longitude: 41.12,
+    size: 2,
+    tooltip: "77.161.226.107",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "91.145.193.228",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "92.66.20.9",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "72.142.225.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "5.4.119.116",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "78.149.120.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.45.253.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.193.171.114",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "251.237.13.236",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "23.143.165.90",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "154.116.213.238",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "124.209.150.133",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.63.49.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.102.183.198",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "77.233.15.130",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "164.63.56.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.105.61.64",
+  },
+  {
+    latitude: 52.331,
+    longitude: 35.3711,
+    size: 2,
+    tooltip: "96.180.18.79",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.224.78.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.141.69.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.219.157.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.132.173.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "230.124.190.94",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "251.223.113.213",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "229.85.250.178",
+  },
+  {
+    latitude: 52.3573,
+    longitude: 34.998,
+    size: 2,
+    tooltip: "228.238.89.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.181.234.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "239.255.55.135",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "197.1.137.101",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "221.94.166.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.63.112.134",
+  },
+  {
+    latitude: 43.6878,
+    longitude: 40.7015,
+    size: 2,
+    tooltip: "118.64.11.106",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "223.214.94.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.97.44.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.112.2.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "30.215.107.207",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.212.90.120",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "56.194.23.247",
+  },
+  {
+    latitude: 56.2414,
+    longitude: 43.4554,
+    size: 2,
+    tooltip: "8.74.76.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.197.1.31",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "0.203.188.84",
+  },
+  {
+    latitude: 55.3343,
+    longitude: 41.6295,
+    size: 2,
+    tooltip: "242.213.29.232",
+  },
+  {
+    latitude: 50.6107,
+    longitude: 36.5802,
+    size: 2,
+    tooltip: "202.127.57.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "170.135.170.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "240.165.59.120",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "206.16.18.25",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "140.72.163.232",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "8.17.211.139",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "231.70.208.207",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "99.93.52.187",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "62.203.67.194",
+  },
+  {
+    latitude: 58.0446,
+    longitude: 38.8426,
+    size: 2,
+    tooltip: "221.68.108.189",
+  },
+  {
+    latitude: 55.3333,
+    longitude: 86.0833,
+    size: 2,
+    tooltip: "5.17.188.68",
+  },
+  {
+    latitude: 47.4181,
+    longitude: 40.0939,
+    size: 2,
+    tooltip: "223.245.219.3",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.49.134.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.36.47.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.61.23.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "157.214.193.126",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "40.211.102.103",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "80.116.67.141",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "16.205.88.146",
+  },
+  {
+    latitude: 50.5503,
+    longitude: 137.01,
+    size: 2,
+    tooltip: "185.94.153.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.149.209.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "198.161.6.198",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "4.217.134.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.249.137.122",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "213.35.208.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.169.249.220",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "116.71.68.178",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "101.222.112.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.45.177.208",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "102.124.80.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.43.42.205",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "66.216.108.181",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "170.216.232.203",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "16.29.60.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.30.139.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.243.89.224",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "186.218.9.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.101.99.247",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "246.164.10.43",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "174.234.95.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "232.136.233.45",
+  },
+  {
+    latitude: 45.0448,
+    longitude: 38.976,
+    size: 2,
+    tooltip: "253.42.153.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "239.231.101.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.27.179.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.57.199.217",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.187.251.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.49.16.131",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "169.124.20.153",
+  },
+  {
+    latitude: 51.7227,
+    longitude: 55.3637,
+    size: 2,
+    tooltip: "195.28.140.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.201.249.83",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "20.98.95.47",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.167.179.131",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "248.94.85.250",
+  },
+  {
+    latitude: 50.1966,
+    longitude: 12.8705,
+    size: 2,
+    tooltip: "118.39.101.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "155.210.11.187",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.92.125.34",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "172.149.17.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "16.206.221.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "51.29.208.54",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "80.78.52.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.200.91.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.227.183.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.171.231.87",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "139.152.168.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "46.228.131.108",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "207.46.33.173",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "169.254.0.51",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.59.48.184",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "14.90.203.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.125.217.197",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "252.127.43.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "111.159.72.57",
+  },
+  {
+    latitude: 45.0328,
+    longitude: 38.9769,
+    size: 2,
+    tooltip: "144.36.121.134",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "193.13.163.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.53.61.47",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "65.247.97.53",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "242.195.206.40",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.90.47.102",
+  },
+  {
+    latitude: 46.6106,
+    longitude: 142.7939,
+    size: 2,
+    tooltip: "232.120.90.154",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "173.113.204.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.149.230.64",
+  },
+  {
+    latitude: 43.6878,
+    longitude: 40.7015,
+    size: 2,
+    tooltip: "156.160.254.226",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.157.255.96",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "18.229.96.223",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.184.148.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.239.190.86",
+  },
+  {
+    latitude: 52.747,
+    longitude: 87.7545,
+    size: 2,
+    tooltip: "199.69.179.22",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "111.240.153.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.130.210.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.144.86.217",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.17.82.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "99.52.133.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "92.189.122.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.221.149.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.48.191.87",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.181.45.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "248.50.190.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.202.45.139",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "3.77.190.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.153.55.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.234.179.162",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "7.214.131.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.202.27.229",
+  },
+  {
+    latitude: 57.8136,
+    longitude: 28.3496,
+    size: 2,
+    tooltip: "103.147.145.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "251.217.13.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.179.216.91",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.200.141.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.212.113.32",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "53.139.171.37",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "87.152.239.108",
+  },
+  {
+    latitude: 55.0038,
+    longitude: 50.0549,
+    size: 2,
+    tooltip: "219.65.81.122",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.200.5.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.214.194.252",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "211.69.91.217",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "97.182.94.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.183.76.18",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.181.152.208",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "27.46.17.84",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "218.104.78.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.108.236.0",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "176.165.13.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.151.135.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.47.116.93",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "191.196.93.232",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "247.205.3.208",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "149.151.139.133",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "73.184.188.141",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "72.243.122.94",
+  },
+  {
+    latitude: 53.75,
+    longitude: 87.1,
+    size: 2,
+    tooltip: "133.190.56.251",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "229.202.195.22",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "230.91.211.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "135.133.36.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.30.94.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.201.84.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "111.74.73.54",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "72.123.198.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "255.43.253.249",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "28.249.31.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.223.131.198",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "63.234.129.234",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.109.187.31",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "94.3.75.106",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "156.122.52.175",
+  },
+  {
+    latitude: 55.3747,
+    longitude: 38.6275,
+    size: 2,
+    tooltip: "188.212.193.95",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "52.115.148.95",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "22.200.212.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.255.174.138",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "52.249.86.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.49.136.78",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "243.150.134.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.82.255.151",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "30.162.244.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "153.249.137.159",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "194.57.41.150",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.92.231.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.44.229.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.165.5.157",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "61.110.222.231",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "102.246.152.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.13.237.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "150.128.119.114",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "148.12.30.52",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "160.69.167.7",
+  },
+  {
+    latitude: 47.2362,
+    longitude: 38.8969,
+    size: 2,
+    tooltip: "145.29.92.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.49.181.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.77.23.220",
+  },
+  {
+    latitude: 59.2187,
+    longitude: 39.8886,
+    size: 2,
+    tooltip: "101.158.95.29",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.254.75.167",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "72.109.85.57",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.10.155.163",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "39.30.19.83",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "177.26.72.222",
+  },
+  {
+    latitude: 48.4808,
+    longitude: 135.0928,
+    size: 2,
+    tooltip: "99.127.249.57",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "87.21.221.190",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "239.24.236.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "13.227.2.253",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "113.76.28.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.7.244.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.31.173.208",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.47.242.13",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "209.115.74.81",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.37.91.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.72.21.57",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.146.127.181",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "178.92.100.188",
+  },
+  {
+    latitude: 59.4617,
+    longitude: 40.1206,
+    size: 2,
+    tooltip: "44.1.33.228",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "178.138.213.205",
+  },
+  {
+    latitude: 56.2833,
+    longitude: 28.4833,
+    size: 2,
+    tooltip: "93.92.248.49",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "162.10.113.95",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "139.229.3.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.24.93.144",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "85.103.229.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.229.152.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "21.186.193.159",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "135.175.102.65",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.198.152.106",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "77.0.229.75",
+  },
+  {
+    latitude: 59.7513,
+    longitude: 30.4766,
+    size: 2,
+    tooltip: "133.77.102.49",
+  },
+  {
+    latitude: 55.9606,
+    longitude: 38.0456,
+    size: 2,
+    tooltip: "52.100.71.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "116.128.160.2",
+  },
+  {
+    latitude: 56.3952,
+    longitude: 38.7122,
+    size: 2,
+    tooltip: "227.211.156.31",
+  },
+  {
+    latitude: 55.6355,
+    longitude: 37.8445,
+    size: 2,
+    tooltip: "220.197.47.235",
+  },
+  {
+    latitude: 68.9792,
+    longitude: 33.0925,
+    size: 2,
+    tooltip: "140.157.143.50",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "203.79.136.164",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "151.120.105.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.110.147.109",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "80.164.180.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.135.11.195",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "102.172.166.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.141.158.190",
+  },
+  {
+    latitude: 53.0747,
+    longitude: 36.2468,
+    size: 2,
+    tooltip: "67.61.19.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.236.239.215",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.144.113.25",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "161.158.139.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.14.247.107",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "132.22.13.223",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "30.170.4.79",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "109.16.153.41",
+  },
+  {
+    latitude: 56.0184,
+    longitude: 92.8672,
+    size: 2,
+    tooltip: "78.132.218.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.34.175.150",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.175.23.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.28.229.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.153.187.4",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "218.165.57.119",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "113.142.2.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.202.28.224",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "151.61.105.8",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "216.137.174.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.35.31.242",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.155.149.223",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "197.6.22.41",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.203.78.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.195.103.136",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "58.227.17.143",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "126.27.21.250",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "185.191.246.51",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "67.167.67.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "13.226.202.165",
+  },
+  {
+    latitude: 45.0448,
+    longitude: 38.976,
+    size: 2,
+    tooltip: "19.141.30.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.112.197.94",
+  },
+  {
+    latitude: 54.5293,
+    longitude: 36.2754,
+    size: 2,
+    tooltip: "21.9.30.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.27.255.96",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.247.224.138",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "240.119.119.57",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.133.1.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.193.8.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.4.168.117",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "144.21.110.101",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.226.133.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "53.125.230.170",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "62.216.119.198",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.87.145.35",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "235.186.115.51",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "111.101.115.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.152.250.55",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "101.184.169.129",
+  },
+  {
+    latitude: 44.6763,
+    longitude: 34.4078,
+    size: 2,
+    tooltip: "33.12.62.202",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "234.50.178.59",
+  },
+  {
+    latitude: 53.5303,
+    longitude: 49.3461,
+    size: 2,
+    tooltip: "189.241.157.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.160.131.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.233.91.214",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "126.209.184.55",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "238.229.216.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.203.206.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "230.187.128.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.190.35.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.196.100.21",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.7.88.200",
+  },
+  {
+    latitude: 55.0038,
+    longitude: 50.0549,
+    size: 2,
+    tooltip: "83.222.99.5",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.163.5.134",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "119.198.0.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.147.233.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.97.81.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.142.203.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.51.156.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "216.122.130.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.207.69.202",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "24.88.88.110",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.149.191.194",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "62.23.126.31",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.198.139.159",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.231.192.9",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "168.95.98.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.143.155.96",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.95.79.220",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "56.22.58.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.146.191.197",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "232.30.130.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.201.196.224",
+  },
+  {
+    latitude: 49.4474,
+    longitude: 44.5259,
+    size: 2,
+    tooltip: "2.152.110.154",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "6.158.121.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.38.141.44",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "81.70.51.140",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "147.159.121.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "53.169.174.148",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.161.56.15",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "125.154.87.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.50.4.206",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.127.32.128",
+  },
+  {
+    latitude: 48.4849,
+    longitude: 45.1264,
+    size: 2,
+    tooltip: "195.61.183.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.223.217.173",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.76.129.168",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "80.209.209.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.247.188.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "248.117.228.7",
+  },
+  {
+    latitude: 60.9344,
+    longitude: 76.5531,
+    size: 2,
+    tooltip: "179.108.143.22",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "219.184.21.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "92.34.147.32",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.156.244.235",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "17.150.111.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.138.18.164",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "250.234.26.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.76.53.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.187.16.186",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "127.233.129.3",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "231.237.39.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.120.161.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "30.154.149.205",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "161.56.157.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.26.93.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.178.187.64",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "222.251.116.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.225.128.133",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "32.38.227.150",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "156.156.105.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "81.71.199.156",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "51.238.186.181",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "186.64.36.225",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "234.166.135.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.0.243.1",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "81.105.137.219",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "85.99.38.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.43.230.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.24.32.67",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "102.204.128.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "111.227.246.10",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "39.204.106.37",
+  },
+  {
+    latitude: 68.15,
+    longitude: 33.3,
+    size: 2,
+    tooltip: "27.203.25.186",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "177.199.61.146",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "29.48.107.243",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "122.95.207.238",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.94.72.251",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "153.251.116.234",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "238.66.185.159",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "18.250.214.12",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "130.147.81.157",
+  },
+  {
+    latitude: 56.7333,
+    longitude: 37.1667,
+    size: 2,
+    tooltip: "131.22.253.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.131.133.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "250.193.72.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.208.90.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.202.40.13",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "130.229.141.93",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.229.251.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.238.185.160",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "172.137.104.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "100.35.138.250",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "127.59.57.106",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.230.255.151",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "44.235.148.154",
+  },
+  {
+    latitude: 58.5966,
+    longitude: 49.6601,
+    size: 2,
+    tooltip: "35.100.143.235",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "191.184.189.184",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "179.16.93.236",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.28.246.128",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "190.133.154.195",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "64.243.127.91",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.175.249.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.146.54.90",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "143.243.202.211",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "216.111.138.45",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "129.185.220.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.146.22.14",
+  },
+  {
+    latitude: 53.4186,
+    longitude: 59.0472,
+    size: 2,
+    tooltip: "106.42.94.212",
+  },
+  {
+    latitude: 51.8272,
+    longitude: 107.6063,
+    size: 2,
+    tooltip: "229.232.77.226",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "241.129.118.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.175.181.69",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "224.113.91.23",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "55.153.21.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.39.153.234",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "123.253.72.145",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "254.22.129.128",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "177.194.162.91",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "8.233.107.102",
+  },
+  {
+    latitude: 59.2167,
+    longitude: 39.9,
+    size: 2,
+    tooltip: "128.84.83.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.146.86.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "254.33.50.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.242.252.96",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.83.205.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.30.254.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "99.88.69.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.124.251.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.240.15.99",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "150.152.178.82",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "127.250.144.242",
+  },
+  {
+    latitude: 45.0448,
+    longitude: 38.976,
+    size: 2,
+    tooltip: "206.128.162.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.189.70.168",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "145.142.210.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "6.110.255.101",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.215.177.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.66.205.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.162.220.89",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "37.176.152.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.18.122.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "38.229.99.254",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "179.141.26.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.31.195.23",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "104.140.247.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.98.144.249",
+  },
+  {
+    latitude: 60.0727,
+    longitude: 30.4784,
+    size: 2,
+    tooltip: "72.0.87.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.127.193.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.178.231.164",
+  },
+  {
+    latitude: 45.0328,
+    longitude: 38.9769,
+    size: 2,
+    tooltip: "134.221.65.113",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "97.232.88.50",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "74.74.151.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.236.207.153",
+  },
+  {
+    latitude: 55.4413,
+    longitude: 37.7537,
+    size: 2,
+    tooltip: "253.127.3.101",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "164.118.99.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.59.155.113",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.216.40.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.180.128.69",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "205.110.16.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.237.173.86",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "136.5.196.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.205.133.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.149.159.249",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "101.48.109.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.237.192.41",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "145.247.118.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.192.30.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.225.122.20",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.172.236.83",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "218.161.85.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.60.196.62",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "50.62.135.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.77.33.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "170.204.146.245",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "101.43.35.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.41.38.232",
+  },
+  {
+    latitude: 54.7306,
+    longitude: 37.4089,
+    size: 2,
+    tooltip: "253.12.71.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.93.93.100",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "49.81.199.189",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "209.30.135.135",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "0.31.9.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.53.76.77",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "64.234.200.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.249.244.21",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "116.115.178.50",
+  },
+  {
+    latitude: 56.6369,
+    longitude: 47.8711,
+    size: 2,
+    tooltip: "173.54.4.36",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.208.24.129",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "137.221.129.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.173.106.234",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "36.134.79.249",
+  },
+  {
+    latitude: 50.45,
+    longitude: 30.5233,
+    size: 2,
+    tooltip: "64.154.19.57",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "7.37.126.74",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.226.176.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "250.5.23.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.174.144.165",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "209.29.117.200",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "156.5.187.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.223.4.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.234.156.189",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "153.165.129.146",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "185.2.55.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.35.140.27",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "142.196.225.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.101.37.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "187.208.130.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.195.91.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "182.157.150.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.194.143.241",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "120.134.193.94",
+  },
+  {
+    latitude: 48.7858,
+    longitude: 44.7797,
+    size: 2,
+    tooltip: "115.60.240.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.172.71.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.127.170.69",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "90.248.127.202",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.198.185.17",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "179.26.72.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.16.245.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.199.121.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.62.67.18",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.194.110.138",
+  },
+  {
+    latitude: 59.2187,
+    longitude: 39.8886,
+    size: 2,
+    tooltip: "94.147.23.249",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "86.225.163.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.244.28.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.169.182.22",
+  },
+  {
+    latitude: 55.6008,
+    longitude: 37.344,
+    size: 2,
+    tooltip: "161.80.15.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.113.216.154",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "137.179.38.40",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "27.201.161.171",
+  },
+  {
+    latitude: 54.9158,
+    longitude: 37.4111,
+    size: 2,
+    tooltip: "62.14.155.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "53.113.40.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "182.148.186.60",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "8.39.53.124",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "185.140.143.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.22.144.158",
+  },
+  {
+    latitude: 51.6664,
+    longitude: 39.17,
+    size: 2,
+    tooltip: "140.15.69.162",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "236.188.137.159",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.57.136.238",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "107.185.215.151",
+  },
+  {
+    latitude: 44.3366,
+    longitude: 40.7849,
+    size: 2,
+    tooltip: "27.123.120.35",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "155.240.117.139",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "31.112.73.245",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "232.174.146.97",
+  },
+  {
+    latitude: 55.7896,
+    longitude: 38.4467,
+    size: 2,
+    tooltip: "242.209.125.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.156.35.62",
+  },
+  {
+    latitude: 55.7611,
+    longitude: 37.8575,
+    size: 2,
+    tooltip: "108.115.45.50",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "61.22.136.58",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "182.242.5.64",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "111.183.136.79",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "71.235.237.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "114.243.139.101",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "92.142.90.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "26.57.59.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.173.164.92",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "168.113.153.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.27.143.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.186.180.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.51.159.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.104.59.163",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "218.158.117.244",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.29.117.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "57.21.132.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.147.46.9",
+  },
+  {
+    latitude: 44.8802,
+    longitude: 40.2166,
+    size: 2,
+    tooltip: "158.50.204.39",
+  },
+  {
+    latitude: 54.0869,
+    longitude: 38.2203,
+    size: 2,
+    tooltip: "125.219.61.204",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "127.191.193.248",
+  },
+  {
+    latitude: 33.6748,
+    longitude: -111.9519,
+    size: 2,
+    tooltip: "170.114.150.158",
+  },
+  {
+    latitude: 55.8665,
+    longitude: 38.4438,
+    size: 2,
+    tooltip: "145.135.229.22",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "118.176.40.81",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "8.154.99.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "202.129.24.173",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "75.189.126.242",
+  },
+  {
+    latitude: 55.1544,
+    longitude: 61.4297,
+    size: 2,
+    tooltip: "222.193.95.74",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "146.71.37.132",
+  },
+  {
+    latitude: 48.7858,
+    longitude: 44.7797,
+    size: 2,
+    tooltip: "72.159.204.159",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.134.0.15",
+  },
+  {
+    latitude: 55.5994,
+    longitude: 37.0386,
+    size: 2,
+    tooltip: "252.240.194.146",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "167.5.235.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "57.182.226.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.97.33.41",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.33.146.83",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "45.50.132.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "138.65.36.114",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "70.196.242.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.237.187.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.79.208.177",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "158.149.249.68",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "127.131.225.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.200.83.126",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "180.241.41.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.127.246.35",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "158.132.195.168",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "29.128.88.71",
+  },
+  {
+    latitude: 56.3952,
+    longitude: 38.7122,
+    size: 2,
+    tooltip: "146.118.189.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.214.182.205",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "109.141.146.38",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "100.250.1.51",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.162.220.249",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "46.117.51.165",
+  },
+  {
+    latitude: 55.5669,
+    longitude: 38.2303,
+    size: 2,
+    tooltip: "226.183.43.64",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.249.36.25",
+  },
+  {
+    latitude: 52.0247,
+    longitude: 47.7941,
+    size: 2,
+    tooltip: "12.255.201.250",
+  },
+  {
+    latitude: 54.5293,
+    longitude: 36.2754,
+    size: 2,
+    tooltip: "28.36.32.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.154.33.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "78.126.112.101",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "55.47.131.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "35.255.193.74",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.87.100.255",
+  },
+  {
+    latitude: 43.9689,
+    longitude: 43.7469,
+    size: 2,
+    tooltip: "177.67.67.17",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "40.239.228.173",
+  },
+  {
+    latitude: 52.331,
+    longitude: 35.3711,
+    size: 2,
+    tooltip: "113.181.180.106",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.108.1.161",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "211.226.219.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.145.184.75",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "251.76.64.6",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.228.65.128",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "255.117.191.186",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "148.182.223.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.211.134.27",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "165.211.205.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.247.239.111",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "185.77.189.75",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "26.254.127.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.148.64.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.3.222.61",
+  },
+  {
+    latitude: 50.0983,
+    longitude: 45.416,
+    size: 2,
+    tooltip: "204.5.12.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "208.38.86.2",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "159.162.189.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.8.72.114",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "167.151.67.109",
+  },
+  {
+    latitude: 62.0339,
+    longitude: 129.7331,
+    size: 2,
+    tooltip: "233.255.50.38",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "133.44.121.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.141.127.161",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "157.152.220.168",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "117.212.227.156",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "161.78.201.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.46.153.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.218.179.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "75.237.160.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.249.188.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.168.219.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.13.192.18",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "255.6.179.99",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "251.16.40.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.120.54.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "39.160.11.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "217.197.3.146",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "240.99.134.13",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "13.166.187.34",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.113.112.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.4.66.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.24.168.246",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "63.99.134.219",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "154.48.253.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "140.130.61.156",
+  },
+  {
+    latitude: 45.1569,
+    longitude: 38.8097,
+    size: 2,
+    tooltip: "226.245.119.40",
+  },
+  {
+    latitude: 54.7041,
+    longitude: 33.3751,
+    size: 2,
+    tooltip: "105.175.78.226",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "229.126.68.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.55.212.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.70.220.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.84.107.115",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.228.4.201",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "160.57.238.243",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "228.27.18.36",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "216.162.58.72",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "228.220.99.202",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "225.169.21.121",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "70.83.237.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.186.242.42",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "87.66.45.241",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "25.117.233.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.70.129.34",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "107.176.19.240",
+  },
+  {
+    latitude: 48.4849,
+    longitude: 45.1264,
+    size: 2,
+    tooltip: "188.237.19.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.215.114.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.116.178.48",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "17.230.135.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.164.22.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.128.140.145",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "51.186.93.71",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "3.244.7.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "254.167.194.102",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.237.31.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "202.216.3.79",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.242.232.190",
+  },
+  {
+    latitude: 51.5406,
+    longitude: 46.0086,
+    size: 2,
+    tooltip: "219.42.7.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.37.89.23",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "34.41.189.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.182.209.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.60.141.142",
+  },
+  {
+    latitude: 52.9651,
+    longitude: 36.0785,
+    size: 2,
+    tooltip: "155.205.251.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "30.26.63.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "250.152.138.229",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "202.33.104.150",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "31.44.145.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.72.161.250",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "73.24.51.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.219.144.84",
+  },
+  {
+    latitude: 52.6186,
+    longitude: 35.7598,
+    size: 2,
+    tooltip: "207.68.32.121",
+  },
+  {
+    latitude: 57.6198,
+    longitude: 39.8554,
+    size: 2,
+    tooltip: "148.211.207.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.137.217.61",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "121.210.172.254",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "101.92.33.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.177.56.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.47.53.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.48.19.156",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "165.228.20.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.70.69.202",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.142.111.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.55.10.53",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "212.144.167.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.29.161.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "180.255.119.183",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "31.128.212.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "208.21.66.1",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "203.33.62.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.110.44.185",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "117.104.153.249",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "172.4.177.252",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "114.200.106.136",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "220.6.166.118",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "204.219.94.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.57.12.67",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "163.233.23.94",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "126.154.244.163",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "132.3.53.233",
+  },
+  {
+    latitude: 43.6878,
+    longitude: 40.7015,
+    size: 2,
+    tooltip: "149.218.49.206",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.50.51.91",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.163.153.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.13.106.136",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "34.124.98.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "255.233.84.103",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "116.177.27.151",
+  },
+  {
+    latitude: 51.5406,
+    longitude: 46.0086,
+    size: 2,
+    tooltip: "8.153.242.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "21.77.193.15",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "41.204.101.141",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "166.168.230.210",
+  },
+  {
+    latitude: 46.9541,
+    longitude: 142.736,
+    size: 2,
+    tooltip: "98.219.181.74",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "114.211.230.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.36.181.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.113.45.155",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.51.98.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.69.52.170",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "125.104.75.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.0.112.226",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.152.182.11",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "31.64.250.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.144.71.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "167.102.227.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.34.14.15",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "83.144.88.97",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "78.232.43.141",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "23.14.130.231",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "41.218.68.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.5.152.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.100.215.172",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "110.146.161.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "198.216.35.61",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "126.91.116.138",
+  },
+  {
+    latitude: 44.6763,
+    longitude: 34.4078,
+    size: 2,
+    tooltip: "91.50.56.195",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "93.231.16.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "253.120.29.11",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "245.181.122.149",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "99.241.38.223",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.19.195.90",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "101.188.87.46",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "116.190.171.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "191.116.77.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "19.123.86.154",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.207.106.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.226.37.129",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.195.255.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.240.253.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.196.157.148",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "155.96.206.164",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "74.29.125.189",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "171.182.241.201",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "88.250.184.37",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "160.116.145.206",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "212.194.194.141",
+  },
+  {
+    latitude: 55.9089,
+    longitude: 37.7339,
+    size: 2,
+    tooltip: "128.156.188.71",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.176.146.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.120.110.244",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "41.202.181.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "239.9.201.66",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "133.202.228.173",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "232.64.26.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.193.19.43",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "251.15.225.57",
+  },
+  {
+    latitude: 57.6198,
+    longitude: 39.8554,
+    size: 2,
+    tooltip: "166.98.4.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.98.208.173",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "133.210.232.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.46.104.18",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.65.25.216",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "63.79.101.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "81.149.36.115",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.3.175.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.194.225.70",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.208.2.5",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.105.54.170",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "112.18.198.82",
+  },
+  {
+    latitude: 47.2362,
+    longitude: 38.8969,
+    size: 2,
+    tooltip: "15.229.238.241",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "109.203.155.81",
+  },
+  {
+    latitude: 54.5293,
+    longitude: 36.2754,
+    size: 2,
+    tooltip: "112.28.124.173",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "161.169.118.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.201.248.23",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.245.178.21",
+  },
+  {
+    latitude: 64.5401,
+    longitude: 40.5433,
+    size: 2,
+    tooltip: "58.128.212.29",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "217.54.160.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.18.32.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "99.79.49.79",
+  },
+  {
+    latitude: 59.9321,
+    longitude: 30.1968,
+    size: 2,
+    tooltip: "20.124.229.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.6.254.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.181.132.184",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.83.229.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "77.14.44.141",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "161.179.232.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.117.185.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.38.69.121",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.50.203.213",
+  },
+  {
+    latitude: 53.6907,
+    longitude: 33.5071,
+    size: 2,
+    tooltip: "235.102.217.167",
+  },
+  {
+    latitude: 52.731700000000004,
+    longitude: 41.4433,
+    size: 2,
+    tooltip: "79.242.35.79",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.226.89.133",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "61.31.212.89",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "242.62.31.29",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "38.157.154.73",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.27.162.55",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "140.172.68.155",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "85.43.2.231",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "70.226.214.154",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "248.109.39.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.56.72.190",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.184.73.198",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "56.20.147.107",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "122.104.62.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "199.3.4.132",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "220.194.148.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.100.98.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "94.20.66.61",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "103.159.114.182",
+  },
+  {
+    latitude: 61.25,
+    longitude: 73.4167,
+    size: 2,
+    tooltip: "132.192.252.42",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "95.130.113.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.161.243.239",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "223.107.25.115",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "127.67.63.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.242.250.52",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.27.234.23",
+  },
+  {
+    latitude: 55.0139,
+    longitude: 36.4725,
+    size: 2,
+    tooltip: "39.82.93.173",
+  },
+  {
+    latitude: 59.2187,
+    longitude: 39.8886,
+    size: 2,
+    tooltip: "241.232.162.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.161.217.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.69.127.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.84.176.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.14.78.99",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "207.207.184.193",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "235.143.72.219",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "145.230.211.124",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "120.220.209.145",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "60.116.100.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.81.68.17",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "65.14.81.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.112.169.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.60.99.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.65.80.6",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "129.114.76.49",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "19.245.54.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.101.184.114",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "40.217.41.131",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "82.34.211.134",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "132.26.199.188",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "58.77.250.78",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "181.175.58.73",
+  },
+  {
+    latitude: 62.0339,
+    longitude: 129.7331,
+    size: 2,
+    tooltip: "57.98.100.212",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "142.235.192.75",
+  },
+  {
+    latitude: 50.85,
+    longitude: 4.35,
+    size: 2,
+    tooltip: "152.74.240.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.49.170.60",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "201.168.27.154",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.147.6.219",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "241.33.184.17",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "232.59.107.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "119.194.14.78",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "209.253.223.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.242.181.3",
+  },
+  {
+    latitude: 55.3647,
+    longitude: 50.6422,
+    size: 2,
+    tooltip: "39.5.127.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.103.167.125",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "212.189.20.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.176.208.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.172.64.64",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "47.8.77.72",
+  },
+  {
+    latitude: 45.2152,
+    longitude: 39.2265,
+    size: 2,
+    tooltip: "125.191.246.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.193.4.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.213.45.154",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "199.94.167.47",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.49.29.127",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.68.72.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.180.184.49",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.10.88.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.122.155.194",
+  },
+  {
+    latitude: 55.0038,
+    longitude: 50.0549,
+    size: 2,
+    tooltip: "74.33.33.1",
+  },
+  {
+    latitude: 53.36,
+    longitude: 83.76,
+    size: 2,
+    tooltip: "138.250.120.2",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "103.97.16.103",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "70.183.105.145",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "245.197.139.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.193.92.242",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "126.62.127.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.148.170.53",
+  },
+  {
+    latitude: 56.8498,
+    longitude: 53.2045,
+    size: 2,
+    tooltip: "98.211.150.208",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.184.225.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.165.68.241",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "207.9.168.194",
+  },
+  {
+    latitude: 43.9689,
+    longitude: 43.7469,
+    size: 2,
+    tooltip: "161.248.172.36",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "163.204.78.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.71.236.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "96.89.204.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.174.29.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.20.19.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.69.67.126",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "228.179.95.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.77.48.156",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "49.127.173.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.124.168.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.163.189.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "57.98.242.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.39.13.230",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "73.220.98.6",
+  },
+  {
+    latitude: 50.5503,
+    longitude: 137.01,
+    size: 2,
+    tooltip: "3.246.93.235",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "199.182.42.85",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "142.46.114.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.80.14.108",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.139.111.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.219.111.129",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "182.146.244.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "92.201.46.136",
+  },
+  {
+    latitude: 56.1322,
+    longitude: 47.2519,
+    size: 2,
+    tooltip: "32.115.161.118",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "208.238.23.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.179.118.165",
+  },
+  {
+    latitude: 57.6198,
+    longitude: 39.8554,
+    size: 2,
+    tooltip: "117.33.170.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.15.10.7",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.20.23.155",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "160.166.11.84",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "245.169.83.214",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.92.127.3",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "20.196.3.221",
+  },
+  {
+    latitude: 56.1322,
+    longitude: 47.2519,
+    size: 2,
+    tooltip: "81.243.0.159",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.148.31.71",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "174.83.128.12",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "81.223.174.1",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.212.194.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "196.47.130.109",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "21.3.116.182",
+  },
+  {
+    latitude: 56.34,
+    longitude: 30.5347,
+    size: 2,
+    tooltip: "184.119.113.103",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "131.84.119.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.104.179.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.173.93.98",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.98.244.33",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "191.171.72.118",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.22.2.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.18.29.50",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "94.117.170.18",
+  },
+  {
+    latitude: 58.1981,
+    longitude: 68.2546,
+    size: 2,
+    tooltip: "82.3.234.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.202.184.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.80.68.235",
+  },
+  {
+    latitude: 51.6429,
+    longitude: 39.1724,
+    size: 2,
+    tooltip: "22.202.233.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "208.201.210.179",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "202.84.96.202",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "91.158.17.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.82.46.91",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "89.52.132.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.144.150.56",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "254.116.33.213",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "7.88.16.195",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "37.200.122.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "72.19.169.56",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "219.232.42.128",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "209.242.59.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.168.4.9",
+  },
+  {
+    latitude: 67.9372,
+    longitude: 34.5594,
+    size: 2,
+    tooltip: "28.89.214.214",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "102.80.233.152",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "23.81.163.138",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "71.231.116.239",
+  },
+  {
+    latitude: 57.1,
+    longitude: 65.76,
+    size: 2,
+    tooltip: "165.206.15.153",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "26.169.154.61",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "210.135.188.92",
+  },
+  {
+    latitude: 42.8138,
+    longitude: 132.8735,
+    size: 2,
+    tooltip: "61.178.49.6",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "50.77.189.35",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "196.39.142.235",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "46.26.7.51",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "162.46.32.171",
+  },
+  {
+    latitude: 42.9764,
+    longitude: 47.5024,
+    size: 2,
+    tooltip: "152.18.6.219",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "155.61.7.103",
+  },
+  {
+    latitude: 57.1522,
+    longitude: 65.5272,
+    size: 2,
+    tooltip: "251.150.23.144",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "243.152.42.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.185.239.103",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "172.80.209.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.248.5.206",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.191.3.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.219.64.16",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "63.11.172.200",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "25.155.240.71",
+  },
+  {
+    latitude: 59.7513,
+    longitude: 30.4766,
+    size: 2,
+    tooltip: "206.240.99.181",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "186.82.140.232",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "26.18.225.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "97.114.171.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.100.187.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.236.126.251",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "82.70.254.183",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "251.70.238.238",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.29.108.161",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "7.194.69.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.140.89.215",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "116.65.226.23",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "86.21.37.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "17.65.152.152",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "185.111.186.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.71.131.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "119.118.178.158",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "94.67.16.119",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "14.211.74.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.216.247.111",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "105.207.45.141",
+  },
+  {
+    latitude: 55.45,
+    longitude: 65.3333,
+    size: 2,
+    tooltip: "33.191.207.62",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "245.238.19.50",
+  },
+  {
+    latitude: 54.9454,
+    longitude: 37.349,
+    size: 2,
+    tooltip: "237.148.221.158",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "151.82.209.45",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "198.238.81.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.15.251.96",
+  },
+  {
+    latitude: 56.35,
+    longitude: 37.5167,
+    size: 2,
+    tooltip: "20.142.165.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.191.20.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "78.223.221.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.107.113.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.131.222.222",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "172.218.92.84",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "52.164.78.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.166.101.244",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "23.166.32.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "7.235.217.124",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "112.79.6.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.31.48.231",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.110.83.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.208.144.232",
+  },
+  {
+    latitude: 55.5019,
+    longitude: 36.0272,
+    size: 2,
+    tooltip: "193.138.21.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "56.10.171.249",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "77.159.142.107",
+  },
+  {
+    latitude: 46.9522,
+    longitude: 142.7406,
+    size: 2,
+    tooltip: "45.0.108.31",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "131.49.106.194",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "70.254.170.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.131.18.35",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "81.181.110.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "216.186.84.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.65.58.172",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "37.164.102.5",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "79.87.3.190",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "47.85.116.150",
+  },
+  {
+    latitude: 55.1347,
+    longitude: 37.9447,
+    size: 2,
+    tooltip: "54.205.202.127",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.158.74.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.80.113.177",
+  },
+  {
+    latitude: 56.6369,
+    longitude: 47.8711,
+    size: 2,
+    tooltip: "37.204.77.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "232.120.202.34",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "108.113.162.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.115.195.116",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "2.8.222.157",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "217.106.124.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.160.133.83",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.168.56.206",
+  },
+  {
+    latitude: 50.0983,
+    longitude: 45.416,
+    size: 2,
+    tooltip: "50.59.236.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "217.88.41.187",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "227.97.30.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.233.210.92",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "95.182.164.237",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "200.77.150.132",
+  },
+  {
+    latitude: 61.23,
+    longitude: 73.23,
+    size: 2,
+    tooltip: "200.7.155.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.243.14.206",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "28.62.191.160",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "5.13.2.161",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "143.160.40.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.38.120.67",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "44.101.252.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.123.133.217",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.124.86.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.230.160.66",
+  },
+  {
+    latitude: 42.8138,
+    longitude: 132.8735,
+    size: 2,
+    tooltip: "250.20.50.208",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "159.6.99.65",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "4.16.91.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "252.106.21.63",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.122.215.93",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.192.45.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "201.189.206.1",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "121.37.86.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "55.178.176.127",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.162.84.99",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.37.236.121",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.103.47.0",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "205.97.39.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.22.237.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.216.94.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "232.69.188.121",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "91.105.240.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.132.60.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "73.104.180.231",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.102.237.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "17.32.100.227",
+  },
+  {
+    latitude: 37.9667,
+    longitude: 23.7167,
+    size: 2,
+    tooltip: "21.131.6.114",
+  },
+  {
+    latitude: 57.0487,
+    longitude: 53.9872,
+    size: 2,
+    tooltip: "196.138.45.59",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "225.71.119.147",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "22.206.3.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.91.39.143",
+  },
+  {
+    latitude: 55.9742,
+    longitude: 48.0181,
+    size: 2,
+    tooltip: "159.97.157.153",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "60.125.117.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.73.64.187",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.227.187.74",
+  },
+  {
+    latitude: 55.5529,
+    longitude: 34.9954,
+    size: 2,
+    tooltip: "150.67.10.121",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "82.135.174.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.223.114.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.146.146.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.150.33.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "150.17.198.3",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "148.176.160.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.10.248.11",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.135.120.184",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "97.199.228.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.142.200.191",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "119.101.22.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.1.124.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.212.58.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.41.125.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.41.65.36",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "246.233.243.142",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "69.104.120.66",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "182.7.42.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.183.241.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.191.91.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.10.42.76",
+  },
+  {
+    latitude: 51.2967,
+    longitude: 37.8417,
+    size: 2,
+    tooltip: "123.146.140.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.165.55.91",
+  },
+  {
+    latitude: 51.9284,
+    longitude: 47.9172,
+    size: 2,
+    tooltip: "215.178.244.227",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.161.53.83",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "6.191.217.152",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "132.9.246.185",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "54.144.60.92",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "153.118.166.140",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "177.53.181.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.213.181.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.50.33.218",
+  },
+  {
+    latitude: 43.3083,
+    longitude: 45.7003,
+    size: 2,
+    tooltip: "112.186.99.211",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "30.133.248.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.23.83.136",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "237.208.178.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.161.235.19",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "48.156.147.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.176.103.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.171.184.118",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "206.149.49.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.17.109.50",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "33.115.174.210",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.254.153.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.218.64.253",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "53.150.177.15",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "96.217.141.62",
+  },
+  {
+    latitude: 54.1118,
+    longitude: 77.2186,
+    size: 2,
+    tooltip: "117.68.40.102",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "209.10.200.215",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "174.133.84.215",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "95.110.153.63",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "94.207.135.101",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.58.27.167",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "175.60.172.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.30.50.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "38.73.247.8",
+  },
+  {
+    latitude: 44.7239,
+    longitude: 37.7708,
+    size: 2,
+    tooltip: "41.123.144.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.189.141.121",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "168.116.82.61",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "190.34.27.213",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.251.99.97",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "169.243.114.20",
+  },
+  {
+    latitude: 55.6769,
+    longitude: 37.2731,
+    size: 2,
+    tooltip: "60.42.21.236",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "28.50.182.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.61.128.29",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "192.144.129.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.243.78.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "48.255.50.166",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "96.58.51.227",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "238.64.217.62",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "186.162.81.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.143.142.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.103.140.210",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "146.183.251.32",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "13.2.84.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "33.120.141.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.32.189.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.228.24.220",
+  },
+  {
+    latitude: 56.8498,
+    longitude: 53.2045,
+    size: 2,
+    tooltip: "158.183.99.139",
+  },
+  {
+    latitude: 55.9606,
+    longitude: 38.0456,
+    size: 2,
+    tooltip: "53.223.1.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.8.178.219",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "37.47.55.217",
+  },
+  {
+    latitude: 49.4474,
+    longitude: 44.5259,
+    size: 2,
+    tooltip: "70.166.128.200",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "168.154.155.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.246.141.219",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "121.49.75.72",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "235.50.41.248",
+  },
+  {
+    latitude: 45.4789,
+    longitude: 133.4282,
+    size: 2,
+    tooltip: "45.202.77.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "197.3.28.190",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "100.217.203.133",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.220.85.241",
+  },
+  {
+    latitude: 47.2362,
+    longitude: 38.8969,
+    size: 2,
+    tooltip: "140.90.66.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "67.178.53.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "135.183.168.85",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "212.7.8.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.133.39.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.62.44.97",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "0.198.25.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.112.75.41",
+  },
+  {
+    latitude: 57.435,
+    longitude: 60.0561,
+    size: 2,
+    tooltip: "112.232.227.1",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "22.99.161.249",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "246.152.147.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "229.206.61.41",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "252.153.76.12",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "122.213.8.10",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "12.171.67.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.203.202.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.31.160.23",
+  },
+  {
+    latitude: 44.5622,
+    longitude: 38.0848,
+    size: 2,
+    tooltip: "92.104.117.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.57.203.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "69.245.22.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.155.41.249",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "77.11.195.65",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.93.50.246",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "11.239.173.205",
+  },
+  {
+    latitude: 62.0339,
+    longitude: 129.7331,
+    size: 2,
+    tooltip: "152.148.36.158",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "104.0.71.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.169.5.230",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "11.42.142.157",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "252.206.215.113",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "100.178.42.87",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "73.20.22.69",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "94.0.54.96",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "255.65.178.190",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "144.61.68.193",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "64.227.243.232",
+  },
+  {
+    latitude: 51.5406,
+    longitude: 46.0086,
+    size: 2,
+    tooltip: "216.63.227.7",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "206.93.33.40",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "97.87.204.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "26.70.126.80",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "225.183.103.50",
+  },
+  {
+    latitude: 60.0922,
+    longitude: 30.2368,
+    size: 2,
+    tooltip: "191.240.132.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.232.145.190",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "4.31.85.25",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "144.200.5.69",
+  },
+  {
+    latitude: 55.6355,
+    longitude: 37.8445,
+    size: 2,
+    tooltip: "106.97.206.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.60.186.75",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.144.25.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "67.253.216.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "114.163.238.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "138.123.185.204",
+  },
+  {
+    latitude: 51.5,
+    longitude: -0.13,
+    size: 2,
+    tooltip: "17.219.171.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.184.212.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.37.81.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "149.174.53.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "133.60.114.90",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "104.145.147.120",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "146.238.150.71",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "164.88.195.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.153.221.93",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "74.129.160.231",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "150.184.69.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.98.180.48",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "125.231.50.199",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "174.47.196.88",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "41.37.197.211",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "39.116.93.159",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "253.215.224.195",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "164.29.18.191",
+  },
+  {
+    latitude: 56.0184,
+    longitude: 92.8672,
+    size: 2,
+    tooltip: "195.3.21.113",
+  },
+  {
+    latitude: 52.9651,
+    longitude: 36.0785,
+    size: 2,
+    tooltip: "17.74.66.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.227.108.177",
+  },
+  {
+    latitude: 55.4413,
+    longitude: 37.7537,
+    size: 2,
+    tooltip: "190.73.202.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.200.139.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.194.154.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.253.218.27",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.179.214.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.240.88.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.14.233.204",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "42.215.137.193",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "135.184.6.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.202.183.253",
+  },
+  {
+    latitude: 53.1585,
+    longitude: 48.4681,
+    size: 2,
+    tooltip: "168.143.114.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.21.153.242",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "80.33.150.66",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "21.154.62.143",
+  },
+  {
+    latitude: 48.4849,
+    longitude: 45.1264,
+    size: 2,
+    tooltip: "88.234.110.91",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.106.230.186",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "58.118.217.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.10.144.56",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.110.151.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.21.44.103",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.184.175.4",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.164.44.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.255.6.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "240.221.116.150",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.96.193.189",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.217.115.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "15.88.129.92",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "32.95.221.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.80.162.129",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.101.118.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.8.1.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "155.95.237.40",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.13.251.80",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.7.56.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "248.140.72.133",
+  },
+  {
+    latitude: 55.886,
+    longitude: 37.7427,
+    size: 2,
+    tooltip: "145.249.25.30",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "136.213.240.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.246.163.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.44.219.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.181.203.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "96.217.64.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.43.92.113",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "94.165.94.70",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.164.106.60",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "62.134.21.254",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "227.97.24.191",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "114.106.227.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.229.1.243",
+  },
+  {
+    latitude: 55.1347,
+    longitude: 37.9447,
+    size: 2,
+    tooltip: "32.234.125.151",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "90.94.35.210",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.218.49.63",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "231.143.244.87",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "168.193.243.113",
+  },
+  {
+    latitude: 54.9361,
+    longitude: 39.0167,
+    size: 2,
+    tooltip: "20.160.125.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "100.168.71.5",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.223.135.184",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "140.206.194.18",
+  },
+  {
+    latitude: 48.8553,
+    longitude: 39.9603,
+    size: 2,
+    tooltip: "178.239.1.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.250.40.200",
+  },
+  {
+    latitude: 43.6,
+    longitude: 39.7303,
+    size: 2,
+    tooltip: "197.133.77.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.75.96.6",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.217.17.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.183.92.83",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "152.54.49.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.245.87.60",
+  },
+  {
+    latitude: 58.3078,
+    longitude: 48.3181,
+    size: 2,
+    tooltip: "120.103.21.76",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "103.152.167.105",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "72.160.117.144",
+  },
+  {
+    latitude: 44.1125,
+    longitude: 39.0742,
+    size: 2,
+    tooltip: "18.45.201.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.21.46.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.44.162.147",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "107.140.106.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.242.176.184",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "196.135.235.68",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "2.130.144.38",
+  },
+  {
+    latitude: 45.4789,
+    longitude: 133.4282,
+    size: 2,
+    tooltip: "79.246.231.236",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "24.19.130.207",
+  },
+  {
+    latitude: 55.0038,
+    longitude: 50.0549,
+    size: 2,
+    tooltip: "48.13.89.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.29.103.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.221.30.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "3.125.30.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.253.48.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.14.250.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "135.14.171.41",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "3.245.84.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "111.69.121.9",
+  },
+  {
+    latitude: 37.9667,
+    longitude: 23.7167,
+    size: 2,
+    tooltip: "26.212.172.189",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "251.220.208.128",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "162.180.192.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "49.204.44.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.102.228.98",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "88.27.23.218",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "253.241.67.116",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "49.156.245.72",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "121.11.100.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.79.126.118",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "96.222.231.194",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "46.35.35.201",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "159.141.29.174",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "214.120.140.231",
+  },
+  {
+    latitude: 47.4202,
+    longitude: 40.0913,
+    size: 2,
+    tooltip: "157.82.63.109",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.96.223.234",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.62.129.244",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "120.150.16.32",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.209.181.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "67.39.0.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.50.216.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "105.2.143.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.20.125.198",
+  },
+  {
+    latitude: 44.3366,
+    longitude: 40.7849,
+    size: 2,
+    tooltip: "28.145.156.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.171.87.216",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "250.85.234.54",
+  },
+  {
+    latitude: 56.1322,
+    longitude: 47.2519,
+    size: 2,
+    tooltip: "52.40.102.40",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "48.236.209.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.98.243.214",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.76.3.13",
+  },
+  {
+    latitude: 59.885,
+    longitude: 29.8958,
+    size: 2,
+    tooltip: "221.50.48.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "1.150.171.236",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "249.119.29.85",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "120.188.158.215",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.27.150.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.71.36.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "114.249.109.64",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "14.208.80.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.39.231.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.22.145.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "78.133.57.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "94.40.245.23",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "181.128.214.101",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "167.48.20.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "48.117.15.94",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "180.60.86.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.42.69.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.210.91.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.41.26.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.32.72.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "173.150.45.11",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.139.24.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.109.183.151",
+  },
+  {
+    latitude: 47.4202,
+    longitude: 40.0913,
+    size: 2,
+    tooltip: "83.105.71.246",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "129.238.149.49",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "186.172.144.133",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "157.190.43.221",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "172.207.90.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.193.209.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.211.73.15",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "220.219.126.91",
+  },
+  {
+    latitude: 58.1981,
+    longitude: 68.2546,
+    size: 2,
+    tooltip: "166.109.111.190",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.64.108.213",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "55.241.190.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.110.137.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "250.221.43.203",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "202.123.22.7",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.135.243.84",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "79.172.243.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "198.120.26.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.168.190.142",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "177.248.124.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.73.139.56",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.20.248.88",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "10.35.209.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.16.0.181",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "108.44.172.47",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.247.51.50",
+  },
+  {
+    latitude: 54.6165,
+    longitude: 38.4407,
+    size: 2,
+    tooltip: "7.227.73.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "52.110.232.109",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "49.180.184.159",
+  },
+  {
+    latitude: 51.4839,
+    longitude: 46.1053,
+    size: 2,
+    tooltip: "233.244.218.245",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "138.234.239.179",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "182.50.115.105",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "211.132.229.10",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.138.82.198",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "155.251.173.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.149.32.222",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "243.86.231.196",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "111.15.48.85",
+  },
+  {
+    latitude: 51.7227,
+    longitude: 55.3637,
+    size: 2,
+    tooltip: "31.54.118.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.184.219.19",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "46.55.227.218",
+  },
+  {
+    latitude: 44.3381,
+    longitude: 131.5756,
+    size: 2,
+    tooltip: "190.4.33.1",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "81.186.18.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.98.134.131",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.144.12.133",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "35.245.234.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.125.13.109",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.178.210.178",
+  },
+  {
+    latitude: 53.75,
+    longitude: 87.1,
+    size: 2,
+    tooltip: "202.175.253.127",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "187.251.158.227",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "118.53.89.211",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "130.151.160.20",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.53.100.58",
+  },
+  {
+    latitude: 55.3875,
+    longitude: 36.7331,
+    size: 2,
+    tooltip: "254.235.210.138",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.230.192.138",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "94.159.1.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.67.37.153",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "251.228.29.190",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "44.227.44.148",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.219.164.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.132.181.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.41.161.46",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "250.82.10.105",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "52.45.232.138",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "250.89.201.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "105.191.158.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "217.167.62.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.154.115.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.222.210.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "224.48.1.124",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "185.183.34.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "207.35.231.195",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "244.5.63.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.61.12.210",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "157.244.107.213",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.74.141.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.253.158.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.194.129.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.208.162.236",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "98.148.96.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.245.58.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "21.65.104.133",
+  },
+  {
+    latitude: 55.0839,
+    longitude: 21.8785,
+    size: 2,
+    tooltip: "163.230.75.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.171.189.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.140.199.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "81.5.93.188",
+  },
+  {
+    latitude: 55.678,
+    longitude: 37.2777,
+    size: 2,
+    tooltip: "63.156.222.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.198.32.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.34.38.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.142.122.78",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "198.116.199.131",
+  },
+  {
+    latitude: 55.3343,
+    longitude: 41.6295,
+    size: 2,
+    tooltip: "67.146.55.79",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.174.84.68",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.181.192.192",
+  },
+  {
+    latitude: 52.747,
+    longitude: 87.7545,
+    size: 2,
+    tooltip: "131.18.26.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.99.249.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.21.207.252",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "69.197.229.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.183.166.70",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "155.132.30.206",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "83.111.54.101",
+  },
+  {
+    latitude: 55.3333,
+    longitude: 86.0833,
+    size: 2,
+    tooltip: "121.233.232.168",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "213.136.212.204",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "117.56.158.215",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.220.208.142",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "125.206.156.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.67.187.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.88.74.166",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "168.83.161.178",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "19.54.202.55",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "199.190.81.187",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "25.193.216.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.6.8.210",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "214.212.191.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "142.15.173.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.207.199.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.100.180.200",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "172.193.60.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.228.90.169",
+  },
+  {
+    latitude: 56.8498,
+    longitude: 53.2045,
+    size: 2,
+    tooltip: "114.204.20.210",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "151.72.166.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.160.75.148",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "41.189.241.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "188.23.112.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.217.207.53",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "199.180.229.41",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "170.217.218.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "30.7.68.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.124.237.249",
+  },
+  {
+    latitude: 55.4413,
+    longitude: 37.7537,
+    size: 2,
+    tooltip: "136.117.116.245",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "5.226.89.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "5.196.174.198",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "116.255.162.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "252.125.136.187",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "185.112.233.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.118.81.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.99.33.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.79.182.220",
+  },
+  {
+    latitude: 49.4474,
+    longitude: 44.5259,
+    size: 2,
+    tooltip: "138.189.8.136",
+  },
+  {
+    latitude: 52.747,
+    longitude: 87.7545,
+    size: 2,
+    tooltip: "23.83.76.83",
+  },
+  {
+    latitude: 44.0444,
+    longitude: 42.8606,
+    size: 2,
+    tooltip: "36.237.175.122",
+  },
+  {
+    latitude: 55.9197,
+    longitude: 37.8281,
+    size: 2,
+    tooltip: "28.18.93.36",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.223.142.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.183.177.111",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "231.38.127.168",
+  },
+  {
+    latitude: 47.4249,
+    longitude: 8.612400000001,
+    size: 2,
+    tooltip: "189.117.65.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.93.206.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.219.98.175",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "20.231.213.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "207.73.39.205",
+  },
+  {
+    latitude: 46.9541,
+    longitude: 142.736,
+    size: 2,
+    tooltip: "218.91.51.207",
+  },
+  {
+    latitude: 50.2796,
+    longitude: 127.5405,
+    size: 2,
+    tooltip: "124.216.7.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.70.37.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "27.34.116.124",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "156.241.15.8",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "175.204.38.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "105.126.179.10",
+  },
+  {
+    latitude: 60.9344,
+    longitude: 76.5531,
+    size: 2,
+    tooltip: "241.129.210.153",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "198.212.90.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.245.79.60",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "60.42.5.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.5.150.13",
+  },
+  {
+    latitude: 56.8575,
+    longitude: 60.6125,
+    size: 2,
+    tooltip: "117.182.32.235",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "53.50.27.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.195.30.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.203.55.176",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "128.240.77.81",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "149.125.99.238",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "39.47.234.73",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "229.164.129.140",
+  },
+  {
+    latitude: 45.4789,
+    longitude: 133.4282,
+    size: 2,
+    tooltip: "214.22.209.80",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.57.29.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.244.102.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.134.114.202",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "194.123.194.96",
+  },
+  {
+    latitude: 51.2967,
+    longitude: 37.8417,
+    size: 2,
+    tooltip: "10.187.129.146",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "251.161.239.25",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "62.28.22.160",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "90.39.193.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.234.217.190",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "93.163.27.20",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.34.143.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "3.1.253.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "245.52.76.199",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "239.123.145.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.46.134.94",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "170.193.78.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.246.248.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "180.150.129.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.160.63.202",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "137.213.91.157",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "147.121.77.90",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "147.132.218.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.96.120.237",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "9.33.105.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.198.137.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "206.32.43.220",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "175.174.215.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.185.107.127",
+  },
+  {
+    latitude: 49.5747,
+    longitude: 18.7695,
+    size: 2,
+    tooltip: "146.36.74.208",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "252.24.193.187",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "201.247.136.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.36.221.231",
+  },
+  {
+    latitude: 52.0317,
+    longitude: 113.5009,
+    size: 2,
+    tooltip: "183.124.127.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "80.156.172.146",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "91.148.63.100",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "161.115.203.127",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "178.203.99.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.163.77.64",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "172.171.144.139",
+  },
+  {
+    latitude: 58.0446,
+    longitude: 38.8426,
+    size: 2,
+    tooltip: "2.110.237.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.248.188.237",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "53.195.238.139",
+  },
+  {
+    latitude: 54.1088,
+    longitude: 102.1648,
+    size: 2,
+    tooltip: "140.181.196.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.187.201.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "81.184.88.33",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "144.89.171.112",
+  },
+  {
+    latitude: 51.8792,
+    longitude: 104.7894,
+    size: 2,
+    tooltip: "251.71.92.178",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "106.165.151.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.131.160.239",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "225.252.89.187",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "170.120.199.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.230.238.9",
+  },
+  {
+    latitude: 55.6769,
+    longitude: 37.2731,
+    size: 2,
+    tooltip: "61.183.131.25",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "103.48.26.45",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "154.25.184.215",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "51.175.123.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "181.111.85.19",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "39.200.112.122",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.23.234.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.202.120.121",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.97.11.117",
+  },
+  {
+    latitude: 67.56,
+    longitude: 33.39,
+    size: 2,
+    tooltip: "246.255.38.64",
+  },
+  {
+    latitude: 50.5503,
+    longitude: 137.01,
+    size: 2,
+    tooltip: "56.164.162.99",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.102.174.184",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.172.204.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "158.213.232.8",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "11.15.237.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.10.190.194",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "63.3.247.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.178.212.33",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "255.25.188.89",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "131.83.31.208",
+  },
+  {
+    latitude: 42.9764,
+    longitude: 47.5024,
+    size: 2,
+    tooltip: "194.87.134.238",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.163.5.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.20.114.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.97.58.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.70.57.152",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "166.97.58.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.124.157.208",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.251.198.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.92.62.149",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "33.94.140.100",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "72.129.251.76",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "28.51.117.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.240.64.143",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "92.236.226.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.52.178.85",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "33.30.79.160",
+  },
+  {
+    latitude: 42.8138,
+    longitude: 132.8735,
+    size: 2,
+    tooltip: "209.51.137.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "212.1.240.126",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "193.135.16.135",
+  },
+  {
+    latitude: 56.6369,
+    longitude: 47.8711,
+    size: 2,
+    tooltip: "15.83.149.210",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.41.59.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.161.108.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.214.51.144",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.111.245.131",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "193.134.154.161",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "43.233.189.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.207.15.91",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "69.134.134.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.227.7.106",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.94.126.229",
+  },
+  {
+    latitude: 60.9333,
+    longitude: 76.5667,
+    size: 2,
+    tooltip: "143.103.106.225",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "103.208.214.208",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "197.187.233.220",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "133.40.250.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.63.175.250",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "207.164.230.16",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "63.167.125.31",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "178.39.149.100",
+  },
+  {
+    latitude: 56.1365,
+    longitude: 40.3966,
+    size: 2,
+    tooltip: "253.187.180.39",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "8.246.215.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.234.171.8",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "238.31.140.109",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.253.158.146",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "37.96.40.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.217.50.52",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.174.45.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "36.28.221.192",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "189.18.190.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.121.164.123",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "128.181.7.63",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "74.121.28.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.108.164.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "27.198.141.241",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "77.251.41.142",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.255.208.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.115.254.203",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.131.20.154",
+  },
+  {
+    latitude: 51.9284,
+    longitude: 47.9172,
+    size: 2,
+    tooltip: "193.40.80.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "177.95.15.39",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "121.133.105.243",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "217.88.107.46",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "3.130.205.69",
+  },
+  {
+    latitude: 58.008,
+    longitude: 102.6693,
+    size: 2,
+    tooltip: "97.74.137.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "88.16.55.0",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "239.128.220.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.206.80.227",
+  },
+  {
+    latitude: 42.8138,
+    longitude: 132.8735,
+    size: 2,
+    tooltip: "16.133.41.33",
+  },
+  {
+    latitude: 57.0584,
+    longitude: 41.056,
+    size: 2,
+    tooltip: "92.243.189.235",
+  },
+  {
+    latitude: 56.6388,
+    longitude: 47.8908,
+    size: 2,
+    tooltip: "179.166.252.233",
+  },
+  {
+    latitude: 65.145,
+    longitude: 57.2164,
+    size: 2,
+    tooltip: "174.140.179.208",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "167.208.247.68",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "147.89.149.6",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "45.110.219.130",
+  },
+  {
+    latitude: 54.9044,
+    longitude: 52.3154,
+    size: 2,
+    tooltip: "25.169.161.59",
+  },
+  {
+    latitude: 43.4981,
+    longitude: 43.6189,
+    size: 2,
+    tooltip: "215.59.247.75",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.167.97.95",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "49.70.193.119",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "46.196.72.228",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "246.196.85.109",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.213.7.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.211.51.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.30.29.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "200.98.68.146",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "197.146.215.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.162.85.4",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "110.206.219.230",
+  },
+  {
+    latitude: 50.2796,
+    longitude: 127.5405,
+    size: 2,
+    tooltip: "252.89.43.97",
+  },
+  {
+    latitude: 55.0794,
+    longitude: 38.7783,
+    size: 2,
+    tooltip: "158.193.224.68",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "53.148.245.34",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.43.147.224",
+  },
+  {
+    latitude: 54.9044,
+    longitude: 52.3154,
+    size: 2,
+    tooltip: "34.246.95.34",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "235.219.28.197",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.14.197.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.102.156.21",
+  },
+  {
+    latitude: 55.4808,
+    longitude: 60.2157,
+    size: 2,
+    tooltip: "162.123.0.105",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "4.117.64.151",
+  },
+  {
+    latitude: 46.6106,
+    longitude: 142.7939,
+    size: 2,
+    tooltip: "41.109.184.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.18.55.125",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "107.178.4.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "77.240.252.86",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.95.237.151",
+  },
+  {
+    latitude: 50.0661,
+    longitude: 118.1481,
+    size: 2,
+    tooltip: "135.97.119.244",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "170.142.248.55",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.240.255.249",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.135.56.200",
+  },
+  {
+    latitude: 52.4703,
+    longitude: -2.1275,
+    size: 2,
+    tooltip: "232.137.17.26",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "54.224.222.46",
+  },
+  {
+    latitude: 56.8498,
+    longitude: 53.2045,
+    size: 2,
+    tooltip: "113.237.122.175",
+  },
+  {
+    latitude: 45.4789,
+    longitude: 133.4282,
+    size: 2,
+    tooltip: "212.60.196.190",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.144.148.241",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.110.172.213",
+  },
+  {
+    latitude: 56.8575,
+    longitude: 60.6125,
+    size: 2,
+    tooltip: "37.47.213.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.11.172.52",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "37.137.187.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "201.170.152.70",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "88.187.227.14",
+  },
+  {
+    latitude: 55.3343,
+    longitude: 41.6295,
+    size: 2,
+    tooltip: "67.61.215.3",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "209.246.158.252",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "124.145.1.161",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "78.202.206.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.254.175.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "102.64.115.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.209.15.187",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "98.19.101.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "124.161.7.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.206.191.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.179.144.125",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "154.20.202.192",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "124.140.4.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.136.100.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.103.104.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.230.94.98",
+  },
+  {
+    latitude: 54.6197,
+    longitude: 39.74,
+    size: 2,
+    tooltip: "113.75.173.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "26.255.140.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "254.87.156.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.21.51.35",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.255.41.183",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "40.183.173.42",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "226.247.7.142",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "100.13.148.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.34.228.145",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "255.218.52.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.13.229.68",
+  },
+  {
+    latitude: 56.0184,
+    longitude: 92.8672,
+    size: 2,
+    tooltip: "209.219.39.202",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "27.134.238.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "251.60.76.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.127.148.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.141.140.12",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "253.167.94.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.141.158.219",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "246.195.242.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "115.176.118.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.101.110.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "240.2.196.99",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "199.237.77.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.221.103.254",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "161.85.224.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "84.75.105.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.16.34.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "182.62.219.200",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "57.163.207.50",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "146.186.193.90",
+  },
+  {
+    latitude: 57.6198,
+    longitude: 39.8554,
+    size: 2,
+    tooltip: "155.159.157.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "68.39.213.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.36.87.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.222.174.70",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.160.51.199",
+  },
+  {
+    latitude: 44.0835,
+    longitude: 39.1069,
+    size: 2,
+    tooltip: "188.25.122.177",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "118.191.5.73",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "236.85.158.197",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "85.148.35.224",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "119.254.91.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.96.20.177",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "7.81.107.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "71.86.65.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.227.105.121",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "166.38.24.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.247.254.114",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "92.190.221.37",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "170.166.6.76",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "214.89.8.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "206.125.167.65",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "217.108.103.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.224.86.27",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "215.150.167.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.176.31.52",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "87.86.81.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.101.30.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "20.195.57.204",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "53.16.27.164",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "167.76.202.169",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "239.58.84.205",
+  },
+  {
+    latitude: 55.5669,
+    longitude: 38.2303,
+    size: 2,
+    tooltip: "4.102.45.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.135.146.113",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "18.47.128.158",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "56.104.170.119",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "124.101.131.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "188.57.34.133",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "122.97.39.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "155.179.136.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.22.50.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.78.98.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.59.165.144",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "199.156.224.197",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "217.203.239.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "123.108.78.103",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "89.246.123.29",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "55.158.239.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.226.73.63",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.225.250.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.240.58.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.254.68.43",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "242.18.225.92",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "81.149.54.7",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "61.247.93.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.25.202.107",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "33.10.9.6",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.213.5.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.24.71.101",
+  },
+  {
+    latitude: 56.1365,
+    longitude: 40.3966,
+    size: 2,
+    tooltip: "25.42.199.234",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.244.77.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.126.162.73",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "196.42.241.19",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "74.150.165.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.219.178.78",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "129.228.21.44",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "235.199.65.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "13.140.166.212",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "85.217.121.65",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "242.185.200.57",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "139.147.233.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "40.240.31.228",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "6.91.142.138",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.102.10.166",
+  },
+  {
+    latitude: 54.2044,
+    longitude: 37.6111,
+    size: 2,
+    tooltip: "1.43.49.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.93.83.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "240.77.234.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.78.18.142",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "222.213.220.65",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.187.63.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.96.107.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "35.83.160.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.219.164.242",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.245.11.138",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "117.30.200.16",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "115.20.174.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.41.36.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "200.171.199.18",
+  },
+  {
+    latitude: 51.7227,
+    longitude: 55.3637,
+    size: 2,
+    tooltip: "173.254.88.122",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "119.242.223.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.122.30.149",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "237.3.10.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "22.131.246.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.83.19.250",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "7.29.163.36",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "31.184.109.57",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.202.199.159",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "25.171.219.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.229.128.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "201.213.171.129",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "97.153.179.198",
+  },
+  {
+    latitude: 51.5406,
+    longitude: 46.0086,
+    size: 2,
+    tooltip: "56.51.251.76",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "29.139.204.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "180.143.87.160",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.96.110.176",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.53.139.165",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "65.15.114.59",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "115.227.3.203",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "71.150.254.105",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "108.92.167.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.179.214.181",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "235.202.74.207",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.251.28.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.58.25.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.252.41.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "27.79.124.75",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "211.13.214.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.47.228.194",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "12.3.146.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.74.229.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.40.230.91",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "127.208.29.109",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "12.157.218.130",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "144.243.43.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "36.15.10.57",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "104.106.161.197",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "75.77.132.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.38.133.70",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "204.255.122.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "133.51.86.127",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "160.69.209.170",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.93.65.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "255.208.192.218",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "14.181.92.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.184.186.126",
+  },
+  {
+    latitude: 51.7373,
+    longitude: 36.1873,
+    size: 2,
+    tooltip: "75.125.227.97",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "178.166.224.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.107.70.74",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "102.185.5.167",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "32.19.49.169",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.144.148.228",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "12.180.143.3",
+  },
+  {
+    latitude: 55.5158,
+    longitude: 36.9725,
+    size: 2,
+    tooltip: "4.30.86.63",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "251.143.244.193",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "211.49.214.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "20.162.221.70",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "155.31.154.40",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "163.220.120.125",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "208.142.222.125",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "207.255.96.32",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.214.172.76",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "190.128.62.114",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "85.57.196.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.72.157.102",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "78.45.242.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "164.23.165.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.79.205.20",
+  },
+  {
+    latitude: 56.4977,
+    longitude: 84.9744,
+    size: 2,
+    tooltip: "222.248.49.32",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "176.213.6.140",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "27.98.97.190",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "243.13.58.124",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "137.103.232.39",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "31.55.130.40",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "138.98.220.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.173.148.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.122.149.62",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "113.178.224.4",
+  },
+  {
+    latitude: 55.7613,
+    longitude: 52.0649,
+    size: 2,
+    tooltip: "109.3.158.245",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "173.218.99.255",
+  },
+  {
+    latitude: 68.9792,
+    longitude: 33.0925,
+    size: 2,
+    tooltip: "66.73.37.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "13.113.26.224",
+  },
+  {
+    latitude: 51.5406,
+    longitude: 46.0086,
+    size: 2,
+    tooltip: "14.146.234.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.33.51.154",
+  },
+  {
+    latitude: 51.5,
+    longitude: -0.13,
+    size: 2,
+    tooltip: "11.209.139.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "248.19.37.24",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "114.87.96.1",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.40.7.148",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.164.136.28",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "189.96.150.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.214.148.121",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "75.56.188.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.184.148.202",
+  },
+  {
+    latitude: 57.376,
+    longitude: 39.5143,
+    size: 2,
+    tooltip: "224.36.166.35",
+  },
+  {
+    latitude: 64.5401,
+    longitude: 40.5433,
+    size: 2,
+    tooltip: "87.245.58.128",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "139.194.33.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "210.251.21.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.38.203.236",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.14.218.128",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "170.7.236.125",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.52.9.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "10.186.6.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.84.169.37",
+  },
+  {
+    latitude: 53.5303,
+    longitude: 49.3461,
+    size: 2,
+    tooltip: "23.38.214.177",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "193.161.133.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "138.51.81.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "35.23.1.215",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "131.181.51.62",
+  },
+  {
+    latitude: 55.1889,
+    longitude: 31.8111,
+    size: 2,
+    tooltip: "146.118.91.146",
+  },
+  {
+    latitude: 64.5401,
+    longitude: 40.5433,
+    size: 2,
+    tooltip: "83.31.92.136",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "247.219.224.142",
+  },
+  {
+    latitude: 59.637,
+    longitude: 150.9245,
+    size: 2,
+    tooltip: "81.102.208.46",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "89.227.85.6",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "25.136.76.122",
+  },
+  {
+    latitude: 51.7227,
+    longitude: 55.3637,
+    size: 2,
+    tooltip: "191.63.53.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.69.218.188",
+  },
+  {
+    latitude: 53.5303,
+    longitude: 49.3461,
+    size: 2,
+    tooltip: "246.242.126.231",
+  },
+  {
+    latitude: 37.9667,
+    longitude: 23.7167,
+    size: 2,
+    tooltip: "205.129.94.47",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "176.106.83.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.221.43.21",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.76.210.116",
+  },
+  {
+    latitude: 53.4186,
+    longitude: 59.0472,
+    size: 2,
+    tooltip: "137.135.213.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.223.219.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "67.31.228.33",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "144.186.196.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.111.253.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.40.228.20",
+  },
+  {
+    latitude: 51.9284,
+    longitude: 47.9172,
+    size: 2,
+    tooltip: "35.90.229.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.146.125.73",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "11.60.100.186",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.128.89.189",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "201.98.72.161",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "207.92.79.126",
+  },
+  {
+    latitude: 51.5,
+    longitude: 81.25,
+    size: 2,
+    tooltip: "43.52.100.200",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "138.211.110.61",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "227.197.75.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "105.181.95.95",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "243.82.144.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.215.160.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.154.248.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.215.169.72",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "65.156.78.63",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.178.162.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.164.212.95",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "185.80.51.79",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "132.211.221.192",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "217.44.2.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "233.201.195.193",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "245.36.220.220",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "20.240.177.3",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "183.93.0.224",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "53.8.102.209",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "42.193.182.210",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.180.80.73",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "82.209.0.185",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "239.145.197.30",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "178.222.23.38",
+  },
+  {
+    latitude: 55.9197,
+    longitude: 37.8281,
+    size: 2,
+    tooltip: "66.252.248.18",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.10.35.106",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "135.97.239.219",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "245.204.31.120",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "75.88.244.242",
+  },
+  {
+    latitude: 46.8452,
+    longitude: 40.3083,
+    size: 2,
+    tooltip: "82.196.12.198",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "60.43.171.237",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "163.73.56.222",
+  },
+  {
+    latitude: 55.6366,
+    longitude: 51.8245,
+    size: 2,
+    tooltip: "59.153.87.131",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.183.48.188",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "227.21.175.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.1.112.36",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.97.225.205",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.157.101.188",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "122.73.85.85",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "202.249.251.185",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "44.31.24.199",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.164.170.125",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.140.45.255",
+  },
+  {
+    latitude: 53.3,
+    longitude: 141.4667,
+    size: 2,
+    tooltip: "233.255.23.238",
+  },
+  {
+    latitude: 52.5724,
+    longitude: 36.3247,
+    size: 2,
+    tooltip: "131.161.220.63",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "105.75.32.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.22.146.7",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "166.2.232.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.140.152.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.82.45.142",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "57.13.11.222",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "36.173.153.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.236.7.5",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.140.242.63",
+  },
+  {
+    latitude: 56.9972,
+    longitude: 40.9714,
+    size: 2,
+    tooltip: "143.162.37.185",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.73.151.253",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "179.229.73.235",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "21.47.44.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.131.146.192",
+  },
+  {
+    latitude: 56.6369,
+    longitude: 47.8711,
+    size: 2,
+    tooltip: "190.175.74.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "7.133.17.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "57.82.103.176",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.55.2.93",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "68.121.3.173",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "8.108.126.106",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "237.70.115.95",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "239.44.162.9",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "31.151.211.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "69.54.59.184",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.131.85.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.126.99.28",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.132.164.80",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.248.35.231",
+  },
+  {
+    latitude: 56.1365,
+    longitude: 40.3966,
+    size: 2,
+    tooltip: "63.203.1.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.127.211.71",
+  },
+  {
+    latitude: 51.5142,
+    longitude: -0.0931,
+    size: 2,
+    tooltip: "95.144.21.198",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.127.66.90",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "206.166.155.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "83.197.5.223",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.255.72.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.143.32.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.19.40.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "6.18.155.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "203.107.170.234",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.101.184.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.7.232.245",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "118.45.65.142",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.155.181.74",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.66.190.197",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "42.26.255.237",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "172.189.207.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.102.60.241",
+  },
+  {
+    latitude: 55.1544,
+    longitude: 61.4297,
+    size: 2,
+    tooltip: "102.98.247.32",
+  },
+  {
+    latitude: 56.6369,
+    longitude: 47.8711,
+    size: 2,
+    tooltip: "71.156.181.174",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "127.240.180.117",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "142.10.64.150",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.65.179.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "216.220.191.183",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.37.241.215",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "232.186.208.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "84.28.196.191",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "233.212.34.48",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "113.219.13.126",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.165.35.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.29.151.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "31.98.17.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.226.112.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.114.60.212",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "180.119.223.33",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "117.2.249.147",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "221.115.124.25",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "59.54.143.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "21.85.7.13",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "225.104.82.67",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "154.219.144.194",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "98.142.189.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.42.254.108",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "59.204.1.227",
+  },
+  {
+    latitude: 55.0794,
+    longitude: 38.7783,
+    size: 2,
+    tooltip: "30.62.248.132",
+  },
+  {
+    latitude: 56.0184,
+    longitude: 92.8672,
+    size: 2,
+    tooltip: "236.81.217.47",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "149.40.195.221",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "8.254.207.212",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "101.185.90.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.114.120.153",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "156.184.132.9",
+  },
+  {
+    latitude: 55.4242,
+    longitude: 37.5547,
+    size: 2,
+    tooltip: "136.76.172.160",
+  },
+  {
+    latitude: 51.8833,
+    longitude: 38.5667,
+    size: 2,
+    tooltip: "220.166.103.6",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.48.204.167",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "173.182.51.144",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "255.73.12.217",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "70.87.33.20",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "28.15.176.141",
+  },
+  {
+    latitude: 55.3343,
+    longitude: 41.6295,
+    size: 2,
+    tooltip: "179.245.199.55",
+  },
+  {
+    latitude: 57.6198,
+    longitude: 39.8554,
+    size: 2,
+    tooltip: "220.74.76.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.251.91.139",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "125.164.117.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "115.178.252.122",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.103.192.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.165.252.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "89.79.102.116",
+  },
+  {
+    latitude: 55.5524,
+    longitude: 37.7097,
+    size: 2,
+    tooltip: "140.91.40.239",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "215.45.23.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "122.23.187.115",
+  },
+  {
+    latitude: 56.3952,
+    longitude: 38.7122,
+    size: 2,
+    tooltip: "33.96.250.234",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "40.29.235.51",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.173.113.215",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "99.149.222.95",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "92.177.101.51",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "96.26.49.156",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "150.89.122.113",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.187.156.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.80.41.113",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "145.50.16.48",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "46.87.193.88",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "227.8.30.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.180.231.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "75.27.215.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.241.246.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "119.224.30.31",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "230.247.163.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "156.225.93.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "222.244.0.203",
+  },
+  {
+    latitude: 54.1118,
+    longitude: 77.2186,
+    size: 2,
+    tooltip: "104.196.231.141",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "237.236.47.73",
+  },
+  {
+    latitude: 55.6769,
+    longitude: 37.2731,
+    size: 2,
+    tooltip: "113.43.65.128",
+  },
+  {
+    latitude: 57.8766,
+    longitude: 48.5103,
+    size: 2,
+    tooltip: "255.208.178.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.121.193.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.92.106.39",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "58.179.21.235",
+  },
+  {
+    latitude: 55.7611,
+    longitude: 37.8575,
+    size: 2,
+    tooltip: "209.133.16.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.229.101.229",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "251.237.167.144",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.218.92.154",
+  },
+  {
+    latitude: 56.8263,
+    longitude: 60.5388,
+    size: 2,
+    tooltip: "156.208.196.213",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "236.180.94.45",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "244.212.97.65",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.42.63.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "54.100.140.26",
+  },
+  {
+    latitude: 64.5722,
+    longitude: 39.8475,
+    size: 2,
+    tooltip: "29.200.103.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "200.247.183.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "191.21.227.144",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "208.3.19.48",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "42.179.92.187",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.64.132.91",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "147.150.117.172",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "120.123.195.68",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.228.2.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "97.195.114.106",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "48.99.159.155",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "137.83.86.79",
+  },
+  {
+    latitude: 56.8498,
+    longitude: 53.2045,
+    size: 2,
+    tooltip: "70.71.94.119",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "242.65.37.158",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "0.187.98.29",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.52.109.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "177.154.53.97",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "214.204.3.21",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "192.19.162.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.144.217.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.185.94.58",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "153.24.172.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.130.237.248",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "74.43.15.142",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "56.148.118.182",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "31.158.14.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.67.173.248",
+  },
+  {
+    latitude: 55.9089,
+    longitude: 37.7339,
+    size: 2,
+    tooltip: "93.75.227.145",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "255.175.21.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.173.82.41",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.106.253.112",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.247.184.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "236.189.139.71",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "14.55.119.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.198.252.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.163.208.49",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "253.121.156.232",
+  },
+  {
+    latitude: 61.7961,
+    longitude: 34.3493,
+    size: 2,
+    tooltip: "113.210.160.192",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "118.203.189.135",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "134.192.245.166",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "118.179.86.251",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "196.85.132.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "181.119.207.56",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "206.211.40.116",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "172.145.20.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.44.185.12",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "11.244.4.250",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "215.214.115.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "202.142.144.125",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "171.217.215.192",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "223.108.58.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.32.183.219",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "249.173.202.245",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "83.240.12.83",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "208.231.197.233",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "240.34.205.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.64.65.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "141.80.141.8",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.148.103.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "108.136.159.102",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "83.144.206.40",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "151.5.132.230",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "153.69.150.251",
+  },
+  {
+    latitude: 56.8575,
+    longitude: 60.6125,
+    size: 2,
+    tooltip: "187.242.7.73",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.175.147.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "253.15.105.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.143.88.189",
+  },
+  {
+    latitude: 49.4474,
+    longitude: 44.5259,
+    size: 2,
+    tooltip: "31.121.97.235",
+  },
+  {
+    latitude: 56.8605,
+    longitude: 35.876,
+    size: 2,
+    tooltip: "245.9.177.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.171.212.244",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "10.103.42.66",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "113.197.81.128",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.134.1.216",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "86.176.168.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.18.35.231",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "86.15.95.71",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.251.196.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.167.66.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.154.146.58",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.95.114.100",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "10.182.246.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.175.42.90",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "193.174.254.245",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "97.132.107.14",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.15.33.163",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "64.227.76.177",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "99.112.137.251",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "68.220.237.244",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.23.124.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.168.108.166",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "242.174.211.203",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "226.252.171.172",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "42.203.156.219",
+  },
+  {
+    latitude: 54.2044,
+    longitude: 37.6111,
+    size: 2,
+    tooltip: "83.37.151.69",
+  },
+  {
+    latitude: 45.4789,
+    longitude: 133.4282,
+    size: 2,
+    tooltip: "14.33.71.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.193.19.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.208.16.16",
+  },
+  {
+    latitude: 56.8619,
+    longitude: 35.8931,
+    size: 2,
+    tooltip: "145.19.199.168",
+  },
+  {
+    latitude: 55.1544,
+    longitude: 61.4297,
+    size: 2,
+    tooltip: "135.24.102.58",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "4.89.84.39",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "138.27.230.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.4.44.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.84.13.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "227.27.253.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.138.194.223",
+  },
+  {
+    latitude: 60.1703,
+    longitude: 30.1842,
+    size: 2,
+    tooltip: "240.38.15.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.227.11.170",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "62.209.40.56",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "140.186.209.68",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "153.205.88.194",
+  },
+  {
+    latitude: 55.678,
+    longitude: 37.2777,
+    size: 2,
+    tooltip: "188.34.216.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "131.20.224.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.22.195.155",
+  },
+  {
+    latitude: 54.7818,
+    longitude: 32.0401,
+    size: 2,
+    tooltip: "66.126.179.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.149.255.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "143.179.163.46",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "98.100.114.154",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "157.183.121.88",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "64.253.67.51",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "88.197.141.78",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "104.142.72.118",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "253.123.89.78",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "38.159.244.216",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.50.60.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "71.2.193.179",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "98.62.81.112",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "17.159.228.17",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "173.12.101.125",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.252.105.234",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "108.171.65.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.35.32.198",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "250.231.122.189",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "157.233.25.212",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "81.152.252.64",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.89.33.120",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "234.193.94.202",
+  },
+  {
+    latitude: 60.1547,
+    longitude: 59.9564,
+    size: 2,
+    tooltip: "99.184.107.124",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "17.135.248.85",
+  },
+  {
+    latitude: 55.1544,
+    longitude: 61.4297,
+    size: 2,
+    tooltip: "48.175.194.208",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "179.139.62.152",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "227.120.209.72",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "15.184.134.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.200.150.133",
+  },
+  {
+    latitude: 53.5303,
+    longitude: 49.3461,
+    size: 2,
+    tooltip: "193.207.141.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "190.5.140.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.230.33.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.64.37.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "1.193.129.15",
+  },
+  {
+    latitude: 54.2021,
+    longitude: 37.6443,
+    size: 2,
+    tooltip: "17.31.0.220",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "43.179.198.107",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "57.239.201.74",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "122.224.190.201",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "176.35.85.195",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "102.121.189.13",
+  },
+  {
+    latitude: 52.9651,
+    longitude: 36.0785,
+    size: 2,
+    tooltip: "87.121.47.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "23.11.193.31",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "251.248.173.62",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "172.133.225.104",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.79.39.16",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "15.158.39.116",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.32.132.147",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "133.128.161.139",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "119.157.76.226",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "46.174.136.38",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "39.235.139.4",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.216.196.46",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "182.4.45.189",
+  },
+  {
+    latitude: 61.6764,
+    longitude: 50.8099,
+    size: 2,
+    tooltip: "90.94.79.52",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "133.196.114.150",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "34.232.101.115",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.177.174.54",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.145.93.175",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "52.72.214.66",
+  },
+  {
+    latitude: 54.7852,
+    longitude: 56.0456,
+    size: 2,
+    tooltip: "177.89.90.190",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "136.235.136.64",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "223.4.17.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "245.58.88.178",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.56.166.111",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "204.243.38.182",
+  },
+  {
+    latitude: 46.6106,
+    longitude: 142.7939,
+    size: 2,
+    tooltip: "223.74.151.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.140.102.133",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.208.130.25",
+  },
+  {
+    latitude: 57.0291,
+    longitude: 40.3727,
+    size: 2,
+    tooltip: "199.44.69.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.225.143.62",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "204.87.158.64",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "207.4.139.92",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "192.11.43.13",
+  },
+  {
+    latitude: 55.678,
+    longitude: 37.2777,
+    size: 2,
+    tooltip: "246.243.100.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "167.152.19.18",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "139.85.157.29",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.134.146.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.247.249.25",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "104.212.171.42",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "22.164.104.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.189.182.44",
+  },
+  {
+    latitude: 45.0328,
+    longitude: 38.9769,
+    size: 2,
+    tooltip: "189.44.58.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.222.36.159",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "184.50.138.179",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.12.244.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.193.32.135",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "63.219.150.75",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "159.178.66.247",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.74.228.54",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "77.232.102.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "83.81.157.160",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.250.101.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.158.237.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.172.173.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "52.248.181.189",
+  },
+  {
+    latitude: 43.3083,
+    longitude: 45.7003,
+    size: 2,
+    tooltip: "248.15.202.211",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.139.192.31",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.173.195.223",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "173.14.8.198",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.230.39.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.204.143.31",
+  },
+  {
+    latitude: 54.7065,
+    longitude: 20.511,
+    size: 2,
+    tooltip: "6.9.249.20",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "207.178.179.193",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "183.74.69.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "150.188.0.234",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "148.157.227.131",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "48.13.116.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "0.196.164.226",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.37.175.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.218.129.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.248.58.78",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "3.127.196.103",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "83.248.41.179",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "219.172.123.254",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.204.26.65",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.215.110.106",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.45.233.3",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "146.78.223.121",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "239.102.117.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.38.228.241",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.142.170.202",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.69.1.41",
+  },
+  {
+    latitude: 52.731700000000004,
+    longitude: 41.4433,
+    size: 2,
+    tooltip: "158.151.197.31",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "0.240.233.26",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "254.236.115.69",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "251.86.155.91",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "217.192.48.117",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.73.173.106",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "89.240.123.156",
+  },
+  {
+    latitude: 55.0794,
+    longitude: 38.7783,
+    size: 2,
+    tooltip: "174.119.196.7",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "26.86.142.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.191.17.95",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "82.95.178.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "177.63.115.59",
+  },
+  {
+    latitude: 56.6664,
+    longitude: 124.6383,
+    size: 2,
+    tooltip: "31.90.107.193",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "134.230.25.177",
+  },
+  {
+    latitude: 46.3078,
+    longitude: 44.2558,
+    size: 2,
+    tooltip: "169.231.15.23",
+  },
+  {
+    latitude: 53.71,
+    longitude: 91.42,
+    size: 2,
+    tooltip: "246.192.102.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "251.0.242.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "90.206.54.233",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "254.173.201.222",
+  },
+  {
+    latitude: 54.3282,
+    longitude: 48.3866,
+    size: 2,
+    tooltip: "172.53.83.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "207.155.139.188",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "222.186.66.8",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "14.45.218.45",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "44.215.117.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "130.18.245.99",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "170.81.242.30",
+  },
+  {
+    latitude: 44.0486,
+    longitude: 43.0594,
+    size: 2,
+    tooltip: "168.82.221.169",
+  },
+  {
+    latitude: 44.6333,
+    longitude: 41.9444,
+    size: 2,
+    tooltip: "169.33.82.11",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "199.116.172.29",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "36.4.140.197",
+  },
+  {
+    latitude: 43.3083,
+    longitude: 45.7003,
+    size: 2,
+    tooltip: "232.236.107.246",
+  },
+  {
+    latitude: 56.1473,
+    longitude: 44.1979,
+    size: 2,
+    tooltip: "151.202.165.250",
+  },
+  {
+    latitude: 52.2978,
+    longitude: 104.2964,
+    size: 2,
+    tooltip: "194.59.133.38",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.195.10.152",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "62.206.107.169",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "253.140.65.107",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "85.27.255.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.192.77.157",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.108.130.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.202.22.66",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "185.56.254.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "2.134.195.200",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "230.170.143.118",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.185.181.3",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.198.91.243",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "192.4.187.115",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "73.132.243.80",
+  },
+  {
+    latitude: 61.2575,
+    longitude: 46.6496,
+    size: 2,
+    tooltip: "107.158.37.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "165.182.211.63",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "139.235.96.235",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "154.21.129.111",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.72.206.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "39.30.8.230",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "143.26.239.189",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.105.131.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "234.110.54.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.75.2.206",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "187.158.246.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "55.188.46.77",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "59.142.164.73",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "72.255.197.196",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.90.0.71",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.107.15.180",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "95.190.79.156",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.115.84.92",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "90.105.49.128",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "8.132.197.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.26.207.150",
+  },
+  {
+    latitude: 57.7665,
+    longitude: 40.9269,
+    size: 2,
+    tooltip: "210.52.24.235",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.96.117.228",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.245.140.127",
+  },
+  {
+    latitude: 54.5293,
+    longitude: 36.2754,
+    size: 2,
+    tooltip: "175.168.128.192",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "229.75.156.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "114.197.65.134",
+  },
+  {
+    latitude: 53.4186,
+    longitude: 59.0472,
+    size: 2,
+    tooltip: "54.15.124.229",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.27.54.170",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "32.254.14.46",
+  },
+  {
+    latitude: 56.6664,
+    longitude: 124.6383,
+    size: 2,
+    tooltip: "65.136.184.52",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "102.28.143.146",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "87.2.105.104",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "7.14.123.59",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "27.98.157.226",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "144.62.24.218",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "43.245.153.37",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "70.84.221.140",
+  },
+  {
+    latitude: 58.0093,
+    longitude: 56.2841,
+    size: 2,
+    tooltip: "98.222.114.189",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.152.7.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.158.180.245",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "111.88.214.27",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.98.20.50",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.167.56.182",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "0.188.118.221",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "213.46.50.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "115.90.149.67",
+  },
+  {
+    latitude: 54.5293,
+    longitude: 36.2754,
+    size: 2,
+    tooltip: "239.206.192.174",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "63.22.57.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.248.202.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "123.214.103.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "67.130.170.172",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "72.177.223.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "50.212.234.168",
+  },
+  {
+    latitude: 55.6383,
+    longitude: 51.8169,
+    size: 2,
+    tooltip: "40.92.12.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "128.229.75.36",
+  },
+  {
+    latitude: 54.3333,
+    longitude: 48.4,
+    size: 2,
+    tooltip: "54.64.24.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "134.172.66.246",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "97.107.220.143",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "138.190.75.94",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.201.12.242",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "119.189.9.235",
+  },
+  {
+    latitude: 54.6197,
+    longitude: 39.74,
+    size: 2,
+    tooltip: "67.158.74.66",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "82.202.122.71",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "27.103.255.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "72.206.145.35",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "142.191.209.245",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "46.99.61.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.42.131.24",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "239.216.53.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "232.233.162.243",
+  },
+  {
+    latitude: 55.7887,
+    longitude: 49.1221,
+    size: 2,
+    tooltip: "3.71.116.3",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "198.113.120.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "170.46.75.20",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.189.116.184",
+  },
+  {
+    latitude: 64.5401,
+    longitude: 40.5433,
+    size: 2,
+    tooltip: "178.247.180.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "51.153.130.143",
+  },
+  {
+    latitude: 58,
+    longitude: 56.25,
+    size: 2,
+    tooltip: "190.35.197.81",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "254.42.49.222",
+  },
+  {
+    latitude: 52.6031,
+    longitude: 39.5708,
+    size: 2,
+    tooltip: "237.59.150.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "125.141.141.160",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "101.244.129.67",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.72.201.42",
+  },
+  {
+    latitude: 51.4839,
+    longitude: 46.1053,
+    size: 2,
+    tooltip: "78.70.254.36",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "42.158.122.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.11.207.178",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "195.42.135.34",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "120.134.31.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "247.144.225.100",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.232.179.89",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.218.251.137",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "15.100.105.135",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "36.23.53.27",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "69.105.236.114",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "189.63.152.57",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "190.154.169.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.6.3.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "138.106.47.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "3.197.143.42",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "10.118.168.60",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "88.38.227.166",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "202.41.160.174",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "152.26.232.82",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "82.125.225.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "76.37.189.152",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "187.61.235.253",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "239.206.202.237",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.77.203.120",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "226.49.104.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.138.194.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.143.53.79",
+  },
+  {
+    latitude: 50.45,
+    longitude: 30.5233,
+    size: 2,
+    tooltip: "220.62.136.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.229.190.189",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "74.255.8.213",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "69.1.92.82",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "125.85.134.110",
+  },
+  {
+    latitude: 59.2187,
+    longitude: 39.8886,
+    size: 2,
+    tooltip: "79.188.104.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.84.34.3",
+  },
+  {
+    latitude: 51.672,
+    longitude: 39.1843,
+    size: 2,
+    tooltip: "26.50.245.160",
+  },
+  {
+    latitude: 52.731700000000004,
+    longitude: 41.4339,
+    size: 2,
+    tooltip: "93.124.230.130",
+  },
+  {
+    latitude: 55.897,
+    longitude: 37.4297,
+    size: 2,
+    tooltip: "216.125.229.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "162.3.158.64",
+  },
+  {
+    latitude: 56.1365,
+    longitude: 40.3966,
+    size: 2,
+    tooltip: "243.220.51.44",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "117.8.158.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.47.160.181",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "146.66.30.250",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "84.251.120.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "4.216.186.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "222.152.53.126",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "202.231.246.16",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.166.25.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "240.29.218.122",
+  },
+  {
+    latitude: 43.96,
+    longitude: 133.05,
+    size: 2,
+    tooltip: "58.84.76.101",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "250.192.77.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "151.230.114.136",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "91.234.131.110",
+  },
+  {
+    latitude: 55.154,
+    longitude: 61.4291,
+    size: 2,
+    tooltip: "112.147.79.41",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "79.194.238.246",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "173.123.70.154",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "155.196.83.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "100.62.199.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "194.240.130.204",
+  },
+  {
+    latitude: 44.0486,
+    longitude: 43.0594,
+    size: 2,
+    tooltip: "202.122.204.21",
+  },
+  {
+    latitude: 55,
+    longitude: 73.4,
+    size: 2,
+    tooltip: "60.237.131.135",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "215.54.201.221",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "58.189.151.169",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "6.155.140.214",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "95.98.53.110",
+  },
+  {
+    latitude: 56.6664,
+    longitude: 124.6383,
+    size: 2,
+    tooltip: "13.205.186.80",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "86.81.225.158",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "12.211.224.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "19.29.73.167",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "114.215.8.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "85.225.239.88",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "180.242.30.70",
+  },
+  {
+    latitude: 45.0488,
+    longitude: 38.9725,
+    size: 2,
+    tooltip: "120.170.202.218",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "24.157.238.24",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "105.153.5.183",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "154.74.130.34",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "133.203.243.63",
+  },
+  {
+    latitude: 42.9764,
+    longitude: 47.5024,
+    size: 2,
+    tooltip: "208.80.200.245",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "95.204.10.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "56.235.14.11",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.114.250.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.25.254.40",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "196.242.196.91",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "1.133.19.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.62.216.253",
+  },
+  {
+    latitude: 53.3606,
+    longitude: 83.7636,
+    size: 2,
+    tooltip: "152.235.89.209",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "178.25.165.180",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "153.190.187.49",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "105.208.230.83",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "1.226.141.151",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "9.100.62.57",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "112.81.247.49",
+  },
+  {
+    latitude: 51.5,
+    longitude: -0.13,
+    size: 2,
+    tooltip: "130.200.132.253",
+  },
+  {
+    latitude: 53.2521,
+    longitude: 34.3717,
+    size: 2,
+    tooltip: "201.127.57.147",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "199.62.167.101",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "200.225.140.207",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.211.168.149",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "36.250.147.203",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "157.128.182.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "216.62.18.175",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "109.123.25.145",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "176.133.169.214",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "150.167.238.72",
+  },
+  {
+    latitude: 43.5992,
+    longitude: 39.7257,
+    size: 2,
+    tooltip: "183.88.249.120",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "244.236.104.255",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "175.239.93.127",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "144.58.222.39",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "88.62.172.30",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.204.153.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "32.225.78.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "242.152.69.208",
+  },
+  {
+    latitude: 44.2233,
+    longitude: 42.0578,
+    size: 2,
+    tooltip: "35.29.108.13",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "4.201.82.223",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "70.1.61.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "215.203.129.214",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "210.185.0.230",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "73.91.151.199",
+  },
+  {
+    latitude: 58.1981,
+    longitude: 68.2546,
+    size: 2,
+    tooltip: "46.139.49.5",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "149.238.65.52",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "137.151.0.94",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "39.107.167.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.94.15.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "238.42.115.48",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "230.59.60.114",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "88.124.93.55",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "82.248.250.78",
+  },
+  {
+    latitude: 63.1667,
+    longitude: 75.6167,
+    size: 2,
+    tooltip: "2.57.105.68",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "19.171.162.130",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "18.76.140.244",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.240.91.53",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "30.138.176.47",
+  },
+  {
+    latitude: 57.7665,
+    longitude: 40.9269,
+    size: 2,
+    tooltip: "172.89.70.173",
+  },
+  {
+    latitude: 42.8138,
+    longitude: 132.8735,
+    size: 2,
+    tooltip: "199.132.164.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.22.108.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "26.48.212.81",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "96.110.75.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "131.198.17.214",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "224.76.205.48",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.136.219.82",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "100.196.115.164",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "27.153.170.188",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "213.55.106.9",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "78.167.247.87",
+  },
+  {
+    latitude: 55.752,
+    longitude: 37.615,
+    size: 2,
+    tooltip: "43.146.122.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "144.5.189.154",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "51.195.127.8",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "233.87.74.119",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "61.105.3.68",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "231.182.219.42",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "237.139.164.171",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "159.170.238.226",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "198.248.76.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "186.108.206.19",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "156.125.137.34",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "136.176.191.78",
+  },
+  {
+    latitude: 57.1522,
+    longitude: 65.5272,
+    size: 2,
+    tooltip: "199.13.66.238",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "154.155.76.110",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "55.141.229.172",
+  },
+  {
+    latitude: 43.6,
+    longitude: 39.7303,
+    size: 2,
+    tooltip: "174.39.163.95",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.150.29.217",
+  },
+  {
+    latitude: 53.4771,
+    longitude: 38.0354,
+    size: 2,
+    tooltip: "217.157.11.60",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "91.228.165.85",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.197.193.33",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "57.18.26.115",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "219.121.157.213",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "179.26.232.22",
+  },
+  {
+    latitude: 50.0833,
+    longitude: 14.4167,
+    size: 2,
+    tooltip: "170.153.192.10",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "191.30.235.242",
+  },
+  {
+    latitude: 55.0411,
+    longitude: 82.9344,
+    size: 2,
+    tooltip: "102.55.6.224",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "134.159.133.120",
+  },
+  {
+    latitude: 44.0486,
+    longitude: 43.0594,
+    size: 2,
+    tooltip: "112.87.179.17",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "192.128.59.144",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "127.67.239.232",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.233.181.75",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.11.128.162",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "195.46.97.217",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "18.55.103.61",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "37.85.155.172",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "128.23.43.189",
+  },
+  {
+    latitude: 50.5503,
+    longitude: 137.01,
+    size: 2,
+    tooltip: "238.214.60.33",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "254.23.248.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "253.191.189.128",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "133.21.24.76",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "193.199.218.176",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "8.173.189.121",
+  },
+  {
+    latitude: 59.9222,
+    longitude: 32.3381,
+    size: 2,
+    tooltip: "95.41.210.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "246.244.28.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "129.1.32.243",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "124.207.29.78",
+  },
+  {
+    latitude: 54.7605,
+    longitude: 38.8784,
+    size: 2,
+    tooltip: "220.81.14.169",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "58.95.199.156",
+  },
+  {
+    latitude: 56.0184,
+    longitude: 92.8672,
+    size: 2,
+    tooltip: "13.135.142.107",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "7.239.254.56",
+  },
+  {
+    latitude: 56.8519,
+    longitude: 60.6122,
+    size: 2,
+    tooltip: "252.60.238.136",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "98.154.213.23",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "73.215.55.98",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.171.75.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "157.77.76.11",
+  },
+  {
+    latitude: 53.2007,
+    longitude: 45.0046,
+    size: 2,
+    tooltip: "76.171.181.93",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "189.156.176.171",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "230.3.210.33",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "11.139.50.50",
+  },
+  {
+    latitude: 68.9717,
+    longitude: 33.0819,
+    size: 2,
+    tooltip: "115.165.0.50",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "21.29.9.71",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "41.168.194.176",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "101.91.74.230",
+  },
+  {
+    latitude: 58.5167,
+    longitude: 31.2833,
+    size: 2,
+    tooltip: "96.74.46.140",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "82.155.26.53",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "130.224.187.1",
+  },
+  {
+    latitude: 58.0446,
+    longitude: 38.8426,
+    size: 2,
+    tooltip: "133.6.180.195",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "207.161.118.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "167.28.34.161",
+  },
+  {
+    latitude: 43.6881,
+    longitude: 43.5369,
+    size: 2,
+    tooltip: "66.76.77.27",
+  },
+  {
+    latitude: 50.9158,
+    longitude: 128.4611,
+    size: 2,
+    tooltip: "146.130.152.26",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "121.78.93.22",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "195.181.21.84",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "221.170.152.79",
+  },
+  {
+    latitude: 51.3671,
+    longitude: 42.0849,
+    size: 2,
+    tooltip: "54.6.134.68",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "12.225.22.191",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "28.254.23.254",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "190.147.89.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "66.71.192.65",
+  },
+  {
+    latitude: 48.7194,
+    longitude: 44.5018,
+    size: 2,
+    tooltip: "152.132.50.34",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "58.202.226.156",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "36.220.234.167",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "218.246.61.192",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "96.58.229.26",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "89.252.115.97",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "118.15.147.53",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "243.56.208.145",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "110.158.48.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "127.130.137.60",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "220.172.1.78",
+  },
+  {
+    latitude: 54.6269,
+    longitude: 39.6916,
+    size: 2,
+    tooltip: "247.155.5.17",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "47.40.54.194",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "208.41.193.165",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "172.226.72.170",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "116.193.204.23",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "120.65.51.165",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "129.117.184.34",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "36.81.245.251",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "147.225.196.15",
+  },
+  {
+    latitude: 56.1365,
+    longitude: 40.3966,
+    size: 2,
+    tooltip: "25.181.22.5",
+  },
+  {
+    latitude: 56.3269,
+    longitude: 44.0075,
+    size: 2,
+    tooltip: "200.83.21.129",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "104.65.169.15",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "205.164.231.227",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "219.178.254.78",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "174.98.212.211",
+  },
+  {
+    latitude: 55.5096,
+    longitude: 47.4913,
+    size: 2,
+    tooltip: "200.193.44.124",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "168.140.140.136",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "186.77.175.199",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "214.200.134.2",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "93.79.159.46",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "14.53.175.16",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "64.199.26.49",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "35.72.190.204",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "163.100.225.48",
+  },
+  {
+    latitude: 54.2044,
+    longitude: 37.6111,
+    size: 2,
+    tooltip: "215.167.81.212",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "44.103.134.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "106.244.236.80",
+  },
+  {
+    latitude: 54.6197,
+    longitude: 39.74,
+    size: 2,
+    tooltip: "208.204.149.59",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "152.234.219.68",
+  },
+  {
+    latitude: 52.0317,
+    longitude: 113.5009,
+    size: 2,
+    tooltip: "176.51.241.199",
+  },
+  {
+    latitude: 52.0317,
+    longitude: 113.5009,
+    size: 2,
+    tooltip: "169.123.116.88",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "91.84.195.0",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "103.170.27.105",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "47.51.6.182",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "45.0.108.31",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "19.139.232.161",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "228.88.187.64",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "164.128.134.43",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "229.42.86.82",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "219.169.252.221",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "225.92.176.239",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "197.164.142.244",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "60.208.108.200",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "126.36.211.170",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "119.6.188.163",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "177.52.198.189",
+  },
+  {
+    latitude: 51.5,
+    longitude: 81.25,
+    size: 2,
+    tooltip: "76.166.151.69",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "113.4.165.14",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "249.126.12.134",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "105.176.240.19",
+  },
+  {
+    latitude: 51.5,
+    longitude: -0.13,
+    size: 2,
+    tooltip: "13.39.62.221",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "217.146.124.63",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "101.46.160.39",
+  },
+  {
+    latitude: 53.1835,
+    longitude: 50.1182,
+    size: 2,
+    tooltip: "71.9.94.169",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "236.99.233.3",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "34.125.134.141",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "238.191.118.53",
+  },
+  {
+    latitude: 55.3875,
+    longitude: 36.7331,
+    size: 2,
+    tooltip: "130.62.238.10",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "220.209.136.168",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "43.210.79.123",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "161.222.21.237",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "66.36.121.240",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "56.172.189.153",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "201.101.243.197",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "241.95.114.183",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "93.25.131.28",
+  },
+  {
+    latitude: 56.4185,
+    longitude: 61.9329,
+    size: 2,
+    tooltip: "123.238.68.95",
+  },
+  {
+    latitude: 55.9052,
+    longitude: 94.7537,
+    size: 2,
+    tooltip: "230.140.156.77",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "60.72.141.246",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "162.20.71.92",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "212.141.166.193",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "96.1.36.13",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "235.144.220.219",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "109.29.116.175",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "183.218.212.205",
+  },
+  {
+    latitude: 48.4827,
+    longitude: 135.0838,
+    size: 2,
+    tooltip: "178.155.153.225",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "160.128.91.69",
+  },
+  {
+    latitude: 45.3539,
+    longitude: 40.4105,
+    size: 2,
+    tooltip: "247.40.203.129",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "149.162.105.74",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "155.54.86.132",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "230.178.237.25",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "185.160.175.1",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "11.119.29.236",
+  },
+  {
+    latitude: 59.8944,
+    longitude: 30.2642,
+    size: 2,
+    tooltip: "252.83.70.61",
+  },
+  {
+    latitude: 47.2313,
+    longitude: 39.7233,
+    size: 2,
+    tooltip: "130.240.104.176",
+  },
+  {
+    latitude: 54.4564,
+    longitude: 48.0617,
+    size: 2,
+    tooltip: "224.215.48.107",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "248.21.194.101",
+  },
+  {
+    latitude: 50.6107,
+    longitude: 36.5802,
+    size: 2,
+    tooltip: "230.196.7.99",
+  },
+  {
+    latitude: 43.1211,
+    longitude: 131.9226,
+    size: 2,
+    tooltip: "37.242.186.175",
+  },
+  {
+    latitude: 55.4194,
+    longitude: 38.2708,
+    size: 2,
+    tooltip: "208.164.136.147",
+  },
+  {
+    latitude: 55.0415,
+    longitude: 82.9346,
+    size: 2,
+    tooltip: "250.41.32.39",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "214.179.103.162",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "29.53.213.248",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "245.153.111.199",
+  },
+  {
+    latitude: 68.9792,
+    longitude: 33.0925,
+    size: 2,
+    tooltip: "142.100.222.166",
+  },
+  {
+    latitude: 55.75,
+    longitude: 37.6166,
+    size: 2,
+    tooltip: "25.107.206.43",
+  },
+  {
+    latitude: 55.7522,
+    longitude: 37.6156,
+    size: 2,
+    tooltip: "210.123.215.213",
+  },
+];
