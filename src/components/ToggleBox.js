@@ -23,7 +23,9 @@ export default ({name, items, onChangeHandler, noColorBar=false}) => (
               checked={items[i].show}
               onChange={onChangeHandler(i)}
             />
+            <p style={{overflowWrap: "anywhere"}}>
             {items[i].name}
+            </p>
           </div>
           {!noColorBar ? <ColorBar data={[{color: barColors[i % barColors.length]}]}/> : ""}
 
